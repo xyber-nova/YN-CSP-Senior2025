@@ -1,0 +1,3506 @@
+|---目录： ./answers\YN-S00001
+   |---目录： ./answers\YN-S00001\club
+      |---文件：club.cpp(大小：1229 字节 MD5:aad3ad78e2c9dba0ea626ef503851167)
+   |---目录： ./answers\YN-S00001\employ
+      |---文件：employ.cpp(大小：659 字节 MD5:713a232ffdef26ab44f8f7758da90e45)
+   |---目录： ./answers\YN-S00001\replace
+      |---文件：replace.cpp(大小：501 字节 MD5:07b4ebbcb0d7ba92484f5fb4faeb2d0d)
+|---目录： ./answers\YN-S00002
+   |---目录： ./answers\YN-S00002\club
+      |---文件：club.cpp(大小：685 字节 MD5:f621fc6894593db60a56af0f5ce28739)
+   |---目录： ./answers\YN-S00002\replace
+      |---文件：replace.cpp(大小：365 字节 MD5:fb50899b8803d512c326b2023b31c1b9)
+   |---目录： ./answers\YN-S00002\road
+      |---文件：road.cpp(大小：501 字节 MD5:8302a849575d859618b6b5b8da22640b)
+|---目录： ./answers\YN-S00003
+   |---目录： ./answers\YN-S00003\club
+      |---文件：club.cpp(大小：780 字节 MD5:9642719627f14d46cea00eaf6ec9d185)
+   |---目录： ./answers\YN-S00003\empoly
+      |---文件：empoly.cpp(大小：295 字节 MD5:a385b730405a5b2e6dcc3a5df6d19517)
+   |---目录： ./answers\YN-S00003\replace
+      |---文件：replace.cpp(大小：139 字节 MD5:6693b901bca541ef6363759b4ec65e44)
+   |---目录： ./answers\YN-S00003\road
+      |---文件：road.cpp(大小：163 字节 MD5:63b7be0e8c4fea72dda9b165f406d6b5)
+|---目录： ./answers\YN-S00004
+   |---目录： ./answers\YN-S00004\club
+      |---文件：club.cpp(大小：1532 字节 MD5:509317018dde525e35e6e81ef9c78a99)
+   |---目录： ./answers\YN-S00004\employ
+      |---文件：employ.cpp(大小：348 字节 MD5:3aa0477239f414596ed9af0f158d0c3c)
+   |---目录： ./answers\YN-S00004\replace
+      |---文件：replace.cpp(大小：487 字节 MD5:6c5a9bd23ce4d8854a98bd1b71827c11)
+   |---目录： ./answers\YN-S00004\road
+      |---文件：road.cpp(大小：1448 字节 MD5:eeb5f2f76f9c346e7dc12ffbc143092c)
+|---目录： ./answers\YN-S00005
+   |---目录： ./answers\YN-S00005\club
+      |---文件：club.cpp(大小：285 字节 MD5:fdb690b22d02cb9bcc2cad8fbc495b08)
+   |---目录： ./answers\YN-S00005\employ
+      |---文件：employ.cpp(大小：318 字节 MD5:aaa24d8d6c69400845ae441c307c82cf)
+   |---目录： ./answers\YN-S00005\replace
+      |---文件：replace.cpp(大小：246 字节 MD5:feced79cba5bf560c595338162087c70)
+   |---目录： ./answers\YN-S00005\road
+      |---文件：road.cpp(大小：245 字节 MD5:8fa62d14b1d041f5d1178a58c1d09fcd)
+|---目录： ./answers\YN-S00006
+   |---目录： ./answers\YN-S00006\club
+      |---文件：club.cpp(大小：327 字节 MD5:75849a31da455bd853c05a6cbff88ae4)
+   |---目录： ./answers\YN-S00006\employ
+      |---文件：employ.cpp(大小：139 字节 MD5:d30c363b17d99c1ff873747dbc5341ea)
+   |---目录： ./answers\YN-S00006\replace
+      |---文件：replace.cpp(大小：139 字节 MD5:0f575ee331417bd58c495f4325c12b3f)
+   |---目录： ./answers\YN-S00006\road
+      |---文件：road.cpp(大小：513 字节 MD5:23858de8491870b2aa0c93fb05b7f99f)
+|---目录： ./answers\YN-S00007
+   |---目录： ./answers\YN-S00007\club
+      |---文件：club.cpp(大小：2728 字节 MD5:89f12b758b55763e392a0cae933ca514)
+   |---目录： ./answers\YN-S00007\employ
+      |---文件：employ.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00007\replace
+      |---文件：replace.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00007\road
+      |---文件：road.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+|---目录： ./answers\YN-S00008
+   |---目录： ./answers\YN-S00008\club
+      |---文件：club.cpp(大小：1918 字节 MD5:91986378dc45d98d0d4f681b432d1435)
+|---目录： ./answers\YN-S00009
+   |---目录： ./answers\YN-S00009\club
+      |---文件：club.cpp(大小：1082 字节 MD5:7a2a16787f688fb23f32b850fa831434)
+   |---目录： ./answers\YN-S00009\employ
+      |---文件：employ.cpp(大小：192 字节 MD5:2782fae0ccd8f6a9a9b798b4deaaa787)
+   |---目录： ./answers\YN-S00009\replace
+      |---文件：replace.cpp(大小：208 字节 MD5:6496b33cdd6c80824462b03fba222b53)
+   |---目录： ./answers\YN-S00009\road
+      |---文件：road.cpp(大小：188 字节 MD5:242884cb9e77df0ac93bac023b0fe170)
+|---目录： ./answers\YN-S00010
+   |---目录： ./answers\YN-S00010\club
+      |---文件：club.cpp(大小：1157 字节 MD5:99931c2bf0022015ccd68c6588ebae18)
+   |---目录： ./answers\YN-S00010\employ
+      |---文件：employ.cpp(大小：349 字节 MD5:48bc3e537d6f053657e47db1a121230f)
+   |---目录： ./answers\YN-S00010\road
+      |---文件：road.cpp(大小：1053 字节 MD5:47b94c344ef6fb86d58414d6516eda76)
+|---目录： ./answers\YN-S00011
+   |---目录： ./answers\YN-S00011\club
+      |---文件：club.cpp(大小：1963 字节 MD5:572a404ecbf6debfbfdd96f2558f1594)
+   |---目录： ./answers\YN-S00011\employ
+   |---目录： ./answers\YN-S00011\replace
+   |---目录： ./answers\YN-S00011\road
+      |---文件：road.cpp(大小：935 字节 MD5:ab29c720a0e6f5697ca9e6340130e156)
+|---目录： ./answers\YN-S00012
+   |---目录： ./answers\YN-S00012\club
+      |---文件：club.cpp(大小：1886 字节 MD5:155e293d454306889a3e0e7423860df1)
+   |---目录： ./answers\YN-S00012\employ
+      |---文件：employ.cpp(大小：166 字节 MD5:cc85210e9a384a74fa059bfba08a31fc)
+   |---目录： ./answers\YN-S00012\replace
+      |---文件：replace.cpp(大小：428 字节 MD5:d28d6cb6cc770b3581678691e68e3107)
+   |---目录： ./answers\YN-S00012\road
+      |---文件：road.cpp(大小：182 字节 MD5:f1201d56b384d5da4e14a4b81185ed5d)
+|---目录： ./answers\YN-S00013
+   |---目录： ./answers\YN-S00013\club
+      |---文件：club.cpp(大小：959 字节 MD5:2b8d932dbcc05959a50e9c58e13933e1)
+   |---目录： ./answers\YN-S00013\employ
+      |---文件：employ.cpp(大小：284 字节 MD5:e91c9eb9421ccc532358e3033587f3b7)
+   |---目录： ./answers\YN-S00013\replace
+      |---文件：replace.cpp(大小：425 字节 MD5:07d3f0537185a95eedcf6ea5e544ccbf)
+   |---目录： ./answers\YN-S00013\road
+      |---文件：road.cpp(大小：429 字节 MD5:c14628c43f04bafe9df4d871ef5dc5c5)
+|---目录： ./answers\YN-S00014
+   |---目录： ./answers\YN-S00014\club
+      |---文件：club.cpp(大小：3078 字节 MD5:fc398b94d759f10b10aea03845aaabed)
+   |---目录： ./answers\YN-S00014\employ
+      |---文件：employ.cpp(大小：822 字节 MD5:a73126723111a25efa4edafebe5a7099)
+   |---目录： ./answers\YN-S00014\replace
+      |---文件：replace.cpp(大小：1039 字节 MD5:5c6001a7ebdfe3caa130caca3330c335)
+   |---目录： ./answers\YN-S00014\road
+      |---文件：road.cpp(大小：1931 字节 MD5:8f12b51582cfd690a839b6160cd34cec)
+|---目录： ./answers\YN-S00015
+   |---目录： ./answers\YN-S00015\club
+      |---文件：club.cpp(大小：3848 字节 MD5:e039c732d65a41d36290c2504e015aba)
+|---目录： ./answers\YN-S00016
+   |---目录： ./answers\YN-S00016\club
+      |---文件：club.cpp(大小：2909 字节 MD5:a52b4addbc773e6f87fa8360d1d285fb)
+   |---目录： ./answers\YN-S00016\employ
+      |---文件：employ.cpp(大小：277 字节 MD5:104994fa548e4e80d7d8887fc4d3508c)
+   |---目录： ./answers\YN-S00016\replace
+      |---文件：replace.cpp(大小：323 字节 MD5:9ddd0bf74ff539e39d5b2b4408af36e4)
+   |---目录： ./answers\YN-S00016\road
+      |---文件：road.cpp(大小：276 字节 MD5:4981b22b9c1f0121bf5ea5f2913a9527)
+|---目录： ./answers\YN-S00017
+   |---目录： ./answers\YN-S00017\club
+      |---文件：club.cpp(大小：865 字节 MD5:78d6983956ad4e10b1d08d4a3a2daf74)
+   |---目录： ./answers\YN-S00017\employ
+      |---文件：employ.cpp(大小：659 字节 MD5:0c05b2cdaa7b2f2dd0ac99ca97fa30c4)
+   |---目录： ./answers\YN-S00017\replace
+      |---文件：replace.cpp(大小：726 字节 MD5:b673cee4434af7d9f54d45c0f71e10e8)
+   |---目录： ./answers\YN-S00017\road
+      |---文件：rode.cpp(大小：469 字节 MD5:7df18c643de103999d636b5d087cd032)
+|---目录： ./answers\YN-S00018
+   |---目录： ./answers\YN-S00018\club
+      |---文件：club.cpp(大小：2818 字节 MD5:d567dcbfd3729982e891d737b0661f11)
+   |---目录： ./answers\YN-S00018\employ
+      |---文件：employ.cpp(大小：165 字节 MD5:73737ddddff18bcb179751cd2416370b)
+   |---目录： ./answers\YN-S00018\replace
+      |---文件：replace.cpp(大小：1106 字节 MD5:3e2867f420b62e19ba65a22a9ae82507)
+   |---目录： ./answers\YN-S00018\road
+      |---文件：road.cpp(大小：161 字节 MD5:b298e2471c8c51e3c35a0c2e47b41ff7)
+|---目录： ./answers\YN-S00019
+   |---目录： ./answers\YN-S00019\club
+      |---文件：club.cpp(大小：1844 字节 MD5:8fc24dbe699030f3781d50ddbfa85331)
+   |---目录： ./answers\YN-S00019\employ
+   |---目录： ./answers\YN-S00019\replace
+   |---目录： ./answers\YN-S00019\road
+|---目录： ./answers\YN-S00020
+   |---目录： ./answers\YN-S00020\club
+      |---文件：club.cpp(大小：254 字节 MD5:48adba83f4844d801b0096d980c019bf)
+   |---目录： ./answers\YN-S00020\employ
+      |---文件：employ.cpp(大小：208 字节 MD5:ea14a39aa1c37401e1e7277b7f86eb32)
+   |---目录： ./answers\YN-S00020\replace
+      |---文件：replace.cpp(大小：231 字节 MD5:2076332faccd38751553b88c619e02d8)
+   |---目录： ./answers\YN-S00020\road
+      |---文件：road.cpp(大小：215 字节 MD5:4b7608fe60bc3811ecf5509135d9a74e)
+|---目录： ./answers\YN-S00021
+   |---目录： ./answers\YN-S00021\club
+      |---文件：club.cpp(大小：692 字节 MD5:3b8a93df9b915ad69b54779ec7c55163)
+|---目录： ./answers\YN-S00022
+   |---目录： ./answers\YN-S00022\club
+      |---文件：club.cpp(大小：3006 字节 MD5:fd5d231ad1845aee6f140d132297d9ea)
+   |---目录： ./answers\YN-S00022\employ
+      |---文件：employ.cpp(大小：314 字节 MD5:96c9258e5895895f77f32df3cf9a05d2)
+   |---目录： ./answers\YN-S00022\replace
+      |---文件：replace.cpp(大小：394 字节 MD5:0a229c906deb13b8885519a458258f27)
+   |---目录： ./answers\YN-S00022\road
+      |---文件：road.cpp(大小：870 字节 MD5:a21ca0195220305c7b6d253a791882b9)
+      |---文件：Thumbs.db(大小：103424 字节 MD5:a6726992a4c2451c85a96ec2da797b59)
+|---目录： ./answers\YN-S00023
+   |---目录： ./answers\YN-S00023\club
+      |---文件：club.cpp(大小：1130 字节 MD5:acd8cee7647f1b310bb87f862ad2eed0)
+   |---目录： ./answers\YN-S00023\employ
+      |---文件：employ.cpp(大小：412 字节 MD5:db714d719621d801f2367f52fab4bfab)
+   |---目录： ./answers\YN-S00023\replace
+      |---文件：replace.cpp(大小：335 字节 MD5:ae49314978c06ce2040e1a9c0200211d)
+   |---目录： ./answers\YN-S00023\road
+      |---文件：road.cpp(大小：1006 字节 MD5:0d5a6420663e88bffbd94ed07a6e3e79)
+|---目录： ./answers\YN-S00024
+   |---目录： ./answers\YN-S00024\club
+      |---文件：club.cpp(大小：1161 字节 MD5:ae6d62978afa6afe374dea72cab79aec)
+   |---目录： ./answers\YN-S00024\employ
+   |---目录： ./answers\YN-S00024\replace
+      |---文件：replace.cpp(大小：2565 字节 MD5:2ea24223ca0e0cef2d63b4ea6b0045ea)
+   |---目录： ./answers\YN-S00024\road
+      |---文件：road.cpp(大小：3111 字节 MD5:4b8f04e251e95a27cb3b5f9eb4738912)
+|---目录： ./answers\YN-S00025
+   |---目录： ./answers\YN-S00025\club
+      |---文件：club.cpp(大小：697 字节 MD5:ab0d2b7c2b90dc2d16b05f68a43b8f4f)
+   |---目录： ./answers\YN-S00025\employ
+      |---文件：employ.cpp(大小：1108 字节 MD5:f340aaff7218591d6f6621669913da47)
+   |---目录： ./answers\YN-S00025\replace
+      |---文件：replace.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00025\road
+      |---文件：road.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+|---目录： ./answers\YN-S00026
+   |---目录： ./answers\YN-S00026\club
+      |---文件：club.cpp(大小：1340 字节 MD5:11752287d0361b121e5ce9af664b8f42)
+   |---目录： ./answers\YN-S00026\employ
+      |---文件：employ.cpp(大小：1090 字节 MD5:e340e8db72c33d7947aeea81a0b840cf)
+   |---目录： ./answers\YN-S00026\road
+      |---文件：road.cpp(大小：442 字节 MD5:d1944b77a8e90d46c839aa03383aa26e)
+|---目录： ./answers\YN-S00027
+   |---目录： ./answers\YN-S00027\club
+      |---文件：club.cpp(大小：439 字节 MD5:3aaa43f033cdf945ce15e4063f3be71d)
+   |---目录： ./answers\YN-S00027\employ
+      |---文件：employ.cpp(大小：214 字节 MD5:6df7d19ece96b8bf43226a52d48de48b)
+   |---目录： ./answers\YN-S00027\replace
+      |---文件：replace.cpp(大小：233 字节 MD5:c071db2f5ae620cb9c85ce78243cb225)
+   |---目录： ./answers\YN-S00027\road
+      |---文件：road.cpp(大小：587 字节 MD5:54b1bcb0757e56c87cfcced737764706)
+|---目录： ./answers\YN-S00028
+   |---目录： ./answers\YN-S00028\club
+      |---文件：club.cpp(大小：895 字节 MD5:05daa17468ba06b86f67d50e9e90c63a)
+   |---目录： ./answers\YN-S00028\employ
+      |---文件：employ.cpp(大小：706 字节 MD5:3ff489a881581a6cd5a88435a1393ef1)
+   |---目录： ./answers\YN-S00028\replace
+      |---文件：replace.cpp(大小：1159 字节 MD5:f70da01aaba200c72b5d6a684fbbd0dc)
+   |---目录： ./answers\YN-S00028\road
+      |---文件：road.cpp(大小：649 字节 MD5:12bb862bd1226bfd8464e7d305df5d30)
+|---目录： ./answers\YN-S00029
+   |---目录： ./answers\YN-S00029\club
+      |---文件：club.cpp(大小：2715 字节 MD5:9d00e78919a8ddfa95c2d46b38277539)
+   |---目录： ./answers\YN-S00029\employ
+      |---文件：employ.cpp(大小：773 字节 MD5:7f1c119106f35ab68d5dba0c6026b7ba)
+   |---目录： ./answers\YN-S00029\road
+      |---文件：road.cpp(大小：2919 字节 MD5:c40ed8a53eccb9c189eebff836caa13b)
+|---目录： ./answers\YN-S00030
+   |---目录： ./answers\YN-S00030\club
+      |---文件：club.cpp(大小：970 字节 MD5:ea0868f78acc68db7aafc0433642dc79)
+   |---目录： ./answers\YN-S00030\employ
+      |---文件：employ.cpp(大小：365 字节 MD5:6410debf3b4479304880df20f11c2870)
+   |---目录： ./answers\YN-S00030\replace
+      |---文件：replace.cpp(大小：336 字节 MD5:5adf4379f46a394550aa687f0692f718)
+   |---目录： ./answers\YN-S00030\road
+      |---文件：road.cpp(大小：733 字节 MD5:966fb6161e925f8bcbf3c078b061bdbf)
+|---目录： ./answers\YN-S00031
+   |---目录： ./answers\YN-S00031\club
+      |---文件：club.cpp(大小：1716 字节 MD5:094387b88c3462eacb1e59082203ed7b)
+   |---目录： ./answers\YN-S00031\employ
+      |---文件：employ.cpp(大小：1083 字节 MD5:af253e86f9fcfddbf109f20760a909f8)
+   |---目录： ./answers\YN-S00031\replace
+      |---文件：replace.cpp(大小：475 字节 MD5:4c993d03c7c90a4b12bc87b083ec3f1e)
+   |---目录： ./answers\YN-S00031\road
+      |---文件：road.cpp(大小：1030 字节 MD5:8c2aa02d20e557a9da9aa9d94aa0d71c)
+|---目录： ./answers\YN-S00033
+   |---目录： ./answers\YN-S00033\club
+      |---文件：club.cpp(大小：1328 字节 MD5:30a2e6bafe68541b5bcaccc591d7fbef)
+   |---目录： ./answers\YN-S00033\employ
+      |---文件：employ.cpp(大小：566 字节 MD5:59cdc46263a042b764b0c09f20f24fb2)
+   |---目录： ./answers\YN-S00033\replace
+      |---文件：replace.cpp(大小：1809 字节 MD5:aed451140bafc562c73423e29394bc44)
+   |---目录： ./answers\YN-S00033\road
+      |---文件：road.cpp(大小：274 字节 MD5:65016add16b7fe18a5f7c4f92fac9611)
+|---目录： ./answers\YN-S00034
+   |---目录： ./answers\YN-S00034\club
+      |---文件：club.cpp(大小：1307 字节 MD5:bc0afe061dc3465bc3f4c51e1f3031b7)
+   |---目录： ./answers\YN-S00034\employ
+      |---文件：employ.cpp(大小：522 字节 MD5:3d71ed1126762ef71a60874d9c09a17d)
+   |---目录： ./answers\YN-S00034\replace
+      |---文件：replace.cpp(大小：347 字节 MD5:d2e4fd0a0e67c98ba7f6d6809289c268)
+   |---目录： ./answers\YN-S00034\road
+      |---文件：road.cpp(大小：692 字节 MD5:dba1b018c45367e2836aeb35a18e37ce)
+|---目录： ./answers\YN-S00035
+   |---目录： ./answers\YN-S00035\club
+      |---文件：club.cpp(大小：351 字节 MD5:84e997486c77aca52ae1d49148d764ed)
+|---目录： ./answers\YN-S00036
+   |---目录： ./answers\YN-S00036\club
+      |---文件：club.cpp(大小：1469 字节 MD5:de87596e867f22e11e82b4107cb35319)
+   |---目录： ./answers\YN-S00036\employ
+   |---目录： ./answers\YN-S00036\replace
+      |---文件：replace.cpp(大小：853 字节 MD5:5d1186cab526f6078624cccb069e077e)
+   |---目录： ./answers\YN-S00036\road
+|---目录： ./answers\YN-S00037
+   |---目录： ./answers\YN-S00037\clud
+      |---文件：club.cpp(大小：490 字节 MD5:a955b4b6bb4fa1cbf7891a4cd5955be5)
+   |---目录： ./answers\YN-S00037\employ
+   |---目录： ./answers\YN-S00037\replace
+   |---目录： ./answers\YN-S00037\road
+|---目录： ./answers\YN-S00038
+   |---目录： ./answers\YN-S00038\club
+      |---文件：club.cpp(大小：691 字节 MD5:7a886d1b44de5a01b6b2fce567428698)
+   |---目录： ./answers\YN-S00038\employ
+      |---文件：employ.cpp(大小：330 字节 MD5:aa26a767d294184084f2deab0646148e)
+   |---目录： ./answers\YN-S00038\replace
+      |---文件：replace.cpp(大小：331 字节 MD5:b9d99da7f9f132711c8080b3ae839f29)
+   |---目录： ./answers\YN-S00038\road
+      |---文件：road.cpp(大小：1072 字节 MD5:a9786a1003e7bbec4cebb2138f022ad3)
+|---目录： ./answers\YN-S00039
+   |---目录： ./answers\YN-S00039\club
+      |---文件：club.cpp(大小：512 字节 MD5:eb233392d655fec8110dd0dede1f340f)
+|---目录： ./answers\YN-S00040
+   |---目录： ./answers\YN-S00040\club
+      |---文件：club.cpp(大小：2439 字节 MD5:dfbd7e2208f28816df8a850d3813801a)
+   |---目录： ./answers\YN-S00040\employ
+   |---目录： ./answers\YN-S00040\replace
+   |---目录： ./answers\YN-S00040\road
+      |---文件：road.cpp(大小：2198 字节 MD5:1f2776b3d03929283f3e0b23625d1c2a)
+|---目录： ./answers\YN-S00041
+   |---目录： ./answers\YN-S00041\club
+      |---文件：club.cpp(大小：569 字节 MD5:b155e4117a6fbf0436f07eb85891cba5)
+   |---目录： ./answers\YN-S00041\road
+      |---文件：road.cpp(大小：145 字节 MD5:783e424ef533cb0614569e8d2f4fbb63)
+|---目录： ./answers\YN-S00042
+   |---目录： ./answers\YN-S00042\club
+      |---文件：club.cpp(大小：988 字节 MD5:c6b2ac229acc27e9b09d5da3b2c306ca)
+   |---目录： ./answers\YN-S00042\employ
+      |---文件：employ.cpp(大小：539 字节 MD5:e916c4a1d26d655f86af1dfccc1df29e)
+   |---目录： ./answers\YN-S00042\replace
+      |---文件：replace.cpp(大小：724 字节 MD5:bc6c1f27eef3108de8404e1098272f18)
+   |---目录： ./answers\YN-S00042\road
+      |---文件：road.cpp(大小：1570 字节 MD5:387093da00f563ac3265828aaa0ab385)
+|---目录： ./answers\YN-S00043
+   |---目录： ./answers\YN-S00043\club
+      |---文件：club.cpp(大小：1255 字节 MD5:c26c16efef03706c082eda858f60d2a5)
+   |---目录： ./answers\YN-S00043\road
+      |---文件：road.cpp(大小：3628 字节 MD5:3c261b22be6aa25b491027d723aecdf4)
+|---目录： ./answers\YN-S00044
+   |---目录： ./answers\YN-S00044\club
+      |---文件：club.cpp(大小：794 字节 MD5:b5f9533ee3aebc7c8b6a63a97a35e2a6)
+   |---目录： ./answers\YN-S00044\employ
+      |---文件：employ.cpp(大小：203 字节 MD5:025c222439b31cffb6982896aa05f14e)
+   |---目录： ./answers\YN-S00044\replace
+      |---文件：replace.cpp(大小：224 字节 MD5:11a1a4062636a72e7c74f0dbd8c5675e)
+   |---目录： ./answers\YN-S00044\road
+      |---文件：road.cpp(大小：204 字节 MD5:f7f3a96c2ac35a9391d1ecc7c2ae921c)
+|---目录： ./answers\YN-S00045
+   |---目录： ./answers\YN-S00045\club
+      |---文件：club.cpp(大小：296 字节 MD5:469393970269d99674e1b8397ff015e5)
+      |---文件：Thumbs.db(大小：32256 字节 MD5:3ca9fc2a619efd2f0cf017a2ea72b8bd)
+   |---目录： ./answers\YN-S00045\employ
+      |---文件：employ.cpp(大小：444 字节 MD5:ff50db13fcbc38e54a864676c4d28e6d)
+   |---文件：Thumbs.db(大小：32256 字节 MD5:ebbdc848954a0049be5373996c3efebf)
+|---目录： ./answers\YN-S00046
+   |---目录： ./answers\YN-S00046\club
+      |---文件：club.cpp(大小：3439 字节 MD5:77732585400c06b7f2266a4821e63140)
+|---目录： ./answers\YN-S00047
+   |---目录： ./answers\YN-S00047\club
+      |---文件：club.cpp(大小：1515 字节 MD5:f7b0f2b818b137c5427d9ff4af552213)
+   |---目录： ./answers\YN-S00047\employ
+   |---目录： ./answers\YN-S00047\replace
+   |---目录： ./answers\YN-S00047\road
+|---目录： ./answers\YN-S00048
+   |---目录： ./answers\YN-S00048\club
+      |---文件：club.cpp(大小：3181 字节 MD5:e635c3fbf2a8459f0b61d1938f186ea8)
+   |---目录： ./answers\YN-S00048\employ
+      |---文件：employ.cpp(大小：354 字节 MD5:272b34af9959aca85c1d8d3e6e466ad6)
+   |---目录： ./answers\YN-S00048\replace
+      |---文件：replace.cpp(大小：449 字节 MD5:d6c12e376d2120aff13eb2a4a4a3b768)
+   |---目录： ./answers\YN-S00048\road
+      |---文件：road.cpp(大小：458 字节 MD5:e68f778f01944ddeb051abc0f0a10c45)
+|---目录： ./answers\YN-S00049
+   |---目录： ./answers\YN-S00049\club
+      |---文件：club.cpp(大小：3313 字节 MD5:a4e9a0451da7e5b87d06e1d6bc723937)
+   |---目录： ./answers\YN-S00049\employ
+      |---文件：employ.cpp(大小：166 字节 MD5:549d3f4c8d48e8a04a12e8579a45596d)
+   |---目录： ./answers\YN-S00049\replace
+      |---文件：replace.cpp(大小：207 字节 MD5:3939ebc126b70e82919105581b0f953c)
+   |---目录： ./answers\YN-S00049\road
+      |---文件：road.cpp(大小：161 字节 MD5:88828632038a2b730193b34454def97a)
+|---目录： ./answers\YN-S00050
+   |---目录： ./answers\YN-S00050\club
+      |---文件：club.cpp(大小：297 字节 MD5:0cc70aae5b7a741889a077b05d4bc229)
+   |---目录： ./answers\YN-S00050\employ
+      |---文件：employ.cpp(大小：335 字节 MD5:5cbcb740ccb20fa3f886b26a7dcba09b)
+   |---目录： ./answers\YN-S00050\replace
+      |---文件：replace.cpp(大小：164 字节 MD5:63655dc66feb5893e7c1ecf2531c603b)
+   |---目录： ./answers\YN-S00050\road
+      |---文件：road.cpp(大小：361 字节 MD5:2b5d48788fa143af24eaf48e73f6c57e)
+|---目录： ./answers\YN-S00051
+   |---目录： ./answers\YN-S00051\club
+      |---文件：club.cpp(大小：692 字节 MD5:caa3b24028e7c9979537aa9d80e59f62)
+   |---目录： ./answers\YN-S00051\employ
+      |---文件：employ.cpp(大小：173 字节 MD5:fa1be172b078fa9c33d14218e758dacd)
+   |---目录： ./answers\YN-S00051\replace
+      |---文件：replace.cpp(大小：172 字节 MD5:7189924dec5260b0a13a1a42af38bb65)
+   |---目录： ./answers\YN-S00051\road
+      |---文件：road.cpp(大小：166 字节 MD5:745ba127fc1899a89c7013ee685b9bb1)
+|---目录： ./answers\YN-S00052
+   |---目录： ./answers\YN-S00052\club
+      |---文件：club.cpp(大小：869 字节 MD5:98f458b49ff61bc04a4825b6206a89b9)
+   |---目录： ./answers\YN-S00052\employ
+      |---文件：employ.cpp(大小：240 字节 MD5:cfa63fcff5abfcbfcbe0c576f3bbf04c)
+   |---目录： ./answers\YN-S00052\replace
+      |---文件：replace.cpp(大小：522 字节 MD5:b5863395e547506b28225190dfb551c7)
+   |---目录： ./answers\YN-S00052\road
+      |---文件：road.cpp(大小：215 字节 MD5:8e1ddd362ef19be2827f9cf446368b9d)
+|---目录： ./answers\YN-S00053
+   |---目录： ./answers\YN-S00053\club
+      |---文件：club.cpp(大小：1505 字节 MD5:e568578cb5a765beb612f69b7e533b9b)
+   |---目录： ./answers\YN-S00053\employ
+   |---目录： ./answers\YN-S00053\replace
+      |---文件：replace.cpp(大小：278 字节 MD5:64b87be5393f515536a7f810f64db60c)
+   |---目录： ./answers\YN-S00053\road
+      |---文件：road.cpp(大小：1244 字节 MD5:d8bc7fd64b674c0bdeb08191dba62f0c)
+|---目录： ./answers\YN-S00054
+   |---目录： ./answers\YN-S00054\club
+      |---文件：club.cpp(大小：1285 字节 MD5:fc7e8218dd6e44395fdf0715e06f026f)
+   |---目录： ./answers\YN-S00054\employ
+      |---文件：employ.cpp(大小：430 字节 MD5:928c39b71b8d04307005669d20181ec9)
+   |---目录： ./answers\YN-S00054\replace
+      |---文件：replace.cpp(大小：230 字节 MD5:ae3c2c73962302d75ad69eb60a4247ad)
+   |---目录： ./answers\YN-S00054\road
+      |---文件：road.cpp(大小：238 字节 MD5:7e46310c77c4da7472ff68104670fb26)
+|---目录： ./answers\YN-S00055
+   |---目录： ./answers\YN-S00055\club
+      |---文件：club.cpp(大小：1023 字节 MD5:69eab731c81a95ba5476160350ea6758)
+   |---目录： ./answers\YN-S00055\employ
+      |---文件：employ.cpp(大小：399 字节 MD5:96fab4dd49dc388a302583c62ace7641)
+   |---目录： ./answers\YN-S00055\replace
+      |---文件：replace.cpp(大小：611 字节 MD5:ae7e3dcd9765dd8af0675f48762b76e3)
+   |---目录： ./answers\YN-S00055\road
+      |---文件：road.cpp(大小：701 字节 MD5:87c0081751962a31ed75f3a39c470581)
+|---目录： ./answers\YN-S00056
+   |---目录： ./answers\YN-S00056\club
+      |---文件：club.cpp(大小：820 字节 MD5:c1f80016aa711db92664f7af75888ba7)
+   |---目录： ./answers\YN-S00056\employ
+      |---文件：employ.cpp(大小：1368 字节 MD5:6f4d770b135b451b11fee69e7e94c5f6)
+   |---目录： ./answers\YN-S00056\replace
+      |---文件：replace.cpp(大小：968 字节 MD5:7ee1124196840622e6cb9d2fc93f585e)
+   |---目录： ./answers\YN-S00056\road
+      |---文件：road.cpp(大小：1648 字节 MD5:8b6dee8b166970398a3900d4742f508d)
+|---目录： ./answers\YN-S00057
+   |---目录： ./answers\YN-S00057\club
+      |---文件：club.cpp(大小：1525 字节 MD5:6b88a66feecc49fb1a177b5f7fe34d89)
+|---目录： ./answers\YN-S00058
+   |---目录： ./answers\YN-S00058\club
+      |---文件：club.cpp(大小：956 字节 MD5:8bfaddaf0a35c1ca283e39beb9038b2a)
+   |---目录： ./answers\YN-S00058\employ
+      |---文件：employ.cpp(大小：286 字节 MD5:aec25e66cbea48edc9bd303652037b8e)
+   |---目录： ./answers\YN-S00058\replace
+      |---文件：replace.cpp(大小：1255 字节 MD5:36dd1cab678911b6f3be9f79dc017971)
+   |---目录： ./answers\YN-S00058\road
+|---目录： ./answers\YN-S00059
+   |---目录： ./answers\YN-S00059\club
+      |---文件：club.cpp(大小：1616 字节 MD5:2dd075147b910009107b490ac0e4934a)
+   |---目录： ./answers\YN-S00059\employ
+      |---文件：employ.cpp(大小：415 字节 MD5:1a97c51a3e4151cc8d878b6b83ed6254)
+   |---目录： ./answers\YN-S00059\replace
+      |---文件：replace.cpp(大小：524 字节 MD5:e1ca0b0e528942f3f47e7c131cc03924)
+|---目录： ./answers\YN-S00060
+   |---目录： ./answers\YN-S00060\club
+      |---文件：club.cpp(大小：1684 字节 MD5:b48d988352a10377ee6aa6f3ec8d13e5)
+   |---目录： ./answers\YN-S00060\employ
+      |---文件：employ.cpp(大小：383 字节 MD5:3fec39c93b987bfd8da32ff56e08b1e6)
+   |---目录： ./answers\YN-S00060\replace
+      |---文件：replace.cpp(大小：419 字节 MD5:e84d683293b0f06784c1a93a3af04dba)
+   |---目录： ./answers\YN-S00060\road
+      |---文件：road.cpp(大小：504 字节 MD5:3b1efa279eb4820867742f1f5483233a)
+      |---文件：Thumbs.db(大小：44032 字节 MD5:90c2d455a336203a7fa27a02440463f1)
+|---目录： ./answers\YN-S00061
+   |---目录： ./answers\YN-S00061\club
+      |---文件：club.cpp(大小：818 字节 MD5:801b93948d26a0e03459947711d60537)
+   |---目录： ./answers\YN-S00061\employ
+      |---文件：employ.cpp(大小：351 字节 MD5:43402e146d418817856d4d79680e7283)
+   |---目录： ./answers\YN-S00061\replace
+      |---文件：replace.cpp(大小：433 字节 MD5:36432b731812f48c4b6db6d736eb4fab)
+   |---目录： ./answers\YN-S00061\road
+      |---文件：road.cpp(大小：370 字节 MD5:4b845e78632f53076a92cd954485bee4)
+|---目录： ./answers\YN-S00062
+   |---目录： ./answers\YN-S00062\club
+      |---文件：club.cpp(大小：864 字节 MD5:ac8825a0b5f5af0a85b878219510b1cb)
+   |---目录： ./answers\YN-S00062\road
+      |---文件：road.cpp(大小：807 字节 MD5:ef8925fe613b7e5f76d481c45f170710)
+|---目录： ./answers\YN-S00063
+   |---目录： ./answers\YN-S00063\club
+      |---文件：club.cpp(大小：4371 字节 MD5:79bccad2adf42b985a075a033cad6ba9)
+   |---目录： ./answers\YN-S00063\employ
+      |---文件：employ.cpp(大小：194 字节 MD5:4f460016faac2c7864273381bfde678f)
+   |---目录： ./answers\YN-S00063\replace
+      |---文件：replace.cpp(大小：215 字节 MD5:e57e79563bf1d42d36cbeb6c75433039)
+   |---目录： ./answers\YN-S00063\road
+      |---文件：road.cpp(大小：736 字节 MD5:9d492d4084e3f5082bf4926643d10ea5)
+|---目录： ./answers\YN-S00064
+   |---目录： ./answers\YN-S00064\club
+      |---文件：club.cpp(大小：1898 字节 MD5:40fe78d3c1c4e303af976db87bb7d77a)
+   |---目录： ./answers\YN-S00064\replace
+      |---文件：replace.cpp(大小：222 字节 MD5:e4913d2a6b9cdcaadeb2f15a895aa002)
+|---目录： ./answers\YN-S00065
+   |---目录： ./answers\YN-S00065\club
+      |---文件：club.cpp(大小：1285 字节 MD5:183c0d3fe6f0094852c3c54e4ba9ad5e)
+|---目录： ./answers\YN-S00066
+   |---目录： ./answers\YN-S00066\club
+      |---文件：club.cpp(大小：5446 字节 MD5:7fcba4cd33ed7101f4711c277be525c1)
+   |---目录： ./answers\YN-S00066\employ
+      |---文件：employ.cpp(大小：997 字节 MD5:92d9503abe5478fa10a01a54a2710234)
+   |---目录： ./answers\YN-S00066\replace
+      |---文件：replace.cpp(大小：316 字节 MD5:a78a38007bf775f6e49db8e3aeaac71d)
+   |---目录： ./answers\YN-S00066\road
+      |---文件：road.cpp(大小：521 字节 MD5:0ec0b1620386efc0790cad77c1275376)
+|---目录： ./answers\YN-S00067
+   |---目录： ./answers\YN-S00067\club
+      |---文件：club.cpp(大小：1190 字节 MD5:35184da0ff289369380c09ccfb304a99)
+   |---文件：club.cpp(大小：1183 字节 MD5:c2e6d95728999d21bb7b75a308bb04fc)
+|---目录： ./answers\YN-S00068
+   |---目录： ./answers\YN-S00068\club
+      |---文件：club.cpp(大小：807 字节 MD5:a89b950d6ea3a3962a087e378f8b4e9f)
+|---目录： ./answers\YN-S00069
+   |---目录： ./answers\YN-S00069\club
+      |---文件：club.cpp(大小：2001 字节 MD5:165feaaf89c2be3aad5735a080b57e5c)
+   |---目录： ./answers\YN-S00069\employ
+      |---文件：employ.cpp(大小：373 字节 MD5:c2eec6db3136eea1d38713c0ea926fd1)
+   |---目录： ./answers\YN-S00069\replace
+      |---文件：replace.cpp(大小：1110 字节 MD5:0204fd009fa0cba010f0c9061698fc79)
+|---目录： ./answers\YN-S00070
+   |---目录： ./answers\YN-S00070\club
+      |---文件：club.cpp(大小：2050 字节 MD5:8a392cf0b7500c8ba9ec0d1afd746923)
+   |---目录： ./answers\YN-S00070\employ
+      |---文件：employ.cpp(大小：1365 字节 MD5:5de2f1191b796e99bf8135e9d2355f3b)
+   |---目录： ./answers\YN-S00070\replace
+      |---文件：replace.cpp(大小：539 字节 MD5:bb1c91a433a61af748e2dec3c5dec0d6)
+   |---目录： ./answers\YN-S00070\road
+      |---文件：road.cpp(大小：168 字节 MD5:0469dd1cc6d0d83a066dbcb06e7b314b)
+|---目录： ./answers\YN-S00071
+   |---目录： ./answers\YN-S00071\club
+      |---文件：club.cpp(大小：931 字节 MD5:dd96091b1060912ecb36edb8b30db4f9)
+   |---目录： ./answers\YN-S00071\replace
+      |---文件：replace.cpp(大小：1096 字节 MD5:e7a446194faa55445bf9d05de424b01d)
+   |---目录： ./answers\YN-S00071\road
+      |---文件：road.cpp(大小：1072 字节 MD5:12cd6de44f02e6958003a937ced133e6)
+|---目录： ./answers\YN-S00072
+   |---目录： ./answers\YN-S00072\club
+      |---文件：club.cpp(大小：1273 字节 MD5:41808af332ed1879a9552fa36e01ce2b)
+   |---目录： ./answers\YN-S00072\employ
+      |---文件：employ.cpp(大小：875 字节 MD5:c1a94f4e062e90afcb9ed2a92d9e6952)
+   |---目录： ./answers\YN-S00072\replace
+      |---文件：replace.cpp(大小：560 字节 MD5:e22ae6dad19f2bfcda53d2a742664fbd)
+   |---目录： ./answers\YN-S00072\road
+      |---文件：road.cpp(大小：747 字节 MD5:bcc4e4ba0c8a7024e6eec81dcc562529)
+|---目录： ./answers\YN-S00073
+   |---目录： ./answers\YN-S00073\club
+      |---文件：club.cpp(大小：1544 字节 MD5:b526d82cd823430f2fbd4abba0dddd75)
+   |---目录： ./answers\YN-S00073\employ
+      |---文件：employ.cpp(大小：354 字节 MD5:12720262a95380b9fed5c3964d7dc574)
+   |---目录： ./answers\YN-S00073\replace
+      |---文件：replace.cpp(大小：285 字节 MD5:06bc35e9225af141e6d1382859b49a58)
+   |---目录： ./answers\YN-S00073\road
+      |---文件：road.cpp(大小：2153 字节 MD5:c78da837cbb3de04210d51ed78598d82)
+|---目录： ./answers\YN-S00074
+   |---目录： ./answers\YN-S00074\club
+      |---文件：club.cpp(大小：485 字节 MD5:f5b8d3888036326c2e73a604217903eb)
+   |---目录： ./answers\YN-S00074\employ
+      |---文件：employ.cpp(大小：480 字节 MD5:794e02cf9284dbf9e0b8312ddac6ded6)
+   |---目录： ./answers\YN-S00074\replace
+      |---文件：replace.cpp(大小：547 字节 MD5:aec34ea2bf1f22e5ab179762fee38b03)
+   |---目录： ./answers\YN-S00074\road
+      |---文件：road.cpp(大小：437 字节 MD5:906b9298fbd0920c71f29dd913d5df4d)
+|---目录： ./answers\YN-S00075
+   |---目录： ./answers\YN-S00075\club
+      |---文件：club.cpp(大小：793 字节 MD5:73548bf34883be811e3017d9522234da)
+   |---目录： ./answers\YN-S00075\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:1c83a503c630dc654a632a2744c60032)
+   |---目录： ./answers\YN-S00075\relace
+      |---文件：replace.cpp(大小：208 字节 MD5:9b6bde90b9a565be60b38763711366e1)
+   |---目录： ./answers\YN-S00075\road
+      |---文件：road.cpp(大小：169 字节 MD5:fbf5ba83e6e26aad08c9937899de202a)
+|---目录： ./answers\YN-S00076
+   |---目录： ./answers\YN-S00076\club
+      |---文件：club.cpp(大小：1144 字节 MD5:837b15820c2bc568e27e88def6e9a186)
+   |---目录： ./answers\YN-S00076\employ
+      |---文件：employ.cpp(大小：175 字节 MD5:db7c10eb7df4fc43a78b28ebed1295b4)
+   |---目录： ./answers\YN-S00076\replace
+      |---文件：replace.cpp(大小：622 字节 MD5:28d8c4d6e95ae723502839d5d8e30a7a)
+   |---目录： ./answers\YN-S00076\road
+      |---文件：road.cpp(大小：1255 字节 MD5:75491c46b325163b730ba9a610683301)
+|---目录： ./answers\YN-S00077
+   |---目录： ./answers\YN-S00077\club
+      |---文件：club.cpp(大小：1349 字节 MD5:ddf3fcb3cc74fab13ba80ac40e5c590f)
+   |---目录： ./answers\YN-S00077\employ
+   |---目录： ./answers\YN-S00077\replace
+      |---文件：replace.cpp(大小：4131 字节 MD5:a97e112efa68513de386d9679772b302)
+   |---目录： ./answers\YN-S00077\road
+      |---文件：road.cpp(大小：2131 字节 MD5:07335dbee74c3ef8e2a30aa2783e918f)
+|---目录： ./answers\YN-S00078
+   |---目录： ./answers\YN-S00078\club
+      |---文件：club.cpp(大小：1452 字节 MD5:3e63eef0c62fefe788282566c4476784)
+   |---目录： ./answers\YN-S00078\employ
+      |---文件：employ.cpp(大小：335 字节 MD5:e34ab751e23504f48fe12e7c39e180af)
+   |---目录： ./answers\YN-S00078\replace
+      |---文件：replace.cpp(大小：390 字节 MD5:ebc8fde80ac4e3e30d36e4e638bc220d)
+   |---目录： ./answers\YN-S00078\road
+      |---文件：road.cpp(大小：1197 字节 MD5:0e7c1a3bad0f84428167796e4ea699c3)
+|---目录： ./answers\YN-S00079
+   |---目录： ./answers\YN-S00079\club
+      |---文件：club.cpp(大小：1497 字节 MD5:80b1742679599f0b2f754928b7a4fafe)
+   |---目录： ./answers\YN-S00079\empoly
+      |---文件：empoly.cpp(大小：212 字节 MD5:2d851826796f0a66c1b29406809e2fe9)
+   |---目录： ./answers\YN-S00079\replace
+      |---文件：replace.cpp(大小：277 字节 MD5:ca9fb13f3b58284b4747e8f86e27d1f8)
+   |---目录： ./answers\YN-S00079\road
+      |---文件：road.cpp(大小：206 字节 MD5:d275d39ecdb639588a370c4b81ac6f32)
+|---目录： ./answers\YN-S00080
+   |---目录： ./answers\YN-S00080\club
+      |---文件：club.cpp(大小：1745 字节 MD5:e7b9ebbe0ffd47e5f96938c138d97c05)
+   |---目录： ./answers\YN-S00080\replace
+      |---文件：replace.cpp(大小：956 字节 MD5:6bf67bdf1e7f0c5d84539c00ebec5a20)
+|---目录： ./answers\YN-S00081
+   |---目录： ./answers\YN-S00081\club
+      |---文件：club.cpp(大小：2809 字节 MD5:23ce952e5d4fbce24b5ac329a6963977)
+   |---目录： ./answers\YN-S00081\replace
+      |---文件：replace.cpp(大小：710 字节 MD5:8042f507590af5c8c5f231ce4937db86)
+   |---目录： ./answers\YN-S00081\road
+      |---文件：road.cpp(大小：593 字节 MD5:291e75545f5640aefd4d5db3455d120e)
+|---目录： ./answers\YN-S00082
+   |---目录： ./answers\YN-S00082\club
+      |---文件：club.cpp(大小：1576 字节 MD5:49288d382c4850805fdf9979fbbc94ab)
+   |---目录： ./answers\YN-S00082\employ
+      |---文件：employ.cpp(大小：1447 字节 MD5:a50096c8c5c95ba635d5fa7d2ed92976)
+   |---目录： ./answers\YN-S00082\replace
+   |---目录： ./answers\YN-S00082\road
+|---目录： ./answers\YN-S00083
+   |---目录： ./answers\YN-S00083\club
+      |---文件：club.cpp(大小：2380 字节 MD5:773d649fb34f5902ad688a66bd27bf03)
+   |---目录： ./answers\YN-S00083\employ
+      |---文件：employ.cpp(大小：151 字节 MD5:be4b61d4830cc224356f1ea81d270d6c)
+   |---目录： ./answers\YN-S00083\replace
+      |---文件：replace.cpp(大小：983 字节 MD5:62aa6182f105fa98729cf10b09ddffdd)
+   |---目录： ./answers\YN-S00083\road
+      |---文件：road.cpp(大小：147 字节 MD5:06931388fa8089f8cbc8021193330bd3)
+|---目录： ./answers\YN-S00084
+   |---目录： ./answers\YN-S00084\club
+      |---文件：club.cpp(大小：740 字节 MD5:aac1d0dd5c2e236e914063841f7050e0)
+   |---目录： ./answers\YN-S00084\employ
+      |---文件：employ.cpp(大小：157 字节 MD5:f201b571c48a5a5e9ee022cb24070593)
+   |---目录： ./answers\YN-S00084\replace
+      |---文件：replace.cpp(大小：207 字节 MD5:cb1740914d1aa8f0e359dd09c03f07a0)
+   |---目录： ./answers\YN-S00084\road
+      |---文件：road.cpp(大小：794 字节 MD5:bd4820726a2f9f98643b9f2cb579d1a6)
+|---目录： ./answers\YN-S00085
+   |---目录： ./answers\YN-S00085\club
+      |---文件：club.cpp(大小：2541 字节 MD5:79d7a0edc4f7441bdffb9bcb8e2d7bca)
+   |---目录： ./answers\YN-S00085\employ
+      |---文件：employ.cpp(大小：2075 字节 MD5:425b5d073fab6260cb54684c9883d884)
+   |---目录： ./answers\YN-S00085\replace
+      |---文件：replace.cpp(大小：3998 字节 MD5:937869caafc3bb854cf6e6598f7bfc82)
+   |---目录： ./answers\YN-S00085\road
+      |---文件：road.cpp(大小：3936 字节 MD5:8b6734fa093a46f2de25052b5c5d100b)
+|---目录： ./answers\YN-S00086
+   |---目录： ./answers\YN-S00086\club
+      |---文件：club.cpp(大小：1695 字节 MD5:bd74703473427097f68f6d4d388f25f2)
+   |---目录： ./answers\YN-S00086\employ
+      |---文件：employ.cpp(大小：576 字节 MD5:eb2469bdeab428054f1284170065f25a)
+   |---目录： ./answers\YN-S00086\replace
+      |---文件：replace.cpp(大小：499 字节 MD5:0eedabfd7b22786c1ca9e4125c0cae29)
+   |---目录： ./answers\YN-S00086\road
+      |---文件：road.cpp(大小：864 字节 MD5:1efba4fea8530cdf1ccf4412bff50e93)
+|---目录： ./answers\YN-S00087
+   |---目录： ./answers\YN-S00087\club
+      |---文件：club.cpp(大小：1936 字节 MD5:4d4f6009738819e542d9335ecafd5aad)
+   |---目录： ./answers\YN-S00087\employ
+      |---文件：employ.cpp(大小：715 字节 MD5:46963cb0a8215f074ed4a72d15767368)
+|---目录： ./answers\YN-S00088
+   |---目录： ./answers\YN-S00088\club
+      |---文件：club.cpp(大小：1292 字节 MD5:524c3570505d6a142ebb93678f425256)
+   |---目录： ./answers\YN-S00088\employ
+      |---文件：employ.cpp(大小：363 字节 MD5:b580dc5e5313439f1a578d38d9ba1c12)
+   |---目录： ./answers\YN-S00088\replace
+      |---文件：replace.cpp(大小：871 字节 MD5:4729fbc71c165375a4e0b93a4e313a4a)
+   |---目录： ./answers\YN-S00088\road
+      |---文件：road.cpp(大小：659 字节 MD5:7de7d4d2c0da4a192c507b989fe631ad)
+|---目录： ./answers\YN-S00089
+   |---目录： ./answers\YN-S00089\club
+      |---文件：club.cpp(大小：1621 字节 MD5:671861bd0e2e9cedf629ca4ab0f9c6bb)
+   |---目录： ./answers\YN-S00089\employ
+   |---目录： ./answers\YN-S00089\replace
+      |---文件：replace.cpp(大小：241 字节 MD5:20cd995ac0fd4af927cc17c578526d87)
+   |---目录： ./answers\YN-S00089\road
+      |---文件：road.cpp(大小：1826 字节 MD5:c23b1e333f7ace69791ce22aac9d2043)
+|---目录： ./answers\YN-S00090
+   |---目录： ./answers\YN-S00090\club
+      |---文件：club.cpp(大小：1964 字节 MD5:c0abdfc3ba6a58e036ab518d4e30ae3e)
+|---目录： ./answers\YN-S00091
+   |---目录： ./answers\YN-S00091\club
+      |---文件：club.cpp(大小：1222 字节 MD5:1066ef75c514c01c8c3f7f5eb26ee63c)
+   |---目录： ./answers\YN-S00091\road
+      |---文件：road.cpp(大小：2866 字节 MD5:a69b935463c096f1a83804c54de737d6)
+|---目录： ./answers\YN-S00092
+   |---目录： ./answers\YN-S00092\club
+      |---文件：club.cpp(大小：1471 字节 MD5:a3fd36faf0a51ede1a97c19d8a3e4a13)
+   |---目录： ./answers\YN-S00092\employ
+      |---文件：employ.cpp(大小：199 字节 MD5:3b7f59f75f9dc952fb52a06fadbdcc2b)
+   |---目录： ./answers\YN-S00092\replace
+      |---文件：replace.cpp(大小：222 字节 MD5:f9d6e35f6571d67d0859961cae03b107)
+   |---目录： ./answers\YN-S00092\road
+      |---文件：road.cpp(大小：204 字节 MD5:1130863b4a391edf59b09234b796c5a7)
+|---目录： ./answers\YN-S00093
+   |---目录： ./answers\YN-S00093\club
+      |---文件：club.cpp(大小：830 字节 MD5:421a76a716c10b4bd5ca257a6ddd6f41)
+   |---目录： ./answers\YN-S00093\employ
+      |---文件：employ.cpp(大小：449 字节 MD5:431d3a6eb042b84378903b3c5ab0dd70)
+   |---目录： ./answers\YN-S00093\replace
+      |---文件：replace.cpp(大小：373 字节 MD5:ccbabf74e5679487e6625fdbc3f6852a)
+   |---目录： ./answers\YN-S00093\road
+      |---文件：roadxc.cpp(大小：476 字节 MD5:5dac322dddea1c6ecc6f77bbb5d71785)
+|---目录： ./answers\YN-S00094
+   |---目录： ./answers\YN-S00094\club
+      |---文件：club.cpp(大小：1063 字节 MD5:b4ca7f914c1729b0ec719b271f0cfd86)
+   |---目录： ./answers\YN-S00094\employ
+      |---文件：employ.cpp(大小：623 字节 MD5:0298289621c9360cd4ad0dfe940c67d8)
+   |---目录： ./answers\YN-S00094\replace
+      |---文件：replace.cpp(大小：308 字节 MD5:9277fd0d26b97c49e9a8775168444faf)
+|---目录： ./answers\YN-S00095
+   |---目录： ./answers\YN-S00095\club
+      |---文件：club.cpp(大小：2463 字节 MD5:0b4a20f14c71ebce3898de14dcd35b55)
+   |---目录： ./answers\YN-S00095\employ
+      |---文件：employ.cpp(大小：483 字节 MD5:88f37a2a6cdf6d13408c30101b929d9a)
+   |---目录： ./answers\YN-S00095\replace
+      |---文件：replace.cpp(大小：215 字节 MD5:f9d2d7d686c26c55458fba39ed689d73)
+   |---目录： ./answers\YN-S00095\road
+      |---文件：road.cpp(大小：209 字节 MD5:4950b5514d3eb369b2c3298b171b3a95)
+|---目录： ./answers\YN-S00096
+   |---目录： ./answers\YN-S00096\club
+      |---文件：club.cpp(大小：7534 字节 MD5:d427f2dc6b0b39b99af8c71c626f7c06)
+   |---目录： ./answers\YN-S00096\employ
+      |---文件：employ.cpp(大小：236 字节 MD5:c0482c0714e0418bfc7f5fb9355e8081)
+   |---目录： ./answers\YN-S00096\replace
+      |---文件：replace.cpp(大小：314 字节 MD5:439de0cf78104440ffd743cd34fc621d)
+   |---目录： ./answers\YN-S00096\road
+      |---文件：road.cpp(大小：221 字节 MD5:728cd425d7d12957c84f0ee2934ab231)
+|---目录： ./answers\YN-S00097
+   |---目录： ./answers\YN-S00097\club
+      |---文件：club.cpp(大小：1371 字节 MD5:fe264042f8cfae54482b50300ca27f83)
+   |---目录： ./answers\YN-S00097\employ
+      |---文件：employ.cpp(大小：463 字节 MD5:2217e195a04640e4acd2ccef5f9d123f)
+   |---目录： ./answers\YN-S00097\replace
+      |---文件：replace.cpp(大小：533 字节 MD5:9c47e501ff2f9f8b842934cd6967f228)
+   |---目录： ./answers\YN-S00097\road
+      |---文件：road.cpp(大小：1486 字节 MD5:e2f0c2ebd501498265fafd7e8472cffa)
+|---目录： ./answers\YN-S00098
+   |---目录： ./answers\YN-S00098\club
+      |---文件：club.cpp(大小：1771 字节 MD5:0c81b650743c18a5b8ea5b8b332c2bcc)
+   |---目录： ./answers\YN-S00098\employ
+      |---文件：employ.cpp(大小：182 字节 MD5:3f0f61fb9986212ce4c2d3621257a962)
+   |---目录： ./answers\YN-S00098\replace
+      |---文件：replace.cpp(大小：610 字节 MD5:684bd5bfb4664a24371be9a295928729)
+   |---目录： ./answers\YN-S00098\road
+      |---文件：road.cpp(大小：1097 字节 MD5:689e34476189051eddbfdbda639bd543)
+|---目录： ./answers\YN-S00099
+   |---目录： ./answers\YN-S00099\club
+      |---文件：club.cpp(大小：1939 字节 MD5:8eca9c99206407f8b119af559577919b)
+   |---目录： ./answers\YN-S00099\replace
+      |---文件：replace.cpp(大小：1450 字节 MD5:a5a5b07a60be0d1c7ea4fe985dd67667)
+   |---目录： ./answers\YN-S00099\road
+      |---文件：road.cpp(大小：1928 字节 MD5:69a8b12a57fd263d39785fb2eb48694e)
+|---目录： ./answers\YN-S00100
+   |---目录： ./answers\YN-S00100\club
+      |---文件：club.cpp(大小：2232 字节 MD5:a380d8f290025f8c9f8205b505335a71)
+   |---目录： ./answers\YN-S00100\employ
+      |---文件：employ.cpp(大小：391 字节 MD5:ba4647e2fe731ab81157094a348d4bf2)
+   |---目录： ./answers\YN-S00100\replace
+      |---文件：replace.cpp(大小：168 字节 MD5:025d57b7b36d7de519f93f20761b178c)
+   |---目录： ./answers\YN-S00100\road
+      |---文件：road.cpp(大小：335 字节 MD5:2d4d05816d18a001924394db9e0bf375)
+|---目录： ./answers\YN-S00101
+   |---目录： ./answers\YN-S00101\club
+      |---文件：club.cpp(大小：1039 字节 MD5:5330b4f95ade35a8b4ef826c1c810e6e)
+|---目录： ./answers\YN-S00102
+   |---目录： ./answers\YN-S00102\club
+      |---文件：club.cpp(大小：2833 字节 MD5:27cd76727f09ff4ff026760fc19da214)
+   |---目录： ./answers\YN-S00102\employ
+   |---目录： ./answers\YN-S00102\replace
+   |---目录： ./answers\YN-S00102\road
+|---目录： ./answers\YN-S00103
+   |---目录： ./answers\YN-S00103\club
+      |---文件：club.cpp(大小：1705 字节 MD5:71c3ee4d12040ce921543d61c273e033)
+   |---目录： ./answers\YN-S00103\employ
+      |---文件：employ.cpp(大小：211 字节 MD5:3f1669632eb17b468589edcf3510760e)
+   |---目录： ./answers\YN-S00103\replace
+      |---文件：replace.cpp(大小：213 字节 MD5:693fd74e26294886c48148e272320c74)
+   |---目录： ./answers\YN-S00103\road
+      |---文件：road.cpp(大小：590 字节 MD5:9976a64a0962662f5779c8fb67356971)
+|---目录： ./answers\YN-S00104
+   |---目录： ./answers\YN-S00104\club
+      |---文件：club.cpp(大小：425 字节 MD5:8f3e090a0501ae6381ebf88800fcf478)
+   |---目录： ./answers\YN-S00104\employ
+      |---文件：employ.cpp(大小：501 字节 MD5:3af102af5722b11bff822262f5150b76)
+   |---目录： ./answers\YN-S00104\replace
+      |---文件：replace.cpp(大小：439 字节 MD5:3b26f150116632bea14361bee9488375)
+   |---目录： ./answers\YN-S00104\road
+      |---文件：road.cpp(大小：545 字节 MD5:414d7e0a779eb3d01ae4075703424acc)
+|---目录： ./answers\YN-S00105
+   |---目录： ./answers\YN-S00105\club
+      |---文件：club.cpp(大小：1146 字节 MD5:04d58c4f33457dcfc9522c88ac3f5d73)
+   |---目录： ./answers\YN-S00105\employ
+   |---目录： ./answers\YN-S00105\replace
+   |---目录： ./answers\YN-S00105\road
+      |---文件：road.cpp(大小：1256 字节 MD5:20ae141f026eff71397190909f9b0bc1)
+|---目录： ./answers\YN-S00106
+   |---目录： ./answers\YN-S00106\club
+      |---文件：club.cpp(大小：952 字节 MD5:665da44ff8470514f5239c75af933f2a)
+   |---目录： ./answers\YN-S00106\employ
+   |---目录： ./answers\YN-S00106\replace
+      |---文件：replace.cpp(大小：386 字节 MD5:a891c941f290f8548d71a2e4ced68c72)
+   |---目录： ./answers\YN-S00106\road
+|---目录： ./answers\YN-S00107
+   |---目录： ./answers\YN-S00107\club
+      |---文件：club.cpp(大小：2564 字节 MD5:96f7a58603a5e64325614799ba5cdb4a)
+   |---目录： ./answers\YN-S00107\employ
+      |---文件：employ.cpp(大小：372 字节 MD5:923182eb446ef6d1206e4713ae7339f9)
+   |---目录： ./answers\YN-S00107\road
+      |---文件：road.cpp(大小：470 字节 MD5:d460376d0aa2710f17e3afc46edcf54c)
+|---目录： ./answers\YN-S00108
+   |---目录： ./answers\YN-S00108\club
+      |---文件：club.cpp(大小：2308 字节 MD5:785c262c13db1e2a65bce1e8c63318ad)
+|---目录： ./answers\YN-S00109
+   |---目录： ./answers\YN-S00109\club
+      |---文件：club.cpp(大小：451 字节 MD5:c64e4acf7ffa96f13bd6eba7ec785c22)
+|---目录： ./answers\YN-S00110
+   |---目录： ./answers\YN-S00110\club
+      |---文件：club.cpp(大小：2312 字节 MD5:d0379a2e17b98cb4d061c5387cff9f0b)
+   |---目录： ./answers\YN-S00110\replace
+      |---文件：replace.cpp(大小：1212 字节 MD5:a9139e47f8cdd9bb08516b7fea51fd27)
+   |---目录： ./answers\YN-S00110\road
+      |---文件：road.cpp(大小：290 字节 MD5:b5de2bd6e410d65cadec8bb0fab55053)
+|---目录： ./answers\YN-S00111
+   |---目录： ./answers\YN-S00111\club
+      |---文件：club.cpp(大小：871 字节 MD5:b5c58252fcc8667477901866eaf43ae8)
+   |---目录： ./answers\YN-S00111\employ
+      |---文件：employ.cpp(大小：162 字节 MD5:b6dc62cbe7fd5235db8ea5302c3e5db5)
+   |---目录： ./answers\YN-S00111\replace
+      |---文件：replace.cpp(大小：208 字节 MD5:cf16d0d7189fa627b676debccad580b9)
+   |---目录： ./answers\YN-S00111\road
+      |---文件：road.cpp(大小：159 字节 MD5:cb6d7e9b2c482aa7b4072c0d8ee862bf)
+|---目录： ./answers\YN-S00112
+   |---目录： ./answers\YN-S00112\club
+      |---文件：club.cpp(大小：473 字节 MD5:aa31a8f5d14e9c430b30e3300000d220)
+   |---目录： ./answers\YN-S00112\employ
+      |---文件：employ.cpp(大小：314 字节 MD5:1156b7dcce9c1593a3a0cd34142bacdd)
+   |---目录： ./answers\YN-S00112\replace
+      |---文件：replace.cpp(大小：274 字节 MD5:62266b02616953bfb59e5213e7ccc5a4)
+   |---目录： ./answers\YN-S00112\road
+      |---文件：road.cpp(大小：221 字节 MD5:05054cc5698fb6d098e06c2c9c6a9221)
+|---目录： ./answers\YN-S00113
+   |---目录： ./answers\YN-S00113\club
+      |---文件：club.cpp(大小：822 字节 MD5:23256c81da8f9c833f462701decc1dd9)
+|---目录： ./answers\YN-S00114
+   |---目录： ./answers\YN-S00114\club
+      |---文件：club.cpp(大小：843 字节 MD5:a453db7aade31a93e2dc25bb8beff086)
+   |---目录： ./answers\YN-S00114\employ
+   |---目录： ./answers\YN-S00114\replace
+   |---目录： ./answers\YN-S00114\road
+      |---文件：road.cpp(大小：266 字节 MD5:4204a6d3d7a2a8c6ee769a8a19a299e3)
+|---目录： ./answers\YN-S00115
+   |---目录： ./answers\YN-S00115\club
+      |---文件：club.cpp(大小：745 字节 MD5:23c67a9ac9e8e821137cd2a6a96b7bf9)
+   |---目录： ./answers\YN-S00115\employ
+      |---文件：employ.cpp(大小：184 字节 MD5:76e1fd597432275da9faba4255aff9c3)
+   |---目录： ./answers\YN-S00115\replace
+      |---文件：replace.cpp(大小：227 字节 MD5:79bf64839bcdb81c6565e14ed9b3e159)
+   |---目录： ./answers\YN-S00115\road
+      |---文件：road.cpp(大小：190 字节 MD5:3c19f857469e3dc27eb361e15112f99a)
+|---目录： ./answers\YN-S00116
+   |---目录： ./answers\YN-S00116\club
+      |---文件：club.cpp(大小：239 字节 MD5:0d7d7f4aad29a97bf313696036b38eaf)
+   |---目录： ./answers\YN-S00116\employ
+      |---文件：employ.cpp(大小：205 字节 MD5:181b9db69af5f3ac71e02966bc144a84)
+   |---目录： ./answers\YN-S00116\replace
+      |---文件：replace.cpp(大小：248 字节 MD5:1d4468f8f5620540b25d48e39fade5a3)
+   |---目录： ./answers\YN-S00116\road
+      |---文件：road.cpp(大小：196 字节 MD5:a3392cb3ea9de97d54ee78ef250d176b)
+|---目录： ./answers\YN-S00117
+   |---目录： ./answers\YN-S00117\club
+      |---文件：club.cpp(大小：1415 字节 MD5:b42ab4d469a6914c6aaf08a353153207)
+   |---目录： ./answers\YN-S00117\employ
+      |---文件：employ.cpp(大小：453 字节 MD5:4a2068e684b5a45752492bd737d87dcd)
+   |---目录： ./answers\YN-S00117\replace
+   |---目录： ./answers\YN-S00117\road
+      |---文件：road.cpp(大小：1851 字节 MD5:ac37d742dde6afec7e935d583558f084)
+|---目录： ./answers\YN-S00118
+   |---目录： ./answers\YN-S00118\club
+      |---文件：club.cpp(大小：797 字节 MD5:32a69e3092d0387bbeb136071afd9536)
+   |---目录： ./answers\YN-S00118\road
+      |---文件：road.cpp(大小：329 字节 MD5:77c6c778a577c058fed9e55aa1ba3dce)
+|---目录： ./answers\YN-S00119
+   |---目录： ./answers\YN-S00119\club
+      |---文件：club.cpp(大小：4191 字节 MD5:2aafa31ab1220e3247dd71aacc63c416)
+   |---目录： ./answers\YN-S00119\employ
+      |---文件：employ.cpp(大小：993 字节 MD5:f090bad0e4753333a61c60f6d9ef48ab)
+   |---目录： ./answers\YN-S00119\replace
+      |---文件：replace.cpp(大小：1035 字节 MD5:f25e3f9e0904149f1228d76259454de4)
+   |---目录： ./answers\YN-S00119\road
+      |---文件：road.cpp(大小：1062 字节 MD5:d29115fe2bda7fcd1948a1417b93a3bc)
+|---目录： ./answers\YN-S00120
+   |---目录： ./answers\YN-S00120\club
+      |---文件：club.cpp(大小：1260 字节 MD5:411e1edde4ff0dbb54779fd155a474ae)
+|---目录： ./answers\YN-S00121
+   |---目录： ./answers\YN-S00121\club
+      |---文件：clud.cpp(大小：510 字节 MD5:c487cf153d4d9e56c01d262bf7464d9d)
+   |---目录： ./answers\YN-S00121\employ
+      |---文件：employ.cpp(大小：200 字节 MD5:6ff23bbb617dc473f810092b57bca2fd)
+   |---目录： ./answers\YN-S00121\replace
+      |---文件：replace.cpp(大小：261 字节 MD5:451aca1a261b0446a31aa545e89e5d23)
+   |---目录： ./answers\YN-S00121\road
+      |---文件：road.cpp(大小：196 字节 MD5:1b1b0a5a1854613a7bcaceed41edd8ff)
+|---目录： ./answers\YN-S00122
+   |---目录： ./answers\YN-S00122\club
+      |---文件：club.cpp(大小：635 字节 MD5:7edb836dff30373c0c2b4abae5c13e47)
+   |---目录： ./answers\YN-S00122\employ
+      |---文件：employ.cpp(大小：196 字节 MD5:696df25b2a711a14405cd323e8dd9853)
+   |---目录： ./answers\YN-S00122\replace
+      |---文件：replace.cpp(大小：244 字节 MD5:00c6f10c2acc03eec715e8b481001985)
+|---目录： ./answers\YN-S00123
+   |---目录： ./answers\YN-S00123\club
+      |---文件：club.cpp(大小：648 字节 MD5:43b1212673de994085db5ae620ea87cc)
+   |---目录： ./answers\YN-S00123\road
+      |---文件：road.cpp(大小：1373 字节 MD5:13cfe525b99bf3e3b3809c8a8c08b3f7)
+|---目录： ./answers\YN-S00124
+   |---目录： ./answers\YN-S00124\club
+      |---文件：club.cpp(大小：675 字节 MD5:d781170d7437ba24d93e3b28d3e095f3)
+   |---目录： ./answers\YN-S00124\employ
+      |---文件：employ.cpp(大小：772 字节 MD5:639436a78c55b065a87eec440b4fecd3)
+|---目录： ./answers\YN-S00125
+   |---目录： ./answers\YN-S00125\club
+      |---文件：club.cpp(大小：616 字节 MD5:145a64f24689852d22f32b2c9ecc6422)
+   |---目录： ./answers\YN-S00125\employ
+      |---文件：employ.cpp(大小：615 字节 MD5:a42f830ea34005c150ad5dcffcd1e3b0)
+   |---目录： ./answers\YN-S00125\replace
+      |---文件：replace.cpp(大小：615 字节 MD5:a42f830ea34005c150ad5dcffcd1e3b0)
+   |---目录： ./answers\YN-S00125\road
+      |---文件：road.cpp(大小：615 字节 MD5:a42f830ea34005c150ad5dcffcd1e3b0)
+|---目录： ./answers\YN-S00126
+   |---目录： ./answers\YN-S00126\club
+      |---文件：club.cpp(大小：701 字节 MD5:1935a0aadf3c41a70d66013a16690b8c)
+   |---目录： ./answers\YN-S00126\employ
+   |---目录： ./answers\YN-S00126\replace
+   |---目录： ./answers\YN-S00126\road
+|---目录： ./answers\YN-S00127
+   |---目录： ./answers\YN-S00127\club
+      |---文件：club.cpp(大小：642 字节 MD5:4f140b263b241b6b4c951c605b10f225)
+   |---目录： ./answers\YN-S00127\employ
+      |---文件：employ.cpp(大小：595 字节 MD5:b98a1202cc6dcc1be12c87ce417dfd32)
+   |---目录： ./answers\YN-S00127\replace
+      |---文件：replace.cpp(大小：155 字节 MD5:ee6e407e2ed814542f155b1f584e38fa)
+   |---目录： ./answers\YN-S00127\road
+      |---文件：road.cpp(大小：162 字节 MD5:d62d383307935073457fb24e69f22550)
+|---目录： ./answers\YN-S00128
+   |---目录： ./answers\YN-S00128\club
+      |---文件：club.cpp(大小：1525 字节 MD5:53332d06105374a1c64faf5d49a0d1a6)
+   |---目录： ./answers\YN-S00128\employ
+      |---文件：employ.cpp(大小：520 字节 MD5:6ffc1647adf0d402e865eb5529d71a30)
+   |---目录： ./answers\YN-S00128\replace
+      |---文件：replace.cpp(大小：329 字节 MD5:aeeaf84048b8099d882ecabadfa1538a)
+   |---目录： ./answers\YN-S00128\road
+      |---文件：road.cpp(大小：1433 字节 MD5:f482a70924ea7e11890779fbe6cc62fa)
+|---目录： ./answers\YN-S00129
+   |---目录： ./answers\YN-S00129\club
+      |---文件：club.cpp(大小：1668 字节 MD5:bf2ccff605648698c54202bb37f4b287)
+   |---目录： ./answers\YN-S00129\road
+      |---文件：road.cpp(大小：924 字节 MD5:227df73e943a18973509c4f143901b31)
+|---目录： ./answers\YN-S00130
+   |---目录： ./answers\YN-S00130\club
+      |---文件：club.cpp(大小：287 字节 MD5:efab5ce36abb21c4c31067aa30718b07)
+   |---目录： ./answers\YN-S00130\employ
+   |---目录： ./answers\YN-S00130\replace
+   |---目录： ./answers\YN-S00130\road
+|---目录： ./answers\YN-S00131
+   |---目录： ./answers\YN-S00131\club
+      |---文件：club.cpp(大小：1418 字节 MD5:d8e51d6a85aae6e1f677902cf8d57c36)
+   |---目录： ./answers\YN-S00131\employ
+   |---目录： ./answers\YN-S00131\replace
+      |---文件：replace.cpp(大小：333 字节 MD5:0fa94fa8a42cf500a99c79f52154fc95)
+   |---目录： ./answers\YN-S00131\road
+      |---文件：road.cpp(大小：385 字节 MD5:af531f459ba850cc1bb93c43ed5a02c4)
+|---目录： ./answers\YN-S00132
+   |---目录： ./answers\YN-S00132\club
+      |---文件：club.cpp(大小：429 字节 MD5:76206860a13ccc449f15bd629d43cec8)
+   |---目录： ./answers\YN-S00132\employ
+      |---文件：employ.cpp(大小：378 字节 MD5:c08ee2243675f661791f31b3e73b9cd5)
+   |---目录： ./answers\YN-S00132\replace
+      |---文件：replace.cpp(大小：209 字节 MD5:306a7172e28775ff3b47feb8b23b9a7d)
+   |---目录： ./answers\YN-S00132\road
+      |---文件：road.cpp(大小：929 字节 MD5:568f0ef719ad1350e260a3c0c58bc406)
+|---目录： ./answers\YN-S00133
+   |---目录： ./answers\YN-S00133\club
+      |---文件：club.cpp(大小：2234 字节 MD5:35f61b470d1c87894b23b498343e7748)
+   |---目录： ./answers\YN-S00133\employ
+      |---文件：employ.cpp(大小：1660 字节 MD5:6c54d62d4e1e3f70ceec37186a57b4f1)
+   |---目录： ./answers\YN-S00133\replace
+      |---文件：replace.cpp(大小：1291 字节 MD5:c535127797cc6f8e4cd59c875e31326d)
+   |---目录： ./answers\YN-S00133\road
+      |---文件：road.cpp(大小：1025 字节 MD5:96ea55efe81141a289d9a03ab8132302)
+|---目录： ./answers\YN-S00134
+   |---目录： ./answers\YN-S00134\club
+      |---文件：club.cpp(大小：1247 字节 MD5:058f1a6f3d274358ec25c3eebe911247)
+   |---目录： ./answers\YN-S00134\employ
+      |---文件：employ.cpp(大小：580 字节 MD5:87916e914cb319f3f074f505e13e6391)
+   |---目录： ./answers\YN-S00134\road
+      |---文件：road.cpp(大小：1540 字节 MD5:abd4425de748cffcbe5731cdc2a9c2a7)
+|---目录： ./answers\YN-S00135
+   |---目录： ./answers\YN-S00135\club
+      |---文件：club.cpp(大小：3357 字节 MD5:aa223a53395ed85ecba3d14bd5656c1b)
+   |---目录： ./answers\YN-S00135\employ
+      |---文件：employ.cpp(大小：489 字节 MD5:c3a85d188d6ccd676d234ceb8c570b92)
+|---目录： ./answers\YN-S00137
+   |---目录： ./answers\YN-S00137\club
+      |---文件：clud.cpp(大小：913 字节 MD5:634d62d295598416f7fe10ae6b1fb5d8)
+   |---目录： ./answers\YN-S00137\employ
+      |---文件：employ.cpp(大小：345 字节 MD5:1fac273bd15bd4c49e1068b57c30e45f)
+   |---目录： ./answers\YN-S00137\replace
+      |---文件：replace.cpp(大小：181 字节 MD5:efeeca7c49fdf5ffaeb59d3887765cee)
+   |---目录： ./answers\YN-S00137\road
+      |---文件：road.cpp(大小：163 字节 MD5:162bb9b7fb1187957579fd6c4a72bb70)
+|---目录： ./answers\YN-S00138
+   |---目录： ./answers\YN-S00138\club
+      |---文件：club.cpp(大小：1179 字节 MD5:06b053fe95fbee5aee6f000df42fd2f5)
+|---目录： ./answers\YN-S00139
+   |---目录： ./answers\YN-S00139\club
+      |---文件：club.cpp(大小：788 字节 MD5:187e7595cae9f0028bbefd08faae191c)
+   |---目录： ./answers\YN-S00139\employ
+      |---文件：employ.cpp(大小：151 字节 MD5:be4b61d4830cc224356f1ea81d270d6c)
+   |---目录： ./answers\YN-S00139\replace
+      |---文件：replace.cpp(大小：166 字节 MD5:ff3d5352f3955ae271af70715eb73044)
+   |---目录： ./answers\YN-S00139\road
+      |---文件：road.cpp(大小：439 字节 MD5:c3af2de4bf9affdde393a20c66cdd247)
+|---目录： ./answers\YN-S00140
+   |---目录： ./answers\YN-S00140\club
+      |---文件：club.cpp(大小：1864 字节 MD5:8b85f4855cc4229601bfb5803a25ae55)
+   |---目录： ./answers\YN-S00140\employ
+   |---目录： ./answers\YN-S00140\replace
+   |---目录： ./answers\YN-S00140\road
+|---目录： ./answers\YN-S00141
+   |---目录： ./answers\YN-S00141\club
+      |---文件：club.cpp(大小：1183 字节 MD5:c757c60619320a2ce53513f8600281f0)
+   |---目录： ./answers\YN-S00141\employ
+      |---文件：employ.cpp(大小：867 字节 MD5:675d32156fdf3fc77f96e85f00cec6bf)
+   |---目录： ./answers\YN-S00141\replace
+      |---文件：replace.cpp(大小：1013 字节 MD5:2cfdb9bdaa30a6e9039daa43f8986f76)
+   |---目录： ./answers\YN-S00141\road
+      |---文件：road.cpp(大小：2182 字节 MD5:8f4d424b481bda260063de8a6fd0da79)
+|---目录： ./answers\YN-S00142
+   |---目录： ./answers\YN-S00142\club
+      |---文件：club.cpp(大小：1118 字节 MD5:9c35dc1322978f2195788e177b584868)
+   |---目录： ./answers\YN-S00142\employ
+      |---文件：employ.cpp(大小：202 字节 MD5:1a7bb6b3042b1c28d0bc009690a65694)
+   |---目录： ./answers\YN-S00142\replace
+      |---文件：replace.cpp(大小：242 字节 MD5:d68fefbe63cfcfa9cd6de12810ed00f6)
+   |---目录： ./answers\YN-S00142\road
+      |---文件：road.cpp(大小：512 字节 MD5:b6f45b186887933f79de2ce99f7e43f5)
+|---目录： ./answers\YN-S00143
+   |---目录： ./answers\YN-S00143\club
+      |---文件：club.cpp(大小：1637 字节 MD5:802f3465c3f14786ba43f142bd989ad6)
+   |---目录： ./answers\YN-S00143\employ
+      |---文件：employ.cpp(大小：550 字节 MD5:932ded4ec40039a0b436292bf0bac455)
+   |---目录： ./answers\YN-S00143\replace
+      |---文件：replace.cpp(大小：46 字节 MD5:63378eb5c1035d31e382a5e6a62e799d)
+   |---目录： ./answers\YN-S00143\road
+      |---文件：road.cpp(大小：707 字节 MD5:259885a0e3b10647c496b818364b599c)
+|---目录： ./answers\YN-S00144
+   |---目录： ./answers\YN-S00144\club
+      |---文件：club.cpp(大小：2034 字节 MD5:17fbf4e128c800f76b24acb0ab27539f)
+   |---目录： ./answers\YN-S00144\employ
+      |---文件：employ.cpp(大小：323 字节 MD5:8db7942bbd80d7a917e77fb63519d01d)
+   |---目录： ./answers\YN-S00144\replace
+      |---文件：replace.cpp(大小：463 字节 MD5:c5fb128f07070b0b08e1d44b238fc5b3)
+   |---目录： ./answers\YN-S00144\road
+      |---文件：road.cpp(大小：638 字节 MD5:bedba308b1b590762ff23f4b6d5bebe8)
+|---目录： ./answers\YN-S00145
+   |---目录： ./answers\YN-S00145\club
+      |---文件：club.cpp(大小：1848 字节 MD5:73a2e37d50f6169c2e830bab5ae26af9)
+   |---目录： ./answers\YN-S00145\employ
+   |---目录： ./answers\YN-S00145\replace
+   |---目录： ./answers\YN-S00145\road
+      |---文件：road.cpp(大小：935 字节 MD5:6e58dada24afa04d76251c53d93fba71)
+|---目录： ./answers\YN-S00146
+   |---目录： ./answers\YN-S00146\club
+      |---文件：club.cpp(大小：1918 字节 MD5:9af038b6b03acfab8099de6f776882f8)
+   |---目录： ./answers\YN-S00146\employ
+      |---文件：employ.cpp(大小：433 字节 MD5:ef1da91041280c353dd6dd3cbb0b6f08)
+   |---目录： ./answers\YN-S00146\replace
+      |---文件：replace.cpp(大小：243 字节 MD5:b20fca1319e5d03ff8bd1d60b31b8d54)
+   |---目录： ./answers\YN-S00146\road
+      |---文件：road.cpp(大小：393 字节 MD5:e2f336b67cebd2836bfa7ab4668a3752)
+|---目录： ./answers\YN-S00147
+   |---目录： ./answers\YN-S00147\club
+      |---文件：club.cpp(大小：1284 字节 MD5:cc02cea5b4f6e4026ea6532f796f5759)
+   |---目录： ./answers\YN-S00147\employ
+      |---文件：employ.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00147\replace
+      |---文件：replace.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00147\road
+      |---文件：road.cpp(大小：1434 字节 MD5:208a9a24e8994fe87b4d564ab603dde9)
+|---目录： ./answers\YN-S00148
+   |---目录： ./answers\YN-S00148\club
+      |---文件：club.cpp(大小：3296 字节 MD5:87c79a7de8f17e89c8f21565b32a8e10)
+   |---目录： ./answers\YN-S00148\employ
+      |---文件：employ.cpp(大小：784 字节 MD5:c007be141a0192e2750bffbe4ee3d7d5)
+   |---目录： ./answers\YN-S00148\road
+      |---文件：road.cpp(大小：2797 字节 MD5:452faf23a0888747f9fdf7c2afd643b9)
+|---目录： ./answers\YN-S00149
+   |---目录： ./answers\YN-S00149\club
+      |---文件：club.cpp(大小：719 字节 MD5:2c73a77cd2a1b36ea2f5de7a54ff8646)
+   |---目录： ./answers\YN-S00149\employ
+      |---文件：employ.cpp(大小：421 字节 MD5:d9bb17bc063a50ed935c65a041395e9b)
+   |---目录： ./answers\YN-S00149\replace
+      |---文件：replace.cpp(大小：190 字节 MD5:a72d780092edee1918f995b19761a46d)
+   |---目录： ./answers\YN-S00149\road
+      |---文件：road.cpp(大小：184 字节 MD5:13e6563c51b550890e6350cb333b549a)
+|---目录： ./answers\YN-S00150
+   |---目录： ./answers\YN-S00150\club
+      |---文件：club.cpp(大小：2399 字节 MD5:80ce79fd7f4b65579ae6e3bf8668a245)
+   |---目录： ./answers\YN-S00150\employ
+   |---目录： ./answers\YN-S00150\replace
+   |---目录： ./answers\YN-S00150\road
+|---目录： ./answers\YN-S00151
+   |---目录： ./answers\YN-S00151\club
+      |---文件：club.cpp(大小：2281 字节 MD5:708fbe30dc52100e335cd52bfb2582a2)
+|---目录： ./answers\YN-S00152
+   |---目录： ./answers\YN-S00152\club
+      |---文件：club.cpp(大小：1267 字节 MD5:fe768a6bafdbb8135bfe01bebfe1493d)
+   |---目录： ./answers\YN-S00152\employ
+      |---文件：employ.cpp(大小：1200 字节 MD5:879dd23f70ae7f8bad0b2c686d741e81)
+   |---目录： ./answers\YN-S00152\replace
+      |---文件：replace.cpp(大小：225 字节 MD5:553bf94f5c21a0231d819cbbf5ff73aa)
+   |---目录： ./answers\YN-S00152\road
+      |---文件：road.cpp(大小：393 字节 MD5:7cf1d49bfbcd3ca60c0b0081ffac6747)
+|---目录： ./answers\YN-S00153
+   |---目录： ./answers\YN-S00153\club
+      |---文件：club.cpp(大小：804 字节 MD5:3bf7bcfc8be4848d73cc5ab8be4f4ac3)
+   |---目录： ./answers\YN-S00153\employ
+      |---文件：employ.cpp(大小：566 字节 MD5:b449527a37106812b2f210cf52af10fa)
+|---目录： ./answers\YN-S00154
+   |---目录： ./answers\YN-S00154\club
+      |---文件：club.cpp(大小：859 字节 MD5:8e2c2d5e97c5c3d280ef14fc88122dfb)
+   |---目录： ./answers\YN-S00154\employ
+      |---文件：employ.cpp(大小：181 字节 MD5:798e4e30de875dd59c1572362183f33d)
+   |---目录： ./answers\YN-S00154\replace
+      |---文件：replace.cpp(大小：183 字节 MD5:3a957c8a7bdd6ea20b5564a8c3b16a45)
+   |---目录： ./answers\YN-S00154\road
+      |---文件：road.cpp(大小：310 字节 MD5:c286076dd2ed9cb32abbe1c20fe8261a)
+|---目录： ./answers\YN-S00155
+   |---目录： ./answers\YN-S00155\club
+      |---文件：club.cpp(大小：887 字节 MD5:baea2101d71d92a801592457d2092a6d)
+|---目录： ./answers\YN-S00156
+   |---目录： ./answers\YN-S00156\club
+      |---文件：club.cpp(大小：2517 字节 MD5:90ac0e1b9ce60db56d8674440339af0d)
+|---目录： ./answers\YN-S00157
+   |---目录： ./answers\YN-S00157\club
+      |---文件：club.cpp(大小：2081 字节 MD5:54d818f3a7b5e0f79bc1ce2f66e3682c)
+   |---目录： ./answers\YN-S00157\employ
+      |---文件：employ.cpp(大小：440 字节 MD5:0fa3211529f5de8c01800e408c0d47bc)
+|---目录： ./answers\YN-S00158
+   |---目录： ./answers\YN-S00158\club
+      |---文件：club.cpp(大小：182 字节 MD5:4703641b63e77ade2553f48c88f95486)
+   |---目录： ./answers\YN-S00158\employ
+      |---文件：employ.cpp(大小：199 字节 MD5:bd3eecbbc266235b8b003c1874434922)
+   |---目录： ./answers\YN-S00158\replace
+      |---文件：replace.cpp(大小：201 字节 MD5:f1a788fc9763682dc5fb8d9848fcb938)
+   |---目录： ./answers\YN-S00158\road
+      |---文件：road.cpp(大小：195 字节 MD5:a58ceeade5334b4f3438e41dff23e477)
+|---目录： ./answers\YN-S00159
+   |---目录： ./answers\YN-S00159\club
+      |---文件：club.cpp(大小：989 字节 MD5:35683b499e812931891e3ac0ba3a9e7f)
+   |---目录： ./answers\YN-S00159\employ
+      |---文件：employ.cpp(大小：676 字节 MD5:f6fea80d2cefd4d921d13fe6368bbdb5)
+   |---目录： ./answers\YN-S00159\replace
+      |---文件：replace.cpp(大小：444 字节 MD5:f715a009ad0f00b4ada17da171e88aa9)
+   |---目录： ./answers\YN-S00159\road
+      |---文件：road.cpp(大小：518 字节 MD5:7c958c2d884e82285f0061a381665902)
+|---目录： ./answers\YN-S00160
+   |---目录： ./answers\YN-S00160\club
+      |---文件：club.cpp(大小：1758 字节 MD5:de442d0021705def7510ee8ebbd1bbcf)
+   |---目录： ./answers\YN-S00160\employ
+      |---文件：employ.cpp(大小：192 字节 MD5:37b953d2ae05d96808c56ab9941d09f2)
+   |---目录： ./answers\YN-S00160\replace
+      |---文件：replace.cpp(大小：244 字节 MD5:7f2afc0a6ccf6b5e0fce8c1020c92e81)
+   |---目录： ./answers\YN-S00160\road
+      |---文件：road.cpp(大小：906 字节 MD5:eaceb8b9171e2fc934453b90231c78d4)
+|---目录： ./answers\YN-S00161
+   |---目录： ./answers\YN-S00161\club
+      |---文件：club.cpp(大小：258 字节 MD5:9169890284eef76c328eaaf03a8f2e95)
+   |---目录： ./answers\YN-S00161\employ
+      |---文件：employ.cpp(大小：317 字节 MD5:1f6181b6cd0084de83788823a508c28c)
+   |---目录： ./answers\YN-S00161\replace
+      |---文件：replace.cpp(大小：355 字节 MD5:7d1e35acf3b4f854405662d4f20b817f)
+   |---目录： ./answers\YN-S00161\road
+      |---文件：road.cpp(大小：269 字节 MD5:18f4c6819ebb03af05dc34de7022aaa2)
+|---目录： ./answers\YN-S00162
+   |---目录： ./answers\YN-S00162\club
+      |---文件：club.cpp(大小：2429 字节 MD5:313628b2db9704616f7a6fca3e10d980)
+   |---目录： ./answers\YN-S00162\employ
+      |---文件：employ.cpp(大小：172 字节 MD5:f664aecb17a5d66c6934bd8154409af4)
+   |---目录： ./answers\YN-S00162\replace
+      |---文件：replace.cpp(大小：168 字节 MD5:5b7380d51442a278ccbb1742a82b83f7)
+   |---目录： ./answers\YN-S00162\road
+      |---文件：road.cpp(大小：165 字节 MD5:49b7030956d63351e802627e9629f38f)
+|---目录： ./answers\YN-S00163
+   |---目录： ./answers\YN-S00163\club
+      |---文件：club.cpp(大小：2821 字节 MD5:d782379ec98d2b6eac9dc746fdb6dc44)
+   |---目录： ./answers\YN-S00163\employ
+      |---文件：employ.cpp(大小：414 字节 MD5:f7972ce8a79c7f7d759595cc544651f8)
+   |---目录： ./answers\YN-S00163\replace
+      |---文件：replace.cpp(大小：211 字节 MD5:28ff5c604e3d30e02511bf9ab1629fad)
+|---目录： ./answers\YN-S00164
+   |---目录： ./answers\YN-S00164\club
+      |---文件：club.cpp(大小：541 字节 MD5:b3b01da8d665bc1604c30e7fb8add3a3)
+   |---目录： ./answers\YN-S00164\employ
+      |---文件：employ.cpp(大小：284 字节 MD5:7b03b11ca9834ffc835d224e0801970a)
+   |---目录： ./answers\YN-S00164\road
+      |---文件：road.cpp(大小：403 字节 MD5:1030d833a9e72290e83289de5940869d)
+|---目录： ./answers\YN-S00165
+   |---目录： ./answers\YN-S00165\club
+      |---文件：club.cpp(大小：979 字节 MD5:9b31f9ec55a6d8d871b22b0917999d07)
+   |---目录： ./answers\YN-S00165\employ
+      |---文件：employ.cpp(大小：870 字节 MD5:cd143e313bc92c0a590aaeed883f8a55)
+   |---目录： ./answers\YN-S00165\replace
+      |---文件：replace.cpp(大小：2406 字节 MD5:4ff35b013d12e7dd5d121373d55c4563)
+   |---目录： ./answers\YN-S00165\road
+      |---文件：road.cpp(大小：1779 字节 MD5:1d75a4363d1e95b9885f0f0f8d6bbc71)
+|---目录： ./answers\YN-S00166
+   |---目录： ./answers\YN-S00166\club
+      |---文件：club.cpp(大小：5045 字节 MD5:becb2050050ddc6c7346ae0a91d28bb9)
+   |---目录： ./answers\YN-S00166\replace
+      |---文件：replace.cpp(大小：932 字节 MD5:450b5a9f912d7ba6d2dc70ff7b72e585)
+   |---目录： ./answers\YN-S00166\road
+      |---文件：road.cpp(大小：1713 字节 MD5:6c29838b71c8ff71512c79d359f653d1)
+|---目录： ./answers\YN-S00167
+   |---目录： ./answers\YN-S00167\club
+      |---文件：club.cpp(大小：1879 字节 MD5:7070f56fc5f3917f228e83d2f45ac9cd)
+|---目录： ./answers\YN-S00168
+   |---目录： ./answers\YN-S00168\club
+      |---文件：club.cpp(大小：2447 字节 MD5:0e477caf309c3b96f7157c094efc0866)
+   |---目录： ./answers\YN-S00168\employ
+      |---文件：employ.cpp(大小：1208 字节 MD5:72d038768390310670ea44aec4aec731)
+   |---目录： ./answers\YN-S00168\replace
+      |---文件：replace.cpp(大小：1305 字节 MD5:a5fc1bd3f651b1d3fa8409e38e3d97c2)
+   |---目录： ./answers\YN-S00168\road
+      |---文件：road.cpp(大小：1151 字节 MD5:9e5bb6b788fcc27d813c155ef697e424)
+|---目录： ./answers\YN-S00169
+   |---目录： ./answers\YN-S00169\club
+      |---文件：club.cpp(大小：1873 字节 MD5:d9ab24fff2dfdd67c840e1674f7b1d21)
+   |---目录： ./answers\YN-S00169\employ
+      |---文件：employ.cpp(大小：220 字节 MD5:4c64c922af05275be88ce4c9be4044c0)
+   |---目录： ./answers\YN-S00169\replace
+      |---文件：replace.cpp(大小：557 字节 MD5:0acb9499bfee42bf7e13d6b47cf1ceee)
+   |---目录： ./answers\YN-S00169\road
+      |---文件：road.cpp(大小：589 字节 MD5:8f7d260ff1d89b4995a67b30ac03fe8e)
+|---目录： ./answers\YN-S00170
+   |---目录： ./answers\YN-S00170\club
+      |---文件：club.cpp(大小：1544 字节 MD5:854271e4d30245615cbbbe953ba87e93)
+   |---目录： ./answers\YN-S00170\replace
+      |---文件：replace.cpp(大小：692 字节 MD5:2cd8d19c2251538f7b6e7849b9abc56c)
+   |---目录： ./answers\YN-S00170\road
+      |---文件：road.cpp(大小：1347 字节 MD5:1d024e176913c28641f75533c80296d1)
+|---目录： ./answers\YN-S00171
+   |---目录： ./answers\YN-S00171\club
+      |---文件：club.cpp(大小：913 字节 MD5:9f026dedfe1b5785771ad395d869ee56)
+   |---目录： ./answers\YN-S00171\employ
+      |---文件：employ.cpp(大小：166 字节 MD5:a199f8e43c499e80666b4116f64c938f)
+   |---目录： ./answers\YN-S00171\replace
+      |---文件：replace.cpp(大小：182 字节 MD5:baf220eeee60735be90fbb3460ef88b6)
+   |---目录： ./answers\YN-S00171\road
+      |---文件：rode.cpp(大小：163 字节 MD5:641922651ad5af685ffc98bd805f2e23)
+|---目录： ./answers\YN-S00172
+   |---目录： ./answers\YN-S00172\club
+      |---文件：club.cpp(大小：1453 字节 MD5:15e5969831a309d9ace5cc36889776ea)
+   |---目录： ./answers\YN-S00172\employ
+      |---文件：employ.cpp(大小：237 字节 MD5:1914786d65c7ad1dfb4aec33a1f193f7)
+   |---目录： ./answers\YN-S00172\replace
+      |---文件：replace.cpp(大小：956 字节 MD5:8e17f7a0b65d8fb5a0dd3bcf2386efa0)
+   |---目录： ./answers\YN-S00172\road
+      |---文件：road.cpp(大小：381 字节 MD5:41758365de095d2b77382e8b10182400)
+|---目录： ./answers\YN-S00173
+   |---目录： ./answers\YN-S00173\club
+      |---文件：club.cpp(大小：1140 字节 MD5:90d030f8adeb5826ede5a1cd5a9d821e)
+   |---目录： ./answers\YN-S00173\employ
+      |---文件：employ.cpp(大小：411 字节 MD5:ae87b00d5c7de516e0e5a55074a76f90)
+   |---目录： ./answers\YN-S00173\replace
+      |---文件：replace.cpp(大小：245 字节 MD5:4d9ed4921b5270f473c048152033f7a0)
+   |---目录： ./answers\YN-S00173\road
+      |---文件：road.cpp(大小：379 字节 MD5:72e2ca1afa5ec9d0d1c181024da8d883)
+|---目录： ./answers\YN-S00174
+   |---目录： ./answers\YN-S00174\club
+      |---文件：club.cpp(大小：3141 字节 MD5:a25f80682f827e0533abef708774ed01)
+   |---目录： ./answers\YN-S00174\road
+      |---文件：road.cpp(大小：819 字节 MD5:caedf57a8fd19702bfeeebd94d514806)
+|---目录： ./answers\YN-S00175
+   |---目录： ./answers\YN-S00175\club
+      |---文件：club.cpp(大小：474 字节 MD5:47b36cb5ff1709ca56401ba108b8ba2b)
+   |---目录： ./answers\YN-S00175\employ
+      |---文件：employ.cpp(大小：172 字节 MD5:25908d9730518df89aeeb58e75f4d966)
+   |---目录： ./answers\YN-S00175\replace
+      |---文件：replace.cpp(大小：358 字节 MD5:af85f936ca54420b7e0f772f6c39ec8f)
+   |---目录： ./answers\YN-S00175\road
+      |---文件：road.cpp(大小：169 字节 MD5:3e5d369e029748b8f0be3a8a94fad09e)
+|---目录： ./answers\YN-S00176
+   |---目录： ./answers\YN-S00176\clud
+      |---文件：clud.cpp(大小：417 字节 MD5:08b50494c0e88d5ce8e0e3ef488bacdf)
+   |---目录： ./answers\YN-S00176\employ
+      |---文件：employ.cpp(大小：211 字节 MD5:7ba9fe9c68565ba6fffd16cf6d1003fc)
+   |---目录： ./answers\YN-S00176\replace
+      |---文件：replace.cpp(大小：401 字节 MD5:6d9b404f6d7e87c3d867463cbf654d23)
+   |---目录： ./answers\YN-S00176\road
+      |---文件：road.cpp(大小：207 字节 MD5:d061b639d397fc6a4d96389fe181bccf)
+|---目录： ./answers\YN-S00177
+   |---目录： ./answers\YN-S00177\club
+      |---文件：club.cpp(大小：1021 字节 MD5:858f47486845b7c835dab75c5900df40)
+   |---目录： ./answers\YN-S00177\employ
+      |---文件：employ.cpp(大小：227 字节 MD5:205d25b4c5172ab0f292facd2c19f652)
+   |---目录： ./answers\YN-S00177\replace
+      |---文件：replace.cpp(大小：295 字节 MD5:918cd6d608fe6ee5ae71833fc1ec8bce)
+   |---目录： ./answers\YN-S00177\road
+      |---文件：road.cpp(大小：161 字节 MD5:88828632038a2b730193b34454def97a)
+|---目录： ./answers\YN-S00178
+   |---目录： ./answers\YN-S00178\club
+      |---文件：club.cpp(大小：2821 字节 MD5:46c6751bb06304e65d4be04c77c7a190)
+   |---目录： ./answers\YN-S00178\employ
+      |---文件：employ.cpp(大小：169 字节 MD5:23c1dbecbb4653f7450c50015a43e76b)
+   |---目录： ./answers\YN-S00178\replace
+      |---文件：replace.cpp(大小：237 字节 MD5:37514762a910a7758490035dd239f470)
+   |---目录： ./answers\YN-S00178\road
+      |---文件：road.cpp(大小：326 字节 MD5:a3e1709031c685920aa2e3c210fc7208)
+|---目录： ./answers\YN-S00179
+   |---目录： ./answers\YN-S00179\club
+      |---文件：club.cpp(大小：1300 字节 MD5:0d937cf7c959aab910ced48810095230)
+   |---目录： ./answers\YN-S00179\employ
+      |---文件：employ.cpp(大小：168 字节 MD5:dc024739df420f537f0172c9c7e4aa69)
+   |---目录： ./answers\YN-S00179\replace
+      |---文件：replace.cpp(大小：270 字节 MD5:8abd794d4e4916add6ee02377aa8d75f)
+   |---目录： ./answers\YN-S00179\road
+      |---文件：road.cpp(大小：621 字节 MD5:23dc0141dd22b6bb7b95dee63a80afc4)
+|---目录： ./answers\YN-S00180
+   |---目录： ./answers\YN-S00180\club
+      |---文件：club.cpp(大小：2944 字节 MD5:573176b495704f9925b3949f5b119941)
+   |---目录： ./answers\YN-S00180\employ
+      |---文件：employ.cpp(大小：472 字节 MD5:c40a48e224308d3a90fc6c84040ff7f4)
+|---目录： ./answers\YN-S00181
+   |---目录： ./answers\YN-S00181\club
+      |---文件：club.cpp(大小：1261 字节 MD5:a6a397d923191d420732025df7ff049e)
+   |---目录： ./answers\YN-S00181\employ
+      |---文件：employ.cpp(大小：256 字节 MD5:3a5f3679b4a756b619120506c1414f9f)
+   |---目录： ./answers\YN-S00181\replace
+      |---文件：replace.cpp(大小：421 字节 MD5:e31bb2c6a488c0d1a0ae66d7fde18603)
+   |---目录： ./answers\YN-S00181\road
+      |---文件：road.cpp(大小：1256 字节 MD5:78b03c432ae650fc52585256a3e9ffbc)
+|---目录： ./answers\YN-S00182
+   |---目录： ./answers\YN-S00182\club
+      |---文件：club .cpp(大小：250 字节 MD5:d0dffa779ae0e2cb9a063d0af18f42b7)
+   |---目录： ./answers\YN-S00182\employ
+      |---文件：employ.cpp(大小：293 字节 MD5:5dd972048f465e2857c21ee725c377a6)
+   |---目录： ./answers\YN-S00182\replace
+      |---文件：replace.cpp(大小：647 字节 MD5:06b7ab75a4e420eacc909f0095b0ff33)
+   |---目录： ./answers\YN-S00182\road
+      |---文件：road.cpp(大小：253 字节 MD5:331eefe312ff17cd536707b4c902bd64)
+|---目录： ./answers\YN-S00183
+   |---目录： ./answers\YN-S00183\club
+      |---文件：club.cpp(大小：1265 字节 MD5:a5b2bafb086ff72f870476d6ed3ef478)
+|---目录： ./answers\YN-S00184
+   |---目录： ./answers\YN-S00184\club
+      |---文件：club.cpp(大小：1546 字节 MD5:5ec12f5d33a10567a71e316e9e27e8ad)
+   |---目录： ./answers\YN-S00184\employ
+      |---文件：employ.cpp(大小：448 字节 MD5:059602b975e233932ec6886d99e796fc)
+   |---目录： ./answers\YN-S00184\replace
+      |---文件：replace.cpp(大小：383 字节 MD5:87f707678b6d709677fd351d876e225a)
+   |---目录： ./answers\YN-S00184\road
+      |---文件：road.cpp(大小：1325 字节 MD5:d7ba432ea85b0ca43d03239cf93daf58)
+|---目录： ./answers\YN-S00185
+   |---目录： ./answers\YN-S00185\club
+      |---文件：club.cpp(大小：1980 字节 MD5:3ed13d836ee38b6687a41855fa616c2e)
+|---目录： ./answers\YN-S00186
+   |---目录： ./answers\YN-S00186\club
+      |---文件：club.cpp(大小：1419 字节 MD5:d03c55bcaeea086bb32f3018c707602a)
+   |---目录： ./answers\YN-S00186\employ
+      |---文件：employ.cpp(大小：690 字节 MD5:1f93d9e3c32ae6078e1ccc8e0935e2d4)
+   |---目录： ./answers\YN-S00186\replace
+      |---文件：replace.cpp(大小：791 字节 MD5:3877fd902d639a2bb2c4708bdbe644aa)
+   |---目录： ./answers\YN-S00186\road
+      |---文件：road.cpp(大小：3000 字节 MD5:30c6e1cd4780d47d56c11b0e22a34d75)
+|---目录： ./answers\YN-S00187
+   |---目录： ./answers\YN-S00187\club
+      |---文件：club.cpp(大小：1126 字节 MD5:44910b2bd2c444797bdd5be672e24669)
+   |---目录： ./answers\YN-S00187\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:c466d5e3b74f4f48c1a7ed80bc3ecba2)
+   |---目录： ./answers\YN-S00187\replace
+      |---文件：replace.cpp(大小：166 字节 MD5:1649e37621c44441d7598b219fe98bf5)
+   |---目录： ./answers\YN-S00187\road
+      |---文件：road.cpp(大小：625 字节 MD5:3e9a65c5e3f4977e6d902f93d9303a29)
+|---目录： ./answers\YN-S00188
+   |---目录： ./answers\YN-S00188\club
+      |---文件：club.cpp(大小：403 字节 MD5:d0efaa6e87e328c45c7a91d4881ba7d7)
+   |---目录： ./answers\YN-S00188\employ
+      |---文件：employ.cpp(大小：357 字节 MD5:18a137bf5dee3e71b2f3eb6fc65e5006)
+   |---目录： ./answers\YN-S00188\replace
+      |---文件：replace.cpp(大小：929 字节 MD5:48a366b72d4e14a0e9db3879447d16fb)
+   |---目录： ./answers\YN-S00188\road
+      |---文件：road.cpp(大小：379 字节 MD5:44b0f9643329367d53403179b8eb85ac)
+|---目录： ./answers\YN-S00189
+   |---目录： ./answers\YN-S00189\club
+      |---文件：club.cpp(大小：2767 字节 MD5:7aabc0de6d4005836db75b632f32e179)
+   |---目录： ./answers\YN-S00189\road
+      |---文件：road.cpp(大小：919 字节 MD5:94333a982eae99c78ba2531def43deb3)
+|---目录： ./answers\YN-S00190
+   |---目录： ./answers\YN-S00190\club
+      |---文件：club.cpp(大小：212 字节 MD5:ece780df3d47ab2b909681b523dda004)
+   |---目录： ./answers\YN-S00190\road
+      |---文件：road.cpp(大小：244 字节 MD5:1c771a1c278fd3357edf76453db16f30)
+|---目录： ./answers\YN-S00191
+   |---目录： ./answers\YN-S00191\club
+      |---文件：club.cpp(大小：451 字节 MD5:ca68bef43065e5e2c4d8c99d9cb9c8f0)
+   |---目录： ./answers\YN-S00191\employ
+      |---文件：employ.cpp(大小：714 字节 MD5:c73de5056379458b550bf071dbe1ca39)
+   |---目录： ./answers\YN-S00191\replace
+      |---文件：replace.cpp(大小：493 字节 MD5:2e2b2e373e5d7a595b5f5558c0b6df31)
+|---目录： ./answers\YN-S00192
+   |---目录： ./answers\YN-S00192\club
+      |---文件：club.cpp(大小：2757 字节 MD5:ed339296d777c5665dc872aa492011ce)
+   |---目录： ./answers\YN-S00192\employ
+      |---文件：employ.cpp(大小：1207 字节 MD5:4db075c3aa726b9319d548bae709eee3)
+   |---目录： ./answers\YN-S00192\replace
+      |---文件：replace.cpp(大小：2191 字节 MD5:4a0f65880b604f0653962979a283875d)
+   |---目录： ./answers\YN-S00192\road
+      |---文件：road.cpp(大小：2073 字节 MD5:6625278d1c529490fa1ecd95b964c462)
+|---目录： ./answers\YN-S00193
+   |---目录： ./answers\YN-S00193\club
+      |---文件：club.cpp(大小：839 字节 MD5:89f932600071cd93171f2ddadf9aac65)
+   |---目录： ./answers\YN-S00193\employ
+      |---文件：employ.cpp(大小：1187 字节 MD5:47f332f3f6a85ed7332e051787c8e104)
+   |---目录： ./answers\YN-S00193\replace
+      |---文件：replace.cpp(大小：1690 字节 MD5:b838638ed560fc3f137a8bcdddd562f6)
+   |---目录： ./answers\YN-S00193\road
+      |---文件：road.cpp(大小：1501 字节 MD5:9c477b3f0075a1b2c4d499f4334267ff)
+|---目录： ./answers\YN-S00194
+   |---目录： ./answers\YN-S00194\club
+      |---文件：club.cpp(大小：706 字节 MD5:399dd6de2db12f47e7fbd438081637fd)
+   |---目录： ./answers\YN-S00194\replace
+      |---文件：replace.cpp(大小：336 字节 MD5:f9cf2a6f08cb7b8935aafec3f2f6a2a9)
+|---目录： ./answers\YN-S00195
+   |---目录： ./answers\YN-S00195\club
+      |---文件：club.cpp(大小：1094 字节 MD5:7e6873a8e3bdfc393f5be19983c4b705)
+   |---目录： ./answers\YN-S00195\employ
+      |---文件：employ.cpp(大小：356 字节 MD5:cf72b00cac41cd396ff9d1774b8bea0c)
+   |---目录： ./answers\YN-S00195\replace
+      |---文件：replace.cpp(大小：398 字节 MD5:15fdce9c34317653af8289c573d61ccd)
+   |---目录： ./answers\YN-S00195\road
+      |---文件：road.cpp(大小：1315 字节 MD5:6d34d706eaf701c66f42282c5f25d6c5)
+|---目录： ./answers\YN-S00196
+   |---目录： ./answers\YN-S00196\club
+      |---文件：club.cpp(大小：967 字节 MD5:391e6a6bcda5c7ead316f45f85558e21)
+   |---目录： ./answers\YN-S00196\employ
+      |---文件：employ.cpp(大小：468 字节 MD5:a3d6c8e2e23fb24dd8b0c4c5f8647af3)
+   |---目录： ./answers\YN-S00196\replace
+      |---文件：replace.cpp(大小：542 字节 MD5:7c67074c63fb128dc2086e84eb034551)
+   |---目录： ./answers\YN-S00196\road
+      |---文件：road.cpp(大小：634 字节 MD5:7ad03655e66c0a887630b56dc7f51bd5)
+|---目录： ./answers\YN-S00197
+   |---目录： ./answers\YN-S00197\club
+      |---文件：club.cpp(大小：846 字节 MD5:adf06ac43cd024678178055c61854544)
+   |---目录： ./answers\YN-S00197\employ
+      |---文件：employ.cpp(大小：286 字节 MD5:6848a49787b8a98490ba0d6672bc3793)
+   |---目录： ./answers\YN-S00197\replace
+      |---文件：replace.cpp(大小：316 字节 MD5:6817483584c2b4614c228c3376b42076)
+   |---目录： ./answers\YN-S00197\road
+      |---文件：road.cpp(大小：387 字节 MD5:52aefa0078be4c277426a694ef995638)
+|---目录： ./answers\YN-S00198
+   |---目录： ./answers\YN-S00198\club
+      |---文件：club.cpp(大小：770 字节 MD5:a0d7183da593a195da2836141ba20fbb)
+   |---目录： ./answers\YN-S00198\road
+      |---文件：road.cpp(大小：1007 字节 MD5:bfb31d92866a7b6a836c8290d433519a)
+|---目录： ./answers\YN-S00199
+   |---目录： ./answers\YN-S00199\club
+      |---文件：club.cpp(大小：1634 字节 MD5:b918c8bb91eba2514ed6e2e4ba709ea4)
+   |---目录： ./answers\YN-S00199\employ
+      |---文件：employ.cpp(大小：812 字节 MD5:12c02e3e169e527e937c9a3bf8f6a407)
+|---目录： ./answers\YN-S00200
+   |---目录： ./answers\YN-S00200\club
+      |---文件：club.cpp(大小：701 字节 MD5:7b52b1b3e3ceb01728d57e0e6e66d2e7)
+   |---目录： ./answers\YN-S00200\employ
+      |---文件：employ.cpp(大小：261 字节 MD5:23de5e6c24adc996601ef7fb83f6a015)
+   |---目录： ./answers\YN-S00200\replace
+      |---文件：replace.cpp(大小：141 字节 MD5:d7d601c44c2b782c0642364b5d36f426)
+   |---目录： ./answers\YN-S00200\road
+      |---文件：road.cpp(大小：316 字节 MD5:9ac605cdccbbadfef50453f0370770e4)
+|---目录： ./answers\YN-S00201
+   |---目录： ./answers\YN-S00201\club
+      |---文件：club.cpp(大小：630 字节 MD5:ebc58f4b3b37dd9c9cc618a9ce7ad439)
+   |---目录： ./answers\YN-S00201\employ
+      |---文件：employ.cpp(大小：165 字节 MD5:15502b4027586436b58fb56c4c8e39a9)
+   |---目录： ./answers\YN-S00201\replace
+      |---文件：replace.cpp(大小：167 字节 MD5:4f21b474c32338eba9f9f16a3048d499)
+   |---目录： ./answers\YN-S00201\road
+      |---文件：road.cpp(大小：162 字节 MD5:d67c19569e192ef0861a29fccc8b48fc)
+|---目录： ./answers\YN-S00202
+   |---目录： ./answers\YN-S00202\club
+      |---文件：chub.cpp(大小：1019 字节 MD5:3ace441a2035a18a48b738bb2d189e53)
+   |---目录： ./answers\YN-S00202\employ
+      |---文件：employ.cpp(大小：448 字节 MD5:a8f8f494c7d3dca6c06727c3932199ad)
+   |---目录： ./answers\YN-S00202\replace
+      |---文件：replace.cpp(大小：337 字节 MD5:3fab957e82aac40f1f6d505ac5632553)
+   |---目录： ./answers\YN-S00202\road
+      |---文件：road.cpp(大小：286 字节 MD5:9185e11e8f63e8372754c301af2245b6)
+|---目录： ./answers\YN-S00203
+   |---目录： ./answers\YN-S00203\club
+      |---文件：club.cpp(大小：2906 字节 MD5:e522664663f33d2b0e4f94a0aa9fcf95)
+   |---目录： ./answers\YN-S00203\employ
+      |---文件：employ.cpp(大小：279 字节 MD5:3aa6220d4276ff1594856ca646e41781)
+   |---目录： ./answers\YN-S00203\replace
+      |---文件：replace.cpp(大小：365 字节 MD5:9241fee261741efbde0c166badb5deba)
+   |---目录： ./answers\YN-S00203\road
+      |---文件：road.cpp(大小：192 字节 MD5:aea0fe2c77d4598f89b69d29992df70e)
+|---目录： ./answers\YN-S00204
+   |---目录： ./answers\YN-S00204\club
+      |---文件：club.cpp(大小：3124 字节 MD5:8d47da8e39e188cd66b979d6242df6c2)
+   |---目录： ./answers\YN-S00204\employ
+      |---文件：employ.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00204\replace
+      |---文件：replace.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+   |---目录： ./answers\YN-S00204\road
+      |---文件：road.cpp(大小：0 字节 MD5:d41d8cd98f00b204e9800998ecf8427e)
+|---目录： ./answers\YN-S00205
+   |---目录： ./answers\YN-S00205\club
+      |---文件：club.cpp(大小：574 字节 MD5:9dd291342294def724ecbca3daf34c7b)
+   |---目录： ./answers\YN-S00205\employ
+      |---文件：employ.cpp(大小：758 字节 MD5:025c90eb723bee02cf440f5759cb2675)
+   |---目录： ./answers\YN-S00205\replace
+      |---文件：replace.cpp(大小：595 字节 MD5:24866429cdd4186ca08b16fcebab8470)
+   |---目录： ./answers\YN-S00205\road
+      |---文件：road.cpp(大小：848 字节 MD5:8d17abf614b881812c34477575434a1d)
+|---目录： ./answers\YN-S00206
+   |---目录： ./answers\YN-S00206\club
+      |---文件：club.cpp(大小：1238 字节 MD5:dfadb4749be02517ea522f4ef2a59ca4)
+   |---目录： ./answers\YN-S00206\employ
+      |---文件：employ.cpp(大小：440 字节 MD5:aa7760001919b71f3b74e1e845511fe6)
+   |---目录： ./answers\YN-S00206\replace
+   |---目录： ./answers\YN-S00206\road
+|---目录： ./answers\YN-S00207
+   |---目录： ./answers\YN-S00207\club
+      |---文件：club.cpp(大小：155 字节 MD5:b374b4bc17deaff0649c718ce2e2fe48)
+   |---目录： ./answers\YN-S00207\employ
+      |---文件：employ.cpp(大小：210 字节 MD5:e09ed99a30d2006260a48aa62da545be)
+   |---目录： ./answers\YN-S00207\replace
+      |---文件：replace.cpp(大小：79 字节 MD5:f96634dd577d474ba7ae4446d56a468c)
+   |---目录： ./answers\YN-S00207\road
+      |---文件：road.cpp(大小：1170 字节 MD5:e4071507efabfd6a91ff4a65dd9278a2)
+|---目录： ./answers\YN-S00208
+   |---目录： ./answers\YN-S00208\club
+      |---文件：club.cpp(大小：946 字节 MD5:ee62537c03039a178cb53f7b12d61c02)
+   |---目录： ./answers\YN-S00208\employ
+      |---文件：employ.cpp(大小：621 字节 MD5:1ea520a4100a8614a5859649e6f2c23c)
+   |---目录： ./answers\YN-S00208\road
+      |---文件：road.cpp(大小：2934 字节 MD5:dc3af9e122230ca66fff44e03b2930f9)
+|---目录： ./answers\YN-S00209
+   |---目录： ./answers\YN-S00209\club
+      |---文件：club.cpp(大小：1847 字节 MD5:c26f1e9a0ba8f92fd3aaeda445f69261)
+   |---目录： ./answers\YN-S00209\employ
+   |---目录： ./answers\YN-S00209\replace
+      |---文件：replace.cpp(大小：1847 字节 MD5:c26f1e9a0ba8f92fd3aaeda445f69261)
+   |---目录： ./answers\YN-S00209\road
+      |---文件：road.cpp(大小：1709 字节 MD5:3126a15b3547ecacd50c896dc292cf5a)
+|---目录： ./answers\YN-S00210
+   |---目录： ./answers\YN-S00210\club
+      |---文件：club.cpp(大小：209 字节 MD5:200d83271e6057935288c73707b00061)
+   |---目录： ./answers\YN-S00210\road
+      |---文件：club.cpp(大小：209 字节 MD5:200d83271e6057935288c73707b00061)
+      |---文件：road.cpp(大小：141 字节 MD5:0db6846adfcfb502a9c828a5f10714df)
+|---目录： ./answers\YN-S00211
+   |---目录： ./answers\YN-S00211\club
+      |---文件：club.cpp(大小：1676 字节 MD5:e62e47921216183cf7518f424eef7526)
+   |---目录： ./answers\YN-S00211\employ
+      |---文件：employ.cpp(大小：814 字节 MD5:9b0ba8a719479fa51defbe98d2aa12be)
+   |---目录： ./answers\YN-S00211\replace
+      |---文件：replace.cpp(大小：634 字节 MD5:406003c6c0f387545c6951eb101161ac)
+   |---目录： ./answers\YN-S00211\road
+      |---文件：road.cpp(大小：824 字节 MD5:04ee9be91cbcd1805a816fd8d7127602)
+|---目录： ./answers\YN-S00212
+   |---目录： ./answers\YN-S00212\club
+      |---文件：club.cpp(大小：935 字节 MD5:53d01ce9460b11d18bce4c363f43a45a)
+   |---目录： ./answers\YN-S00212\employ
+      |---文件：employ.cpp(大小：285 字节 MD5:9f354dba1ab8643554b8bd6df152d904)
+   |---目录： ./answers\YN-S00212\replace
+      |---文件：replace.cpp(大小：1031 字节 MD5:c66245151c081ee02973b6c8b87bb62b)
+   |---目录： ./answers\YN-S00212\road
+      |---文件：road.cpp(大小：523 字节 MD5:13ee98ff4ff205648bbde80cffc9b5c2)
+|---目录： ./answers\YN-S00213
+   |---目录： ./answers\YN-S00213\club
+      |---文件：club.cpp(大小：3385 字节 MD5:b5b10ad08e45685a0645fe9a9bc443ad)
+   |---目录： ./answers\YN-S00213\employ
+      |---文件：employ.cpp(大小：730 字节 MD5:ae543db2468596cdefdec44db5798fde)
+|---目录： ./answers\YN-S00214
+   |---目录： ./answers\YN-S00214\club
+      |---文件：club.cpp(大小：3404 字节 MD5:d366c456b64e5e279dc6586101d5c613)
+   |---目录： ./answers\YN-S00214\employ
+      |---文件：employ.cpp(大小：275 字节 MD5:91100f2ecef78a99501490bc2095f7c4)
+   |---目录： ./answers\YN-S00214\replace
+      |---文件：replace.cpp(大小：243 字节 MD5:be6022cb2efdda27bb848924c2b53cc3)
+   |---目录： ./answers\YN-S00214\road
+      |---文件：road.cpp(大小：2184 字节 MD5:97e1b9f397561230a4033a078f7a191f)
+|---目录： ./answers\YN-S00215
+   |---目录： ./answers\YN-S00215\club
+      |---文件：club.cpp(大小：2214 字节 MD5:48703f297bc35b7cc4e6aadc266a1237)
+   |---目录： ./answers\YN-S00215\replace
+      |---文件：replace.cpp(大小：3697 字节 MD5:bd18caf03131932c472065f44acdbe42)
+   |---目录： ./answers\YN-S00215\road
+      |---文件：road.cpp(大小：1319 字节 MD5:d798eb5ed39bbfab5c8ce413521a92a5)
+|---目录： ./answers\YN-S00216
+   |---目录： ./answers\YN-S00216\club
+      |---文件：club.cpp(大小：439 字节 MD5:c6cd6e15fdfe1cc8bde5fddbdc2a5b31)
+   |---目录： ./answers\YN-S00216\employ
+      |---文件：employ.cpp(大小：303 字节 MD5:e0ebcb95ee187291e3d5633963089b33)
+   |---目录： ./answers\YN-S00216\replace
+      |---文件：replace.cpp(大小：335 字节 MD5:a7900abfddba74b6a52f2789f651d884)
+   |---目录： ./answers\YN-S00216\road
+      |---文件：road.cpp(大小：195 字节 MD5:efac3036a1536acaff24fad4d8a95382)
+|---目录： ./answers\YN-S00217
+   |---目录： ./answers\YN-S00217\club
+      |---文件：club.cpp(大小：523 字节 MD5:9e20ebb5d13aa5193eb41d2fb815a7bf)
+   |---目录： ./answers\YN-S00217\replace
+      |---文件：replace.cpp(大小：447 字节 MD5:a08a584f34ab33507d6243c64f311299)
+   |---目录： ./answers\YN-S00217\road
+      |---文件：road.cpp(大小：509 字节 MD5:99e1daa8968fbeec6e7154682b376846)
+|---目录： ./answers\YN-S00218
+   |---目录： ./answers\YN-S00218\club
+      |---文件：club.cpp(大小：1111 字节 MD5:548f99420dd3342d619267df40c13d2b)
+   |---目录： ./answers\YN-S00218\employ
+      |---文件：employ.cpp(大小：1097 字节 MD5:cc866dd850c84ffa2d67d2c301c16907)
+   |---目录： ./answers\YN-S00218\replace
+      |---文件：replace.cpp(大小：494 字节 MD5:e594ef113d08de29ea4a2278398a1c99)
+   |---目录： ./answers\YN-S00218\road
+      |---文件：road.cpp(大小：462 字节 MD5:639cfcd2dca33a573d1e7019089ce557)
+|---目录： ./answers\YN-S00219
+   |---目录： ./answers\YN-S00219\club
+      |---文件：club.cpp(大小：551 字节 MD5:fc4d37011b7e38a36d1e02a0a8768e27)
+   |---目录： ./answers\YN-S00219\employ
+      |---文件：employ.cpp(大小：198 字节 MD5:678cf27db233d86fcc23f71841281584)
+   |---目录： ./answers\YN-S00219\replace
+      |---文件：replace.cpp(大小：625 字节 MD5:ecc3c3740d1ce9f6b46ccac78d94e895)
+   |---目录： ./answers\YN-S00219\road
+      |---文件：road.cpp(大小：252 字节 MD5:42da58af19787b5b1d1c38d34cb85b1c)
+|---目录： ./answers\YN-S00220
+   |---目录： ./answers\YN-S00220\club
+      |---文件：club.cpp(大小：847 字节 MD5:d3b0dada7539116f9dca374a982939f7)
+   |---目录： ./answers\YN-S00220\employ
+      |---文件：employ.cpp(大小：726 字节 MD5:1c5e7c0987852ff80ed8c8b68ed0e7d6)
+   |---目录： ./answers\YN-S00220\replace
+      |---文件：replace.cpp(大小：441 字节 MD5:c79840f17cfbc03318139d70ebaae2ca)
+   |---目录： ./answers\YN-S00220\road
+      |---文件：road.cpp(大小：656 字节 MD5:f487e4aba650ea26bf711d2626724b49)
+|---目录： ./answers\YN-S00221
+   |---目录： ./answers\YN-S00221\club
+      |---文件：club.cpp(大小：2620 字节 MD5:9222c818030daf64e6b2453cad0f6ea9)
+|---目录： ./answers\YN-S00222
+   |---目录： ./answers\YN-S00222\club
+      |---文件：club.cpp(大小：1232 字节 MD5:e814e852ddf33ddea19fb5185232edfb)
+   |---目录： ./answers\YN-S00222\employ
+      |---文件：employ.cpp(大小：1024 字节 MD5:2da991594f0a382c46941f02e28dc655)
+   |---目录： ./answers\YN-S00222\replace
+      |---文件：replace.cpp(大小：1119 字节 MD5:aec7ec428eb4dfa1b6a648d1c1ce2a29)
+   |---目录： ./answers\YN-S00222\road
+      |---文件：road.cpp(大小：913 字节 MD5:3cd2f9ecbca21938f9b0aa922b43b2f2)
+|---目录： ./answers\YN-S00223
+   |---目录： ./answers\YN-S00223\club
+      |---文件：club.cpp(大小：2662 字节 MD5:4bf8eabd7e53f5042cd6d33a241f38f3)
+   |---目录： ./answers\YN-S00223\employ
+      |---文件：employ.cpp(大小：563 字节 MD5:723edbd3508896126f8e26e7f842aa76)
+   |---目录： ./answers\YN-S00223\replace
+      |---文件：replace.cpp(大小：521 字节 MD5:42f43ff97bded89417b0c79db2e52993)
+   |---目录： ./answers\YN-S00223\road
+      |---文件：road.cpp(大小：590 字节 MD5:a6abda93617949feb4743b802fe19aac)
+|---目录： ./answers\YN-S00224
+   |---目录： ./answers\YN-S00224\club
+      |---文件：club.cpp(大小：1166 字节 MD5:797dfb37d71132d379659f6b91ae06e5)
+   |---目录： ./answers\YN-S00224\employ
+      |---文件：employ.cpp(大小：497 字节 MD5:2b96d3d621add2fb64f1d91cbed2c2d1)
+   |---目录： ./answers\YN-S00224\replace
+      |---文件：replace.cpp(大小：372 字节 MD5:b384cc560e6642f1f97b5f7d2aa3bc4e)
+   |---目录： ./answers\YN-S00224\road
+      |---文件：road.cpp(大小：560 字节 MD5:2277baef908f1e2a16a67abebd7a82b7)
+|---目录： ./answers\YN-S00225
+   |---目录： ./answers\YN-S00225\club
+      |---文件：club.cpp(大小：872 字节 MD5:d694222e9f49661abbd2045608b9a2c9)
+   |---目录： ./answers\YN-S00225\employ
+      |---文件：employ.cpp(大小：434 字节 MD5:14f4a0722b524d7273aaf27944045aa0)
+   |---目录： ./answers\YN-S00225\replace
+      |---文件：replace.cpp(大小：783 字节 MD5:4a26868169de51661452ca45158ffa84)
+   |---目录： ./answers\YN-S00225\road
+      |---文件：road.cpp(大小：924 字节 MD5:3e73f3d8d45295327afe37d36e656940)
+|---目录： ./answers\YN-S00226
+   |---目录： ./answers\YN-S00226\club
+      |---文件：club.cpp(大小：971 字节 MD5:67a2556302e2bddde44d79ef53b3c05d)
+   |---目录： ./answers\YN-S00226\employ
+   |---目录： ./answers\YN-S00226\replace
+   |---目录： ./answers\YN-S00226\road
+      |---文件：road.cpp(大小：506 字节 MD5:cf0bff32eb5f02ca11d58e0e8df664b9)
+|---目录： ./answers\YN-S00227
+   |---目录： ./answers\YN-S00227\club
+      |---文件：club.cpp(大小：1274 字节 MD5:e2ab1d3cca61205a5adff222aea2b814)
+|---目录： ./answers\YN-S00228
+   |---目录： ./answers\YN-S00228\club
+      |---文件：club.cpp(大小：475 字节 MD5:9b0bf8092a16c89d0b58a4b0651426a7)
+   |---目录： ./answers\YN-S00228\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:727d2abe55d9b8b3ec78f8270d106b88)
+   |---目录： ./answers\YN-S00228\replace
+      |---文件：replace.cpp(大小：166 字节 MD5:ff3d5352f3955ae271af70715eb73044)
+   |---目录： ./answers\YN-S00228\road
+      |---文件：road.cpp(大小：161 字节 MD5:88828632038a2b730193b34454def97a)
+|---目录： ./answers\YN-S00229
+   |---目录： ./answers\YN-S00229\club
+      |---文件：club.cpp(大小：1634 字节 MD5:1a562aff07ca40a985193605754eaf72)
+   |---目录： ./answers\YN-S00229\employ
+      |---文件：employ.cpp(大小：715 字节 MD5:cb50273db15bc7d0c3094e9784753803)
+   |---目录： ./answers\YN-S00229\replace
+      |---文件：replace.cpp(大小：1033 字节 MD5:847f226c0711beb8e9d73252116903ab)
+   |---目录： ./answers\YN-S00229\road
+      |---文件：road.cpp(大小：164 字节 MD5:3b92b2316962545e16105120ebfeadd1)
+|---目录： ./answers\YN-S00230
+   |---目录： ./answers\YN-S00230\club
+      |---文件：club.cpp(大小：497 字节 MD5:fba7d855d9393fca18bfbaa738529d39)
+   |---目录： ./answers\YN-S00230\employ
+      |---文件：employ.cpp(大小：411 字节 MD5:772b4dfd180a87a30b35e58e03e47f35)
+   |---目录： ./answers\YN-S00230\road
+      |---文件：road.cpp(大小：463 字节 MD5:9bc9d4f4b8de769fb945d41e8b181f78)
+|---目录： ./answers\YN-S00231
+   |---目录： ./answers\YN-S00231\club
+      |---文件：club.cpp(大小：2791 字节 MD5:4c37834083b90d824090a809cb4f558d)
+   |---目录： ./answers\YN-S00231\road
+      |---文件：road.cpp(大小：3565 字节 MD5:65b23ad7270a4f7d3f8a50447fcd8b73)
+|---目录： ./answers\YN-S00232
+   |---目录： ./answers\YN-S00232\club
+      |---文件：club.cpp(大小：723 字节 MD5:84ce786b102cf7334132c41c6f13b5e4)
+   |---目录： ./answers\YN-S00232\employ
+      |---文件：employ.cpp(大小：346 字节 MD5:c94df5cec64beb205e63d8c45264be91)
+   |---目录： ./answers\YN-S00232\replace
+      |---文件：replace.cpp(大小：190 字节 MD5:a72d780092edee1918f995b19761a46d)
+   |---目录： ./answers\YN-S00232\road
+      |---文件：road.cpp(大小：438 字节 MD5:8a0685884cb3018fdcf4c7b1750d882b)
+|---目录： ./answers\YN-S00233
+   |---目录： ./answers\YN-S00233\club
+      |---文件：club.cpp(大小：2713 字节 MD5:4a742727d5e046020c4df71e5ac77d6f)
+   |---目录： ./answers\YN-S00233\employ
+      |---文件：employ.cpp(大小：160 字节 MD5:4f3c220c519174482b42107149b0ea68)
+   |---目录： ./answers\YN-S00233\replace
+      |---文件：replace.cpp(大小：162 字节 MD5:404560c253fe1a7ca2106b62fbf4eae6)
+   |---目录： ./answers\YN-S00233\road
+      |---文件：road.cpp(大小：156 字节 MD5:0d5494f30373bc95a5454357dbb8b45d)
+|---目录： ./answers\YN-S00234
+   |---目录： ./answers\YN-S00234\club
+      |---文件：club.cpp(大小：1247 字节 MD5:ba13238018cd6f1a916a733a20e30def)
+   |---目录： ./answers\YN-S00234\employ
+      |---文件：employ.cpp(大小：283 字节 MD5:3076cdca354533c445310a094ca8e202)
+   |---目录： ./answers\YN-S00234\replace
+      |---文件：replace.cpp(大小：273 字节 MD5:95f5cc7ef2085391928553b5005963c5)
+   |---目录： ./answers\YN-S00234\road
+      |---文件：road.cpp(大小：362 字节 MD5:433abc9e9fcbb82b3e548a9514bd606b)
+|---目录： ./answers\YN-S00235
+   |---目录： ./answers\YN-S00235\club
+      |---文件：club.cpp(大小：1125 字节 MD5:62cf2c7e0af75e97677bb0f0c427fa8d)
+   |---目录： ./answers\YN-S00235\employ
+      |---文件：employ.cpp(大小：675 字节 MD5:7b0ba10c60692809467545c0a544505d)
+   |---目录： ./answers\YN-S00235\replace
+      |---文件：replace.cpp(大小：837 字节 MD5:3636c38debe215a578d0ddc8f72059b4)
+   |---目录： ./answers\YN-S00235\road
+      |---文件：road.cpp(大小：522 字节 MD5:430ba0f7abd4226352a8cd50e57782d6)
+|---目录： ./answers\YN-S00236
+   |---目录： ./answers\YN-S00236\club
+      |---文件：club.cpp(大小：633 字节 MD5:9abf26acc79b9aa62038cc375b0ed56e)
+   |---目录： ./answers\YN-S00236\road
+      |---文件：road.cpp(大小：208 字节 MD5:6a0d8a1e5a29f70ec2c04efdc91858eb)
+|---目录： ./answers\YN-S00237
+   |---目录： ./answers\YN-S00237\club
+      |---文件：club.cpp(大小：4063 字节 MD5:4b3d2bd58a73c2238592a0dd8c923cd3)
+   |---目录： ./answers\YN-S00237\employ
+      |---文件：employ.cpp(大小：812 字节 MD5:20a6b386a90d6d2047f96e013d9cfa2a)
+   |---目录： ./answers\YN-S00237\replace
+      |---文件：replace.cpp(大小：317 字节 MD5:dbc6755c4f49d8390a64a690f9251ccf)
+   |---目录： ./answers\YN-S00237\road
+      |---文件：road.cpp(大小：1253 字节 MD5:923d8488006504f57c0e13fad85f90e2)
+|---目录： ./answers\YN-S00239
+   |---目录： ./answers\YN-S00239\club
+      |---文件：club.cpp(大小：2835 字节 MD5:cf98442ebd1c90dd4f0861bbe6b25fb5)
+   |---目录： ./answers\YN-S00239\employ
+      |---文件：employ.cpp(大小：537 字节 MD5:d9edf3e1e2119e106edb91598a91b2a4)
+   |---目录： ./answers\YN-S00239\replace
+      |---文件：replace.cpp(大小：468 字节 MD5:719aec1055b422b62c24c2af9b9c7f3c)
+   |---目录： ./answers\YN-S00239\road
+      |---文件：road.cpp(大小：300 字节 MD5:af11ae605bed4d57fa1ba24452f19ca0)
+|---目录： ./answers\YN-S00240
+   |---目录： ./answers\YN-S00240\club
+      |---文件：club.cpp(大小：1621 字节 MD5:99aadf21338047edf24372ed1e04898e)
+   |---目录： ./answers\YN-S00240\employ
+      |---文件：employ.cpp(大小：770 字节 MD5:8140abbe6813662958bcc113a825bfe5)
+   |---目录： ./answers\YN-S00240\replace
+      |---文件：replace.cpp(大小：236 字节 MD5:f951825805243625411718d9bcc5a31b)
+   |---目录： ./answers\YN-S00240\road
+      |---文件：road.cpp(大小：186 字节 MD5:47ebf22e50d09c0ecffc3cd64aa1aa96)
+|---目录： ./answers\YN-S00241
+   |---目录： ./answers\YN-S00241\club
+      |---文件：club.cpp(大小：1146 字节 MD5:01725bdd2a76f840ce48aa7bfec9c350)
+   |---目录： ./answers\YN-S00241\replace
+      |---文件：replace.cpp(大小：226 字节 MD5:2224df72c064a5e9a7ffd1404b868861)
+   |---目录： ./answers\YN-S00241\road
+      |---文件：road.cpp(大小：929 字节 MD5:7832948bfeafcbdfb25b4cc0afd80cb2)
+|---目录： ./answers\YN-S00242
+   |---目录： ./answers\YN-S00242\club
+      |---文件：club.cpp(大小：1544 字节 MD5:0ff1725c4b66eac3d89278d56a24c442)
+|---目录： ./answers\YN-S00243
+   |---目录： ./answers\YN-S00243\club
+      |---文件：club.cpp(大小：880 字节 MD5:a3395ba0299c0acd5d443c7411a1c457)
+   |---目录： ./answers\YN-S00243\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:727d2abe55d9b8b3ec78f8270d106b88)
+   |---目录： ./answers\YN-S00243\replace
+      |---文件：replace.cpp(大小：179 字节 MD5:141ab9370b64579f770f4e36c0075eb4)
+   |---目录： ./answers\YN-S00243\road
+      |---文件：road.cpp(大小：161 字节 MD5:88828632038a2b730193b34454def97a)
+|---目录： ./answers\YN-S00244
+   |---目录： ./answers\YN-S00244\club
+      |---文件：club.cpp(大小：1182 字节 MD5:265dd331f8faa7411bbf7be7f3ab6c7d)
+   |---目录： ./answers\YN-S00244\employ
+      |---文件：employ.cpp(大小：619 字节 MD5:33df92774c409de9ddc0413bf963c56e)
+   |---目录： ./answers\YN-S00244\replace
+      |---文件：replace.cpp(大小：643 字节 MD5:2a0b406601af4caf58d101ac21d9f5bb)
+   |---目录： ./answers\YN-S00244\road
+      |---文件：road.cpp(大小：831 字节 MD5:a53970cd85403d38f1ead5913f6e276c)
+|---目录： ./answers\YN-S00245
+   |---目录： ./answers\YN-S00245\club
+      |---文件：club.cpp(大小：2193 字节 MD5:7201ca21ca3fb7bc4401ee6ca75446e4)
+   |---目录： ./answers\YN-S00245\employ
+      |---文件：employ.cpp(大小：250 字节 MD5:9ebf5fc7e8aeb79f7b925b4a868fefbb)
+   |---目录： ./answers\YN-S00245\replace
+      |---文件：replace.cpp(大小：321 字节 MD5:bb1cfb0715ff5f9932dd993ce17b8afd)
+   |---目录： ./answers\YN-S00245\road
+      |---文件：road.cpp(大小：2077 字节 MD5:f92e002a02c04176b4216fca1a244c25)
+|---目录： ./answers\YN-S00246
+   |---目录： ./answers\YN-S00246\club
+      |---文件：club.cpp(大小：316 字节 MD5:9e292d07352c3a160b46e788bef7287b)
+   |---目录： ./answers\YN-S00246\employ
+      |---文件：employ.cpp(大小：322 字节 MD5:2f18371503b972a0033a0733cbd99154)
+   |---目录： ./answers\YN-S00246\replace
+      |---文件：replace.cpp(大小：259 字节 MD5:7b172163e24ffd9a814960b76bc13470)
+   |---目录： ./answers\YN-S00246\road
+      |---文件：road.cpp(大小：322 字节 MD5:35c48ee1db42033416708556b7c9197b)
+|---目录： ./answers\YN-S00247
+   |---目录： ./answers\YN-S00247\club
+      |---文件：club.cpp(大小：1023 字节 MD5:b6c9679b286439f46c0ca3fb2a39370c)
+   |---目录： ./answers\YN-S00247\employ
+      |---文件：employ.cpp(大小：255 字节 MD5:48bec33f4611488ba47a15776b05fc4a)
+   |---目录： ./answers\YN-S00247\replace
+      |---文件：replace.cpp(大小：280 字节 MD5:330937cffc74b31fcee8e64abb807147)
+   |---目录： ./answers\YN-S00247\road
+      |---文件：road.cpp(大小：258 字节 MD5:01260d79963baf93599635cac28cef82)
+|---目录： ./answers\YN-S00248
+   |---目录： ./answers\YN-S00248\club
+      |---文件：club.cpp(大小：2191 字节 MD5:537c1a7ed0649ba9e8b063469c183aeb)
+   |---目录： ./answers\YN-S00248\employ
+      |---文件：employ.cpp(大小：764 字节 MD5:217d65aaf4e257628f0464af6907cd9d)
+   |---目录： ./answers\YN-S00248\replace
+      |---文件：replace.cpp(大小：1714 字节 MD5:7ecb1ea307ad62cd8b2c3a8c2b9cce2a)
+   |---目录： ./answers\YN-S00248\road
+      |---文件：road.cpp(大小：1332 字节 MD5:bc60ad936a09abad4ddac20b67963968)
+|---目录： ./answers\YN-S00249
+   |---目录： ./answers\YN-S00249\club
+      |---文件：club.cpp(大小：1732 字节 MD5:4d77c0a37cfe79450d13088531482115)
+|---目录： ./answers\YN-S00250
+   |---目录： ./answers\YN-S00250\club
+      |---文件：club.cpp(大小：1657 字节 MD5:c60aa8aa6ce05a2f804848c4e4e04a9c)
+   |---目录： ./answers\YN-S00250\employ
+      |---文件：employ.cpp(大小：382 字节 MD5:5bc301f8ec17fa4e284cdf4831d61b8b)
+   |---目录： ./answers\YN-S00250\replace
+      |---文件：replace.cpp(大小：555 字节 MD5:a0a1249a3033f4703ed4c73facf40354)
+   |---目录： ./answers\YN-S00250\road
+      |---文件：road.cpp(大小：171 字节 MD5:36e1e75b0990c8e96f2edddb8186fbe0)
+|---目录： ./answers\YN-S00251
+   |---目录： ./answers\YN-S00251\club
+      |---文件：club.cpp(大小：713 字节 MD5:32b673afdf97be51e4cd2f93680b5209)
+|---目录： ./answers\YN-S00252
+   |---目录： ./answers\YN-S00252\club
+      |---文件：club.cpp(大小：3552 字节 MD5:8b49bb29d65e0ad2d856443683ff3dfd)
+   |---目录： ./answers\YN-S00252\replace
+      |---文件：replace.cpp(大小：798 字节 MD5:95be53c68f708efe8c0d6fbc76a0b51d)
+|---目录： ./answers\YN-S00253
+   |---目录： ./answers\YN-S00253\club
+      |---文件：club.cpp(大小：1277 字节 MD5:776110f4df2a93b4648f0109175b0708)
+   |---目录： ./answers\YN-S00253\employ
+      |---文件：employ.cpp(大小：495 字节 MD5:9ffa248ff99069fbc65afc865e796b95)
+   |---目录： ./answers\YN-S00253\replace
+      |---文件：replace.cpp(大小：156 字节 MD5:723477867e5b58890cdf86a90b749b4f)
+   |---目录： ./answers\YN-S00253\road
+      |---文件：road.cpp(大小：1193 字节 MD5:64cbb76f6cb8e3fbdf1c9e8522027940)
+|---目录： ./answers\YN-S00254
+   |---目录： ./answers\YN-S00254\club
+      |---文件：club.cpp(大小：1196 字节 MD5:0adf8185ff773db325726a7457e6eb38)
+   |---目录： ./answers\YN-S00254\employ
+      |---文件：employ.cpp(大小：217 字节 MD5:44ffddb663ad71dda9f71748aa57e798)
+   |---目录： ./answers\YN-S00254\road
+      |---文件：road.cpp(大小：1669 字节 MD5:8f00e6d7cc39d0047a531496a6c99c93)
+|---目录： ./answers\YN-S00255
+   |---目录： ./answers\YN-S00255\club
+      |---文件：club.cpp(大小：1565 字节 MD5:a76e38dc4bcdae0c896f8debd564f1e2)
+   |---目录： ./answers\YN-S00255\employ
+      |---文件：employ.cpp(大小：676 字节 MD5:118cdc13b8cb122f10f75744aa88cb11)
+   |---目录： ./answers\YN-S00255\replace
+      |---文件：replace.cpp(大小：2839 字节 MD5:ab46909357449ac70df05581d12a8fdf)
+   |---目录： ./answers\YN-S00255\road
+      |---文件：road.cpp(大小：1214 字节 MD5:6592f28912a2b120c5a215cfec35cf36)
+|---目录： ./answers\YN-S00256
+   |---目录： ./answers\YN-S00256\club
+      |---文件：club.cpp(大小：1320 字节 MD5:e2c28deb552d73325647ee0b2237479d)
+   |---目录： ./answers\YN-S00256\employ
+      |---文件：employ.cpp(大小：287 字节 MD5:00153293ba9df4657d2567deb498aaad)
+   |---目录： ./answers\YN-S00256\replace
+   |---目录： ./answers\YN-S00256\road
+      |---文件：road.cpp(大小：1447 字节 MD5:719bd679530f8826af8c2d12ba7c1efb)
+|---目录： ./answers\YN-S00257
+   |---目录： ./answers\YN-S00257\club
+      |---文件：club.cpp(大小：1140 字节 MD5:46c433a98b758e6a271a5c0a4a43f082)
+   |---目录： ./answers\YN-S00257\employ
+      |---文件：employ.cpp(大小：716 字节 MD5:782e00154a04a611afaa259351d880f4)
+   |---目录： ./answers\YN-S00257\replace
+      |---文件：replace.cpp(大小：321 字节 MD5:46692d4f49e2cd4a21be0abea5ae5486)
+|---目录： ./answers\YN-S00258
+   |---目录： ./answers\YN-S00258\club
+      |---文件：club.cpp(大小：450 字节 MD5:92ac718c3354a21e4a9cf78c64944e6c)
+   |---目录： ./answers\YN-S00258\employ
+      |---文件：employ.cpp(大小：492 字节 MD5:aec1284d7ea651ce5b91561f1a406ab3)
+   |---目录： ./answers\YN-S00258\replace
+      |---文件：replace.cpp(大小：357 字节 MD5:40b3198a424be6a91f97c0da7f98385a)
+   |---目录： ./answers\YN-S00258\road
+      |---文件：road.cpp(大小：196 字节 MD5:a3392cb3ea9de97d54ee78ef250d176b)
+|---目录： ./answers\YN-S00259
+   |---目录： ./answers\YN-S00259\club
+      |---文件：club.cpp(大小：2508 字节 MD5:d1e1702463af3794514358e75f3b5498)
+   |---目录： ./answers\YN-S00259\employ
+   |---目录： ./answers\YN-S00259\replace
+   |---目录： ./answers\YN-S00259\road
+      |---文件：road.cpp(大小：705 字节 MD5:6ea6fc56727531bc1c60f2591e71f41f)
+|---目录： ./answers\YN-S00261
+   |---目录： ./answers\YN-S00261\club
+      |---文件：club.cpp(大小：1667 字节 MD5:59d43686ece4d43cd6a85c530145bf68)
+   |---目录： ./answers\YN-S00261\employ
+      |---文件：employ.cpp(大小：359 字节 MD5:bf1e5df0b7e675da0bc54932a6d6d36d)
+   |---目录： ./answers\YN-S00261\replace
+      |---文件：replace.cpp(大小：753 字节 MD5:2e0b7c9ab5ba3e99738272e1b047fc84)
+   |---目录： ./answers\YN-S00261\road
+      |---文件：road.cpp(大小：669 字节 MD5:245b065e78e5c3cf8a3d98661b6d0560)
+|---目录： ./answers\YN-S00262
+   |---目录： ./answers\YN-S00262\club
+      |---文件：club.cpp(大小：1436 字节 MD5:0c5e60330d9d94ce7a69fc373a5f7fda)
+   |---目录： ./answers\YN-S00262\road
+      |---文件：road.cpp(大小：226 字节 MD5:c0d01d36d64006c223fa631bac428e5d)
+|---目录： ./answers\YN-S00263
+   |---目录： ./answers\YN-S00263\club
+      |---文件：club.cpp(大小：3078 字节 MD5:60c3351f581604604146ce6f84fd388a)
+   |---目录： ./answers\YN-S00263\employ
+      |---文件：employ.cpp(大小：421 字节 MD5:75d6c0b6cc87d471361d284ff6bbe38c)
+   |---目录： ./answers\YN-S00263\replace
+      |---文件：replace.cpp(大小：240 字节 MD5:ea45fa837879f2c2c70a861296a10fce)
+   |---目录： ./answers\YN-S00263\road
+      |---文件：road.cpp(大小：160 字节 MD5:c06d0a704d00dc8fa4ddc2493dd3844f)
+|---目录： ./answers\YN-S00264
+   |---目录： ./answers\YN-S00264\club
+      |---文件：club.cpp(大小：1741 字节 MD5:3b78513bf6c3a1d02869334759e4f7c9)
+   |---目录： ./answers\YN-S00264\road
+      |---文件：road.cpp(大小：2048 字节 MD5:3c419eed739ed42c2919ba024a51f004)
+|---目录： ./answers\YN-S00265
+   |---目录： ./answers\YN-S00265\club
+      |---文件：club.cpp(大小：512 字节 MD5:09ff5bb52f8daecd7c7224093402d02d)
+   |---目录： ./answers\YN-S00265\employ
+      |---文件：employ.cpp(大小：201 字节 MD5:91127901002df6490e9de8f7ae9781f1)
+   |---目录： ./answers\YN-S00265\replace
+      |---文件：replace.cpp(大小：203 字节 MD5:5a13cfb63fce1c693d7898c7963a68ab)
+   |---目录： ./answers\YN-S00265\road
+      |---文件：road.cpp(大小：234 字节 MD5:33c1877596a168909e5ef4c2d9c6edc1)
+|---目录： ./answers\YN-S00266
+   |---目录： ./answers\YN-S00266\club
+      |---文件：club.cpp(大小：427 字节 MD5:08bb626268cec24dfa9f038b20b2438e)
+   |---目录： ./answers\YN-S00266\employ
+      |---文件：employ.cpp(大小：470 字节 MD5:bf5a6f26ecb135074a9ceae7b12dfe33)
+   |---目录： ./answers\YN-S00266\replace
+   |---目录： ./answers\YN-S00266\road
+|---目录： ./answers\YN-S00267
+   |---目录： ./answers\YN-S00267\club
+      |---文件：club.cpp(大小：769 字节 MD5:8ff350e59c8f21511c568da827578a3d)
+   |---目录： ./answers\YN-S00267\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:727d2abe55d9b8b3ec78f8270d106b88)
+   |---目录： ./answers\YN-S00267\replace
+      |---文件：replace.cpp(大小：172 字节 MD5:a63029ddd2246fae834280ce8e27cd17)
+   |---目录： ./answers\YN-S00267\road
+      |---文件：road.cpp(大小：165 字节 MD5:040fdc03c2eab905b4174344fd801ce2)
+|---目录： ./answers\YN-S00268
+   |---目录： ./answers\YN-S00268\club
+      |---文件：club.cpp(大小：1950 字节 MD5:ac77ec5e800a3e890614e94023a7c420)
+   |---目录： ./answers\YN-S00268\replace
+      |---文件：replace.cpp(大小：1094 字节 MD5:046c4d0cc95f8dbb03952f88e7582375)
+   |---目录： ./answers\YN-S00268\road
+      |---文件：road.cpp(大小：2120 字节 MD5:d561f31eb14fa6eb78c82119262bfe32)
+|---目录： ./answers\YN-S00269
+   |---目录： ./answers\YN-S00269\club
+      |---文件：club.cpp(大小：3167 字节 MD5:87a95c3aa69b2cd0adfb36fa7cf23c28)
+   |---目录： ./answers\YN-S00269\employ
+   |---目录： ./answers\YN-S00269\replace
+   |---目录： ./answers\YN-S00269\road
+      |---文件：road.cpp(大小：1598 字节 MD5:d895186ab1840a1433a7aa14a3883b23)
+|---目录： ./answers\YN-S00270
+   |---目录： ./answers\YN-S00270\club
+      |---文件：club.cpp(大小：544 字节 MD5:e2ed8a5b6033b1e724c574e8d5e5da6c)
+   |---目录： ./answers\YN-S00270\employ
+      |---文件：employ.cpp(大小：466 字节 MD5:c5027e674222dec7412a892617f39a41)
+|---目录： ./answers\YN-S00271
+   |---目录： ./answers\YN-S00271\club
+      |---文件：club.cpp(大小：2028 字节 MD5:0fa61e9f20a2f62746adafc20b0ee10a)
+   |---目录： ./answers\YN-S00271\employ
+      |---文件：employ.cpp(大小：688 字节 MD5:d5057cf015ff6a7b5461269cf8790bbf)
+   |---目录： ./answers\YN-S00271\replace
+      |---文件：replace.cpp(大小：488 字节 MD5:1c78369424a0a2716b307378f6f58ba4)
+   |---目录： ./answers\YN-S00271\road
+      |---文件：road.cpp(大小：622 字节 MD5:bc1945ad0882726412d608c0b803e545)
+|---目录： ./answers\YN-S00272
+   |---目录： ./answers\YN-S00272\club
+      |---文件：club.cpp(大小：1883 字节 MD5:2ddfac3610da5e49c62f1183797e9140)
+   |---目录： ./answers\YN-S00272\employ
+      |---文件：employ.cpp(大小：597 字节 MD5:d0d82ac6a149f249d9aec9a0cc6c9a4f)
+   |---目录： ./answers\YN-S00272\replace
+      |---文件：replace.cpp(大小：1291 字节 MD5:df3cb99eb5827bbfafa7afe3c6da2e3f)
+   |---目录： ./answers\YN-S00272\road
+      |---文件：road.cpp(大小：1950 字节 MD5:f6b8cc1dd2338f6294e6153cff2a3288)
+|---目录： ./answers\YN-S00273
+   |---目录： ./answers\YN-S00273\club
+      |---文件：club.cpp(大小：434 字节 MD5:53bc53420447c10ac1f6f52777268287)
+   |---目录： ./answers\YN-S00273\employ
+      |---文件：employ.cpp(大小：247 字节 MD5:797147f0f61dc01738c0b910b17e166e)
+   |---目录： ./answers\YN-S00273\replace
+      |---文件：replace.cpp(大小：227 字节 MD5:cf306fd0b212fcd98adbfde6ac5db34f)
+   |---目录： ./answers\YN-S00273\road
+      |---文件：road.cpp(大小：202 字节 MD5:f1a8d0f0c8a104b665dfe3432c0fa32e)
+|---目录： ./answers\YN-S00274
+   |---目录： ./answers\YN-S00274\club
+      |---文件：club.cpp(大小：523 字节 MD5:88805e2130e349e470f31fcc7ba9bb39)
+   |---目录： ./answers\YN-S00274\employ
+      |---文件：employ.cpp(大小：268 字节 MD5:51577ed52abc925a369a54f115f8184c)
+   |---目录： ./answers\YN-S00274\replace
+      |---文件：replace.cpp(大小：214 字节 MD5:81949cad36eb7cb83927ee925fedf844)
+   |---目录： ./answers\YN-S00274\road
+      |---文件：road.cpp(大小：160 字节 MD5:c06d0a704d00dc8fa4ddc2493dd3844f)
+|---目录： ./answers\YN-S00275
+   |---目录： ./answers\YN-S00275\club
+      |---文件：club.cpp(大小：1581 字节 MD5:865026b845342ac1cd74cdfea115e43c)
+   |---目录： ./answers\YN-S00275\employ
+      |---文件：employ.cpp(大小：492 字节 MD5:4ddf5b3748cdebf8a5963b4f5fe5f373)
+   |---目录： ./answers\YN-S00275\replace
+      |---文件：replace.cpp(大小：551 字节 MD5:5f6a7bd7ccbf0090d6bbf5ba748c017f)
+   |---目录： ./answers\YN-S00275\road
+      |---文件：road.cpp(大小：160 字节 MD5:97c6e01f5765ab73598e41aa50750b4f)
+|---目录： ./answers\YN-S00276
+   |---目录： ./answers\YN-S00276\club
+      |---文件：club.cpp(大小：1440 字节 MD5:140731e7b98869efa520412240698774)
+   |---目录： ./answers\YN-S00276\employ
+      |---文件：employ.cpp(大小：286 字节 MD5:40c2b6c4bca3ee1afb4a62554be9faa9)
+   |---目录： ./answers\YN-S00276\replace
+      |---文件：replace.cpp(大小：330 字节 MD5:ac4c1f78b66bf2370ad2e97e45c57f1f)
+   |---目录： ./answers\YN-S00276\road
+      |---文件：road.cpp(大小：503 字节 MD5:9dfb73c3a4f9c5f0376e51cf6d8b9dc8)
+|---目录： ./answers\YN-S00277
+   |---目录： ./answers\YN-S00277\club
+      |---文件：club.cpp(大小：1210 字节 MD5:785261d6f467e4bfb66418dafa56484a)
+   |---目录： ./answers\YN-S00277\employ
+      |---文件：employ.cpp(大小：142 字节 MD5:3a1c44d269424e2ad6d6c8fe9abc7ebc)
+   |---目录： ./answers\YN-S00277\replace
+      |---文件：replace.cpp(大小：1324 字节 MD5:b3668034cbc38b44b1069d7cb57b3e30)
+   |---目录： ./answers\YN-S00277\road
+      |---文件：road.cpp(大小：1769 字节 MD5:9d0e137dce869320ea5fd18d4bbbc55f)
+|---目录： ./answers\YN-S00278
+   |---目录： ./answers\YN-S00278\club
+      |---文件：club.cpp(大小：943 字节 MD5:984657c7d632ac7133b88785a65fc7a3)
+   |---目录： ./answers\YN-S00278\employ
+      |---文件：employ.cpp(大小：1126 字节 MD5:cf577178d370af32316a56d2db66317f)
+   |---目录： ./answers\YN-S00278\replace
+      |---文件：replace.cpp(大小：1057 字节 MD5:873692b1ef0bde5a7d15d7bf7206e9cd)
+   |---目录： ./answers\YN-S00278\road
+      |---文件：road.cpp(大小：515 字节 MD5:0b7829728c82b8216a816002d9a2cff2)
+|---目录： ./answers\YN-S00279
+   |---目录： ./answers\YN-S00279\club
+      |---文件：club.cpp(大小：1387 字节 MD5:870c081767d2c503bf18ac6778648f29)
+   |---目录： ./answers\YN-S00279\employ
+      |---文件：employ.cpp(大小：346 字节 MD5:dc9ac8db45834bea566eaf273b2fd08f)
+   |---目录： ./answers\YN-S00279\replace
+      |---文件：replace.cpp(大小：372 字节 MD5:10e6344d6a38c14ad00985eed904a0e7)
+   |---目录： ./answers\YN-S00279\road
+      |---文件：road.cpp(大小：399 字节 MD5:8d697dfbcf09bed1fffc7f5a856718b3)
+|---目录： ./answers\YN-S00281
+   |---目录： ./answers\YN-S00281\club
+      |---文件：club.cpp(大小：1293 字节 MD5:36a987271ce4a87f6420fec1bed64cb3)
+   |---目录： ./answers\YN-S00281\employ
+      |---文件：employ.cpp(大小：934 字节 MD5:73b403ecf06914e5cc3d16bc933692e1)
+   |---目录： ./answers\YN-S00281\replace
+      |---文件：replace.cpp(大小：253 字节 MD5:26fec929fc830ff0519e5a228bec5589)
+   |---目录： ./answers\YN-S00281\road
+      |---文件：road.cpp(大小：862 字节 MD5:6f5b9c334475a1d8ddd90de4da7168be)
+|---目录： ./answers\YN-S00282
+   |---目录： ./answers\YN-S00282\club
+      |---文件：club.cpp(大小：1315 字节 MD5:1b6450e4da3aa83211b949db0a57da43)
+   |---目录： ./answers\YN-S00282\employ
+   |---目录： ./answers\YN-S00282\replace
+   |---目录： ./answers\YN-S00282\road
+      |---文件：road.cpp(大小：175 字节 MD5:bffd21bab17dbab642da492a41ca7727)
+|---目录： ./answers\YN-S00283
+   |---目录： ./answers\YN-S00283\club
+      |---文件：club.cpp(大小：1617 字节 MD5:ee88a0bce23fee2e14be9fcf8e44cbf3)
+   |---目录： ./answers\YN-S00283\replace
+      |---文件：replace.cpp(大小：595 字节 MD5:685129020f3d1324c1dcf30ec0446482)
+   |---目录： ./answers\YN-S00283\road
+      |---文件：road.cpp(大小：164 字节 MD5:f99598ce6d8a486da1d730eaeffee04b)
+|---目录： ./answers\YN-S00284
+   |---目录： ./answers\YN-S00284\club
+      |---文件：club.cpp(大小：949 字节 MD5:264b78dfb5e7cbf6381015d43eae3781)
+|---目录： ./answers\YN-S00285
+   |---目录： ./answers\YN-S00285\club
+      |---文件：club.cpp(大小：1970 字节 MD5:44545c49d13f764cb71b9f16a59b0547)
+   |---目录： ./answers\YN-S00285\employ
+      |---文件：employ.cpp(大小：752 字节 MD5:729b0722768e9daa34ba180b43161980)
+   |---目录： ./answers\YN-S00285\replace
+      |---文件：replace.cpp(大小：157 字节 MD5:237507a794e53af22eb8e1f921129034)
+   |---目录： ./answers\YN-S00285\road
+      |---文件：road.cpp(大小：1568 字节 MD5:6640ecb4c14177f2941c33308b3d1d88)
+|---目录： ./answers\YN-S00286
+   |---目录： ./answers\YN-S00286\club
+      |---文件：club.cpp(大小：745 字节 MD5:a6d6a29bbb44416056b8ec8e6589d0d5)
+   |---目录： ./answers\YN-S00286\employ
+      |---文件：employ.cpp(大小：756 字节 MD5:8914402ff849fcb0f19aa575a8ab5066)
+   |---目录： ./answers\YN-S00286\replace
+      |---文件：replace.cpp(大小：999 字节 MD5:3473ebbb90db1f15b84be511e5eabd42)
+   |---目录： ./answers\YN-S00286\road
+      |---文件：road.cpp(大小：905 字节 MD5:d8a1b966767d0945a8100b9a7590abb0)
+|---目录： ./answers\YN-S00287
+   |---目录： ./answers\YN-S00287\club
+      |---文件：club.cpp(大小：1129 字节 MD5:7e0436dbe2052389f8f8c7e84e3579ce)
+   |---目录： ./answers\YN-S00287\employ
+      |---文件：employ.cpp(大小：458 字节 MD5:3ec85034b5eade294e939432fa17b37e)
+   |---目录： ./answers\YN-S00287\replace
+      |---文件：replace.cpp(大小：245 字节 MD5:4a1283cf7c311015d97d57199469a684)
+   |---目录： ./answers\YN-S00287\road
+      |---文件：road.cpp(大小：191 字节 MD5:1869b66b66c542917535228cbd9c2b9f)
+|---目录： ./answers\YN-S00288
+   |---目录： ./answers\YN-S00288\club
+      |---文件：club.cpp(大小：1289 字节 MD5:603032c4f0327868e3ad75c286c4afd7)
+|---目录： ./answers\YN-S00289
+   |---目录： ./answers\YN-S00289\club
+      |---文件：club.cpp(大小：1522 字节 MD5:26a63c96244ae42045eae890d71d4deb)
+   |---目录： ./answers\YN-S00289\employ
+      |---文件：employ.cpp(大小：393 字节 MD5:4fac003c1329daf3263e24efc64dc793)
+   |---目录： ./answers\YN-S00289\replace
+      |---文件：replace.cpp(大小：726 字节 MD5:99369b43aabeecf887e407e2232179e9)
+   |---目录： ./answers\YN-S00289\road
+      |---文件：road.cpp(大小：216 字节 MD5:7330bad44f1b1c878c0b732e41697739)
+|---目录： ./answers\YN-S00290
+   |---目录： ./answers\YN-S00290\club
+      |---文件：club.cpp(大小：533 字节 MD5:d1c01862b99e25d10ed1b2a8f9022916)
+   |---目录： ./answers\YN-S00290\employ
+   |---目录： ./answers\YN-S00290\replace
+   |---目录： ./answers\YN-S00290\road
+      |---文件：road.cpp(大小：402 字节 MD5:205cb0a01de99f4d8b96324c49d50cc6)
+|---目录： ./answers\YN-S00291
+   |---目录： ./answers\YN-S00291\club
+      |---文件：club.cpp(大小：1213 字节 MD5:229920d0a55c8846da2bac4a440eccdb)
+|---目录： ./answers\YN-S00292
+   |---目录： ./answers\YN-S00292\club
+      |---文件：club.cpp(大小：2282 字节 MD5:e4efc65843f89badcb458df67664bc3d)
+   |---目录： ./answers\YN-S00292\employ
+      |---文件：employ.cpp(大小：434 字节 MD5:3275815698c6a403692643019f333e03)
+   |---目录： ./answers\YN-S00292\replace
+      |---文件：replace.cpp(大小：348 字节 MD5:727679e1839624733e75901a434fd909)
+   |---目录： ./answers\YN-S00292\road
+      |---文件：road.cpp(大小：1740 字节 MD5:babc8afccc780bf0e99c01c86b306ede)
+|---目录： ./answers\YN-S00293
+   |---目录： ./answers\YN-S00293\club
+      |---文件：club.cpp(大小：1965 字节 MD5:deadcdd0a8ad6e9a2f771bff8d58977b)
+   |---目录： ./answers\YN-S00293\employ
+      |---文件：employ.cpp(大小：310 字节 MD5:fdaab66a3a7081fd109a9e657b92861d)
+   |---目录： ./answers\YN-S00293\replace
+      |---文件：replace.cpp(大小：725 字节 MD5:0c029371b7246594e9ce5e0c16e8de6e)
+   |---目录： ./answers\YN-S00293\road
+|---目录： ./answers\YN-S00294
+   |---目录： ./answers\YN-S00294\club
+      |---文件：club.cpp(大小：1040 字节 MD5:d65bc3fd2ab2762d91c9a4651e8b10bf)
+   |---目录： ./answers\YN-S00294\employ
+      |---文件：employ.cpp(大小：202 字节 MD5:4d95f0a0a1af7007e8db916ae984c02d)
+   |---目录： ./answers\YN-S00294\replace
+      |---文件：replace.cpp(大小：212 字节 MD5:2968f3ef6f9a76e59e0becac3b489838)
+   |---目录： ./answers\YN-S00294\road
+      |---文件：road.cpp(大小：226 字节 MD5:e9eba3fd0c5867e1ee42bc1f0c1c2f17)
+|---目录： ./answers\YN-S00295
+   |---目录： ./answers\YN-S00295\club
+      |---文件：club.cpp(大小：2068 字节 MD5:592740ee2ab760379ce4e6877fd8456f)
+   |---目录： ./answers\YN-S00295\road
+      |---文件：road.cpp(大小：586 字节 MD5:cb5e91614147b3dccc9504ccbf4115a1)
+|---目录： ./answers\YN-S00296
+   |---目录： ./answers\YN-S00296\club
+      |---文件：club.cpp(大小：631 字节 MD5:44ebaeabccc40e2fac4a56796cf792cd)
+|---目录： ./answers\YN-S00297
+   |---目录： ./answers\YN-S00297\club
+      |---文件：club.cpp(大小：564 字节 MD5:bb08f9dde2aa2077a079bd88804d5001)
+   |---目录： ./answers\YN-S00297\employ
+      |---文件：employ.cpp(大小：361 字节 MD5:98017abeedb5c46a215cf37ecc557304)
+|---目录： ./answers\YN-S00298
+   |---目录： ./answers\YN-S00298\club
+      |---文件：club.cpp(大小：1234 字节 MD5:4994649dd3b834c6fee04d9137952f1f)
+   |---目录： ./answers\YN-S00298\employ
+      |---文件：employ.cpp(大小：1855 字节 MD5:0eb39f15514277b1ccdaf2ffa7ad0cd1)
+   |---目录： ./answers\YN-S00298\replace
+      |---文件：replace.cpp(大小：1749 字节 MD5:0b450caa89d8b630943d21873b39113b)
+   |---目录： ./answers\YN-S00298\road
+      |---文件：road.cpp(大小：2263 字节 MD5:685ab66b782675d41809b925f8e41f24)
+|---目录： ./answers\YN-S00299
+   |---目录： ./answers\YN-S00299\club
+      |---文件：club.cpp(大小：1180 字节 MD5:dbb55672862d93ae5efea01d8672ad3a)
+   |---目录： ./answers\YN-S00299\employ
+      |---文件：employ.cpp(大小：1168 字节 MD5:cb6ef26504e17d5ca61f1a251cf35f49)
+   |---目录： ./answers\YN-S00299\replace
+      |---文件：replace.cpp(大小：977 字节 MD5:27b5addfe4dae58ce9de9ea1d595c914)
+   |---目录： ./answers\YN-S00299\road
+      |---文件：road.cpp(大小：1067 字节 MD5:7bf3e5df02f9ce9c5792a72384773e66)
+|---目录： ./answers\YN-S00300
+   |---目录： ./answers\YN-S00300\club
+      |---文件：club.cpp(大小：525 字节 MD5:66926c1c18c17ba3214f77ba82b9f680)
+   |---目录： ./answers\YN-S00300\employ
+      |---文件：employ.cpp(大小：411 字节 MD5:396bb32eaecba559c25669f2e8bdb03d)
+   |---目录： ./answers\YN-S00300\replace
+      |---文件：replace.cpp(大小：433 字节 MD5:4b2811dae66705659a33819b262a5b90)
+   |---目录： ./answers\YN-S00300\road
+      |---文件：road.cpp(大小：2895 字节 MD5:1b0fe379bae676760e29b0abebf8e45a)
+|---目录： ./answers\YN-S00301
+   |---目录： ./answers\YN-S00301\club
+      |---文件：club.cpp(大小：1445 字节 MD5:bd450bd99a17a3740efb27d1aac41e67)
+   |---目录： ./answers\YN-S00301\employ
+      |---文件：employ.cpp(大小：428 字节 MD5:bcc1d6aa0d51c4e32c2f021f3d6f8569)
+   |---目录： ./answers\YN-S00301\replace
+      |---文件：replace.cpp(大小：903 字节 MD5:2212da092786fdbfaec75afeb1f4aae2)
+   |---目录： ./answers\YN-S00301\road
+      |---文件：road.cpp(大小：662 字节 MD5:f43b3863fba96ef733bfca668d40e663)
+|---目录： ./answers\YN-S00302
+   |---目录： ./answers\YN-S00302\club
+      |---文件：club.cpp(大小：1566 字节 MD5:01f68766ab8dc1de49623a21660a5ac1)
+   |---目录： ./answers\YN-S00302\employ
+      |---文件：employ.cpp(大小：172 字节 MD5:25908d9730518df89aeeb58e75f4d966)
+   |---目录： ./answers\YN-S00302\replace
+      |---文件：replace.cpp(大小：240 字节 MD5:c7ae14ac86be81e9847f941478a75626)
+   |---目录： ./answers\YN-S00302\road
+      |---文件：road.cpp(大小：500 字节 MD5:843e85b8e692e2baddabf8146cecde6d)
+|---目录： ./answers\YN-S00303
+   |---目录： ./answers\YN-S00303\club
+      |---文件：club.cpp(大小：5705 字节 MD5:c8e7c4e2ab9a94382723e8dbe460b289)
+   |---目录： ./answers\YN-S00303\road
+      |---文件：road.cpp(大小：1568 字节 MD5:fe2247e7e121567473694c3f2e0f37f4)
+|---目录： ./answers\YN-S00304
+   |---目录： ./answers\YN-S00304\club
+      |---文件：club.cpp(大小：814 字节 MD5:b619aee86eb5f23478a8cc1accb065ca)
+   |---目录： ./answers\YN-S00304\employ
+      |---文件：employ.cpp(大小：637 字节 MD5:59ffc71d4e78179b3966594b263f30d7)
+   |---目录： ./answers\YN-S00304\replace
+      |---文件：replace.cpp(大小：357 字节 MD5:463909d145652ad20cf4d42c9378725f)
+   |---目录： ./answers\YN-S00304\road
+      |---文件：road.cpp(大小：354 字节 MD5:9db0bad3b250519b71370b0db9ae5586)
+|---目录： ./answers\YN-S00305
+   |---目录： ./answers\YN-S00305\employ
+      |---文件：employ.cpp(大小：453 字节 MD5:1dcdb2129605f14d24ff5e7845b93baa)
+|---目录： ./answers\YN-S00306
+   |---目录： ./answers\YN-S00306\club
+      |---文件：club.cpp(大小：2955 字节 MD5:0ff2db75cc8716d4d97a9b81f386575b)
+   |---目录： ./answers\YN-S00306\employ
+      |---文件：employ.cpp(大小：400 字节 MD5:4f4da0750575123cd3a258058d01083b)
+|---目录： ./answers\YN-S00307
+   |---目录： ./answers\YN-S00307\club
+      |---文件：club.cpp(大小：1136 字节 MD5:4f899977251fae5590f2f327f53add8b)
+   |---目录： ./answers\YN-S00307\employ
+      |---文件：employ.cpp(大小：596 字节 MD5:a8025d004861a94361185bf4dd21a12e)
+|---目录： ./answers\YN-S00308
+   |---目录： ./answers\YN-S00308\club
+      |---文件：club.cpp(大小：2164 字节 MD5:84762c4ddb55ec1f6cf3e1d72518d6c3)
+   |---目录： ./answers\YN-S00308\employ
+      |---文件：employ.cpp(大小：401 字节 MD5:45785d07b5e2791b0f53777d17112da4)
+   |---目录： ./answers\YN-S00308\road
+      |---文件：road.cpp(大小：509 字节 MD5:f0b0b9bc674df8b7459d9dce6d63273e)
+|---目录： ./answers\YN-S00309
+   |---目录： ./answers\YN-S00309\club
+      |---文件：club.cpp(大小：2369 字节 MD5:bf5f1be179474206d25ca50c0c6bc7e4)
+|---目录： ./answers\YN-S00310
+   |---目录： ./answers\YN-S00310\club
+      |---文件：club.cpp(大小：1519 字节 MD5:81821fcf8bd97aa4bd85288148a83fd5)
+   |---目录： ./answers\YN-S00310\employ
+      |---文件：employ.cpp(大小：195 字节 MD5:d99fa62a3e6f30a309c81b4a95b988e9)
+   |---目录： ./answers\YN-S00310\replace
+      |---文件：replace.cpp(大小：206 字节 MD5:6d792bc143b91181864e13ecc942764e)
+   |---目录： ./answers\YN-S00310\road
+      |---文件：road.cpp(大小：192 字节 MD5:fb82ba55ec49bcac89ae4556d0743f2e)
+|---目录： ./answers\YN-S00311
+   |---目录： ./answers\YN-S00311\club
+      |---文件：club.cpp(大小：1631 字节 MD5:4482053664dfc0232e9bb3d574d89590)
+   |---目录： ./answers\YN-S00311\employ
+      |---文件：employ.cpp(大小：1516 字节 MD5:c1fae478b7bd20395b2d602032025149)
+   |---目录： ./answers\YN-S00311\replace
+      |---文件：replace.cpp(大小：2858 字节 MD5:fd66a9013582fb7e340c816f189319c9)
+   |---目录： ./answers\YN-S00311\road
+      |---文件：road.cpp(大小：1809 字节 MD5:e8b21e2ffcd70c1df8cf9bbf7cd05830)
+|---目录： ./answers\YN-S00312
+   |---目录： ./answers\YN-S00312\club
+      |---文件：club.cpp(大小：1348 字节 MD5:3e85dbf3efd3065fdba93b75cd142b67)
+|---目录： ./answers\YN-S00313
+   |---目录： ./answers\YN-S00313\club
+      |---文件：club.cpp(大小：1553 字节 MD5:073047c138bb0fec293dd3779a94983f)
+|---目录： ./answers\YN-S00314
+   |---目录： ./answers\YN-S00314\club
+      |---文件：club.cpp(大小：1898 字节 MD5:2ee0294e961fef73366bde60824d914c)
+|---目录： ./answers\YN-S00315
+   |---目录： ./answers\YN-S00315\club
+      |---文件：club.cpp(大小：290 字节 MD5:1f685816ccee975bba11e190e9a05c4e)
+   |---目录： ./answers\YN-S00315\employ
+      |---文件：employ.cpp(大小：89 字节 MD5:ab422b84300af27b6a4e7419aa048950)
+   |---目录： ./answers\YN-S00315\replace
+      |---文件：replace.cpp(大小：145 字节 MD5:30bdfe536c2be9c00380fa9a0030543f)
+   |---目录： ./answers\YN-S00315\road
+      |---文件：road.cpp(大小：322 字节 MD5:0955828caa3d2b97f8bedbc6e57423b6)
+|---目录： ./answers\YN-S00316
+   |---目录： ./answers\YN-S00316\club
+      |---文件：club.cpp(大小：1574 字节 MD5:3ee87a869272a15d92bdcc4c00c213b9)
+   |---目录： ./answers\YN-S00316\employ
+      |---文件：employ.cpp(大小：153 字节 MD5:dad78bdddee9981a9afd0e6d47eb56b4)
+      |---文件：employ1.ans(大小：2 字节 MD5:26ab0db90d72e28ad0ba1e22ee510510)
+      |---文件：employ1.in(大小：14 字节 MD5:d26e88ab63a28682ce71a2fe2e70d318)
+      |---文件：employ2.ans(大小：8 字节 MD5:262547630cf27aa5b76ef4e83bb790c1)
+      |---文件：employ2.in(大小：36 字节 MD5:35ff5b34e164d0f7345a9f8fc32d41fa)
+      |---文件：employ3.ans(大小：10 字节 MD5:f9acad52eb848b6f78aee774292269f0)
+      |---文件：employ3.in(大小：368 字节 MD5:4992a038fe9adc2019668497d9bf4c1d)
+      |---文件：employ4.ans(大小：10 字节 MD5:913b4f91e1baf6b59f4517ba0744c1bb)
+      |---文件：employ4.in(大小：1811 字节 MD5:77c1f4b003b8c6424925eb74245b2f74)
+      |---文件：employ5.ans(大小：10 字节 MD5:aadaa3d2e999ef510d6180a3f25bc59e)
+      |---文件：employ5.in(大小：2035 字节 MD5:9e4f6d3ccb45c6901574c98b28b7278f)
+   |---目录： ./answers\YN-S00316\replace
+      |---文件：replace.cpp(大小：155 字节 MD5:fef96fc9d36b88d18e5d1bf9e40cd1da)
+      |---文件：replace1.ans(大小：4 字节 MD5:6b5f9d125f85b7bd9bcc86a462542fd0)
+      |---文件：replace1.in(大小：56 字节 MD5:9d064cca059e59ac893cd0bb5f592131)
+      |---文件：replace2.ans(大小：8 字节 MD5:ccb1080a97b646273179043d6ad25e49)
+      |---文件：replace2.in(大小：35 字节 MD5:9ce2e8d343bd00791d57e335763cb8c9)
+      |---文件：replace3.ans(大小：55323 字节 MD5:287df6f2a968cea2bf3080faa49b00c7)
+      |---文件：replace3.in(大小：2129918 字节 MD5:e4dd696a6bbc697a5c99547844a1064f)
+      |---文件：replace4.ans(大小：2021 字节 MD5:1dfc5e23af67d4b54fc2032355f4460a)
+      |---文件：replace4.in(大小：8497316 字节 MD5:cda97be7dede7a33baff14e789fe7ba5)
+   |---目录： ./answers\YN-S00316\road
+      |---文件：road.cpp(大小：149 字节 MD5:23a290609795920cdf8505a71d8be813)
+      |---文件：road1.ans(大小：3 字节 MD5:aa6ed9e0f26a6eba784aae8267df1951)
+      |---文件：road1.in(大小：52 字节 MD5:05f0b249def17c2edc8841fb78bfb1f5)
+      |---文件：road2.ans(大小：10 字节 MD5:632be80063bcee625f6f5d9043959a8c)
+      |---文件：road2.in(大小：17704858 字节 MD5:d8d983c4a08705fee197564d93472f6b)
+      |---文件：road3.ans(大小：10 字节 MD5:42066adfba4d83fb0041c822c595934f)
+      |---文件：road3.in(大小：17754703 字节 MD5:02e61a1af38866926a983e511c3a0ace)
+      |---文件：road4.ans(大小：11 字节 MD5:422c5463de29b88cc5cbda09c7ea800c)
+      |---文件：road4.in(大小：1864476 字节 MD5:ef86366449e731f593790d157cb6e449)
+|---目录： ./answers\YN-S00317
+   |---目录： ./answers\YN-S00317\club
+      |---文件：club.cpp(大小：2020 字节 MD5:8cd0fc56bc41f4ab961a0dcb08d4e8fb)
+   |---目录： ./answers\YN-S00317\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:e9d6ee840dd7fe7643a0b94f37fab87d)
+   |---目录： ./answers\YN-S00317\replace
+      |---文件：replace.cpp(大小：241 字节 MD5:2ed51784f2de8912315820124cf4151b)
+   |---目录： ./answers\YN-S00317\road
+      |---文件：road.cpp(大小：162 字节 MD5:8b5308bb643d4eac67cbab06b30be221)
+|---目录： ./answers\YN-S00318
+   |---目录： ./answers\YN-S00318\club
+      |---文件：club.cpp(大小：533 字节 MD5:453df69b41ec4d69832b6dde7a768445)
+|---目录： ./answers\YN-S00319
+   |---目录： ./answers\YN-S00319\club
+      |---文件：club.cpp(大小：2505 字节 MD5:93f98f5d2ed048dc5af2d7b992f4cbd3)
+   |---目录： ./answers\YN-S00319\replace
+      |---文件：replace.cpp(大小：873 字节 MD5:77ff06c65d92ca8b30a3038b3ee5382d)
+   |---目录： ./answers\YN-S00319\road
+      |---文件：road.cpp(大小：1179 字节 MD5:bb45f380fe24ce9f14517812041e148f)
+|---目录： ./answers\YN-S00320
+   |---目录： ./answers\YN-S00320\club
+      |---文件：club.cpp(大小：1049 字节 MD5:c97e070b1228da8f5e399d5c34e90806)
+   |---目录： ./answers\YN-S00320\employ
+      |---文件：employ.cpp(大小：478 字节 MD5:31cece4061aef37867833f3fc8b74a89)
+   |---目录： ./answers\YN-S00320\replace
+      |---文件：replace.cpp(大小：418 字节 MD5:0202cec28091783ad8e84c7d5d6076f0)
+   |---目录： ./answers\YN-S00320\road
+      |---文件：road.cpp(大小：488 字节 MD5:2ccc2848d4b7c244df69dca113439e5c)
+|---目录： ./answers\YN-S00321
+   |---目录： ./answers\YN-S00321\club
+      |---文件：club.cpp(大小：2056 字节 MD5:d330abe8a0a453120d9835e930da1497)
+|---目录： ./answers\YN-S00322
+   |---目录： ./answers\YN-S00322\club
+      |---文件：club.cpp(大小：1944 字节 MD5:216c3d2d9064a66ba32511069547957e)
+   |---目录： ./answers\YN-S00322\road
+      |---文件：road.cpp(大小：935 字节 MD5:2a681253023c6d4034eb165d0d69c5b2)
+|---目录： ./answers\YN-S00323
+   |---目录： ./answers\YN-S00323\club
+      |---文件：club.cpp(大小：1070 字节 MD5:1b7571a030d8d7a7ea0c663f533dd690)
+   |---目录： ./answers\YN-S00323\employ
+      |---文件：employ.cpp(大小：220 字节 MD5:edd0776e4fae3fb84667d57064478bbb)
+   |---目录： ./answers\YN-S00323\replace
+      |---文件：replace.cpp(大小：370 字节 MD5:8799953ea9f0197a218d4b90038e7436)
+   |---目录： ./answers\YN-S00323\road
+      |---文件：road.cpp(大小：429 字节 MD5:1bce3e41f5a1abf6835eeb5f61c6a176)
+|---目录： ./answers\YN-S00324
+   |---目录： ./answers\YN-S00324\club
+      |---文件：club.cpp(大小：2908 字节 MD5:b9af17f15d11aad4bdcb7b1ad30aac9f)
+   |---目录： ./answers\YN-S00324\employ
+      |---文件：employ.cpp(大小：1015 字节 MD5:38babdf178d287180ded938bcf457f20)
+   |---目录： ./answers\YN-S00324\road
+      |---文件：road.cpp(大小：1481 字节 MD5:0f3fd40700cf304b2120ba245c03b05c)
+|---目录： ./answers\YN-S00325
+   |---目录： ./answers\YN-S00325\club
+      |---文件：club.cpp(大小：1608 字节 MD5:c5480efdf58e7586ac86f8bf1888eadb)
+   |---目录： ./answers\YN-S00325\employ
+      |---文件：employ.cpp(大小：1203 字节 MD5:c4eac554cb3384f0f5b759930c83150f)
+   |---目录： ./answers\YN-S00325\replace
+      |---文件：replace.cpp(大小：1291 字节 MD5:fcb19db0bb638b9c058fb1a8636f7497)
+   |---目录： ./answers\YN-S00325\road
+      |---文件：road.cpp(大小：1645 字节 MD5:e9769dd27a10c814498e686df337ac91)
+|---目录： ./answers\YN-S00326
+   |---目录： ./answers\YN-S00326\club
+      |---文件：club.cpp(大小：2312 字节 MD5:75366c9f8fab923a57ddab16c632f6d5)
+   |---目录： ./answers\YN-S00326\employ
+      |---文件：employ.cpp(大小：596 字节 MD5:96b6b559f2b6321e7e38976543c4c43d)
+   |---目录： ./answers\YN-S00326\replace
+      |---文件：replace.cpp(大小：2254 字节 MD5:df0f36d5b2aac3c8fae1f2607fc49e11)
+   |---目录： ./answers\YN-S00326\road
+      |---文件：road.cpp(大小：2107 字节 MD5:f99e8783b5e83706e20bf728ae013945)
+|---目录： ./answers\YN-S00327
+   |---目录： ./answers\YN-S00327\club
+      |---文件：club.cpp(大小：706 字节 MD5:f41ac6cdd4d9f72497df6db6cd26e01a)
+   |---目录： ./answers\YN-S00327\employ
+      |---文件：employ.cpp(大小：366 字节 MD5:ff54f41b7d324c8f33f6549f3d25608e)
+   |---目录： ./answers\YN-S00327\replace
+      |---文件：replace.cpp(大小：907 字节 MD5:71a5bd7fbbd9bafb7b9c1acc37581061)
+      |---文件：~$eplace.out(大小：162 字节 MD5:d59f813dc2eb189c46411c9ba8dac7ae)
+|---目录： ./answers\YN-S00328
+   |---目录： ./answers\YN-S00328\club
+      |---文件：club.cpp(大小：3304 字节 MD5:1d2f3ea9ebef4bda9d88b6c3d14e3af6)
+   |---目录： ./answers\YN-S00328\employ
+      |---文件：employ.cpp(大小：153 字节 MD5:694eb2d215a0e91f17eac3a8b9154602)
+   |---目录： ./answers\YN-S00328\replace
+      |---文件：replace.cpp(大小：155 字节 MD5:ee6e407e2ed814542f155b1f584e38fa)
+   |---目录： ./answers\YN-S00328\road
+      |---文件：road.cpp(大小：463 字节 MD5:11e8611b9db37ffe26ba7ecd4c2fe76e)
+|---目录： ./answers\YN-S00329
+   |---目录： ./answers\YN-S00329\club
+      |---文件：club.cpp(大小：1462 字节 MD5:21497eb8dfc8bd1f9dc8a55652f9bf03)
+   |---目录： ./answers\YN-S00329\road
+      |---文件：road.cpp(大小：1069 字节 MD5:163cde084ab56c144fa026213511fe5e)
+|---目录： ./answers\YN-S00330
+   |---目录： ./answers\YN-S00330\clud
+      |---文件：clud.cpp(大小：612 字节 MD5:efd28d471190e2504ce84a743905394b)
+   |---目录： ./answers\YN-S00330\employ
+      |---文件：employ.cpp(大小：612 字节 MD5:efd28d471190e2504ce84a743905394b)
+   |---目录： ./answers\YN-S00330\replace
+      |---文件：replace.cpp(大小：612 字节 MD5:efd28d471190e2504ce84a743905394b)
+   |---目录： ./answers\YN-S00330\road
+      |---文件：road.cpp(大小：612 字节 MD5:efd28d471190e2504ce84a743905394b)
+|---目录： ./answers\YN-S00331
+   |---目录： ./answers\YN-S00331\club
+      |---文件：club.cpp(大小：583 字节 MD5:6c405652aa9e6f4148567f817a856162)
+   |---目录： ./answers\YN-S00331\road
+      |---文件：road.cpp(大小：487 字节 MD5:00ffb22bdff47015b1bdc1fe075af570)
+|---目录： ./answers\YN-S00332
+   |---目录： ./answers\YN-S00332\club
+      |---文件：club.cpp(大小：1964 字节 MD5:b7fd1ce19e7c38cdbf49e45c7a17e60c)
+   |---目录： ./answers\YN-S00332\road
+      |---文件：road.cpp(大小：1626 字节 MD5:62f3c279c653c79ec4796824c6bebe0c)
+|---目录： ./answers\YN-S00333
+   |---目录： ./answers\YN-S00333\club
+      |---文件：club.cpp.cpp(大小：234 字节 MD5:96343914d19b275909e0bea5484edc7e)
+|---目录： ./answers\YN-S00334
+   |---目录： ./answers\YN-S00334\club
+      |---文件：club.cpp(大小：4050 字节 MD5:ab4c311fc18140d844ee3e5db0724e73)
+   |---目录： ./answers\YN-S00334\employ
+      |---文件：employ.cpp(大小：151 字节 MD5:be4b61d4830cc224356f1ea81d270d6c)
+   |---目录： ./answers\YN-S00334\replace
+      |---文件：replace.cpp(大小：153 字节 MD5:564642b2c08370258a570f7cd92b6199)
+   |---目录： ./answers\YN-S00334\road
+      |---文件：road.cpp(大小：1073 字节 MD5:420832016761b3dc3209d4cd9d102dff)
+|---目录： ./answers\YN-S00335
+   |---目录： ./answers\YN-S00335\club
+      |---文件：club.cpp(大小：907 字节 MD5:d7713007c72e6b44ee3ebf84cb705372)
+   |---目录： ./answers\YN-S00335\employ
+      |---文件：employ.cpp(大小：397 字节 MD5:caaf82b7df3e5ce8a26dfd2d002b91bb)
+   |---目录： ./answers\YN-S00335\replace
+      |---文件：replace.cpp(大小：495 字节 MD5:e9cbad7a03e13e22d67a64107dce349d)
+   |---目录： ./answers\YN-S00335\road
+      |---文件：road.cpp(大小：479 字节 MD5:7154b0c0e4c0b221bb85d39e91be9e13)
+|---目录： ./answers\YN-S00336
+   |---目录： ./answers\YN-S00336\club
+      |---文件：club.cpp(大小：1046 字节 MD5:9bc398fcaadb7f62d7b6392e2b8a1ab9)
+|---目录： ./answers\YN-S00337
+   |---目录： ./answers\YN-S00337\club
+      |---文件：club.cpp(大小：1019 字节 MD5:a4dca35ba3fca8d666805cdd3c8a061b)
+   |---目录： ./answers\YN-S00337\employ
+      |---文件：employ.cpp(大小：207 字节 MD5:5591e9196ccab76e1c8203fe3b787c2f)
+   |---目录： ./answers\YN-S00337\replace
+      |---文件：replace.cpp(大小：231 字节 MD5:5dd8f1af661b6bef51a0d2dbd1557307)
+   |---目录： ./answers\YN-S00337\road
+      |---文件：road.cpp(大小：196 字节 MD5:a3392cb3ea9de97d54ee78ef250d176b)
+|---目录： ./answers\YN-S00338
+   |---目录： ./answers\YN-S00338\club
+      |---文件：club.cpp(大小：2036 字节 MD5:5f394e7bb17c8e5f19b604dc379600ad)
+   |---目录： ./answers\YN-S00338\employ
+      |---文件：employ.cpp(大小：502 字节 MD5:4f9eaa9eb57cc80b25c7353f03c2d8df)
+   |---目录： ./answers\YN-S00338\replace
+      |---文件：replace.cpp(大小：236 字节 MD5:5e330b72ee75c190145907a4eb502467)
+   |---目录： ./answers\YN-S00338\road
+      |---文件：road.cpp(大小：162 字节 MD5:d62d383307935073457fb24e69f22550)
+|---目录： ./answers\YN-S00339
+   |---目录： ./answers\YN-S00339\club
+      |---文件：club.cpp(大小：2743 字节 MD5:0f598a118dad014630fa0bbe06ca75d1)
+|---目录： ./answers\YN-S00340
+   |---目录： ./answers\YN-S00340\club
+      |---文件：club.cpp(大小：1507 字节 MD5:4b51f45caa61eab0e7ffec25452e80df)
+   |---目录： ./answers\YN-S00340\employ
+      |---文件：employ.cpp(大小：258 字节 MD5:6c2cc9e953d387e8e909c59e8ede529a)
+   |---目录： ./answers\YN-S00340\replace
+      |---文件：replace.cpp(大小：300 字节 MD5:67a361806a0cc250be77626f3ae10a3b)
+   |---目录： ./answers\YN-S00340\road
+      |---文件：road.cpp(大小：250 字节 MD5:58eede84b157fb0ea1adf0d3a5798cf6)
+|---目录： ./answers\YN-S00341
+   |---目录： ./answers\YN-S00341\club
+      |---文件：club.cpp(大小：652 字节 MD5:b19b42507404ed8229f1472f9d2807c5)
+|---目录： ./answers\YN-S00342
+   |---目录： ./answers\YN-S00342\club
+      |---文件：club.cpp(大小：3730 字节 MD5:64ab6bbf167637f007c57cd7b383f8a9)
+   |---目录： ./answers\YN-S00342\road
+      |---文件：road.cpp(大小：3121 字节 MD5:5d3df1546c0931a2e613fc98dabd8a2a)
+|---目录： ./answers\YN-S00343
+   |---目录： ./answers\YN-S00343\road
+      |---文件：road.cpp(大小：2082 字节 MD5:5d83349ba77688d7dfd85641dfe0eb18)
+|---目录： ./answers\YN-S00344
+   |---目录： ./answers\YN-S00344\club
+      |---文件：club.cpp(大小：274 字节 MD5:cd0a238502387e682830f8b7a1b5a552)
+   |---目录： ./answers\YN-S00344\employ
+      |---文件：employ.cpp(大小：423 字节 MD5:41a508989e17213b968e40de06ad1444)
+   |---目录： ./answers\YN-S00344\replace
+      |---文件：replace.cpp(大小：403 字节 MD5:7fe941cce44d0fe7b7961beab4b3ff02)
+   |---目录： ./answers\YN-S00344\road
+      |---文件：road.cpp(大小：373 字节 MD5:cb58ec1330583abb0aa981e33b41547b)
+|---目录： ./answers\YN-S00345
+   |---目录： ./answers\YN-S00345\club
+      |---文件：club.cpp(大小：758 字节 MD5:c4533170f48b6b2ee8b3e862123331c5)
+   |---目录： ./answers\YN-S00345\road
+      |---文件：road.cpp(大小：567 字节 MD5:18e3a7af6e093d6680d5eb5deeadd64a)
+|---目录： ./answers\YN-S00346
+   |---目录： ./answers\YN-S00346\club
+      |---文件：club.cpp(大小：1205 字节 MD5:df4ba640f23b74fa9087be27a4c98644)
+   |---目录： ./answers\YN-S00346\employ
+      |---文件：employ.cpp(大小：589 字节 MD5:aba720a9625835e3cd30e2a940ef4783)
+   |---目录： ./answers\YN-S00346\replace
+   |---目录： ./answers\YN-S00346\road
+|---目录： ./answers\YN-S00347
+   |---目录： ./answers\YN-S00347\club
+      |---文件：club.cpp(大小：2387 字节 MD5:4c60344ad11b523a7e5387e5f175233e)
+   |---目录： ./answers\YN-S00347\employ
+      |---文件：employ.cpp(大小：995 字节 MD5:b38829df169cdfb4009992eb3a909a98)
+   |---目录： ./answers\YN-S00347\replace
+      |---文件：replace.cpp(大小：868 字节 MD5:cb75b42b841362be965ad5af6b15e001)
+   |---目录： ./answers\YN-S00347\road
+      |---文件：road.cpp(大小：1516 字节 MD5:c0c4478744763f331ca89efd01f4717c)
+|---目录： ./answers\YN-S00348
+   |---目录： ./answers\YN-S00348\club
+      |---文件：club.cpp(大小：466 字节 MD5:8ebc4083114fb7cc8b76d48bf884ffe4)
+   |---目录： ./answers\YN-S00348\road
+      |---文件：road.cpp(大小：372 字节 MD5:0843959a12fcfc3dbe7ed136b8064a35)
+|---目录： ./answers\YN-S00349
+   |---目录： ./answers\YN-S00349\club
+      |---文件：club.cpp(大小：352 字节 MD5:1724ccabfbfcf4cfc8ff2fed00823b1e)
+   |---目录： ./answers\YN-S00349\employ
+      |---文件：employ.cpp(大小：313 字节 MD5:dbe42cc34c3f356192abf080744b07d0)
+   |---目录： ./answers\YN-S00349\replace
+      |---文件：replace.cpp(大小：192 字节 MD5:d72751b9880b92f7b106ff2778b73efe)
+   |---目录： ./answers\YN-S00349\road
+      |---文件：road.cpp(大小：253 字节 MD5:c012da3706e6cd8d9c20dfa0d075e9c1)
+|---目录： ./answers\YN-S00350
+   |---目录： ./answers\YN-S00350\club
+      |---文件：club.cpp(大小：453 字节 MD5:b185459860f9af661d65307b304a4a3a)
+   |---目录： ./answers\YN-S00350\employ
+      |---文件：employ.cpp(大小：292 字节 MD5:5c605b27c7eec40dbbb31b9e9b51b538)
+   |---目录： ./answers\YN-S00350\replace
+      |---文件：replace.cpp(大小：327 字节 MD5:7f570bf908daeef26128477e00b6fdfe)
+   |---目录： ./answers\YN-S00350\road
+      |---文件：road.cpp(大小：376 字节 MD5:a3bb7122108cc938f75ac537ca24b43e)
+|---目录： ./answers\YN-S00351
+   |---目录： ./answers\YN-S00351\club
+      |---文件：club.cpp(大小：1548 字节 MD5:cf45da7040a9f6440f068a6c59135ae8)
+   |---目录： ./answers\YN-S00351\employ
+      |---文件：employ.cpp(大小：751 字节 MD5:49d37191a6aa2c82f59b282ad0e78b81)
+   |---目录： ./answers\YN-S00351\replace
+      |---文件：replace.cpp(大小：507 字节 MD5:ecb515cf7ec20efd15917fe3b7609f16)
+   |---目录： ./answers\YN-S00351\road
+      |---文件：road.cpp(大小：520 字节 MD5:97b04f3773900a031b9e72ab6c5d0fc2)
+|---目录： ./answers\YN-S00352
+   |---目录： ./answers\YN-S00352\club
+      |---文件：club.cpp(大小：1328 字节 MD5:5d94d4360747ef82b7de648e80eda146)
+   |---目录： ./answers\YN-S00352\employ
+      |---文件：employ.cpp(大小：442 字节 MD5:83e58fb71b12fc3f343639d831576d5f)
+   |---目录： ./answers\YN-S00352\replace
+      |---文件：replace.cpp(大小：358 字节 MD5:1ddb896be5f4635900606d6fe0a7b679)
+   |---目录： ./answers\YN-S00352\road
+      |---文件：road.cpp(大小：951 字节 MD5:144054c25657834827474a91de580ffb)
+|---目录： ./answers\YN-S00353
+   |---目录： ./answers\YN-S00353\club
+      |---文件：club.cpp(大小：754 字节 MD5:0def1019122b478fd01d79dd0b7b2b82)
+   |---目录： ./answers\YN-S00353\employ
+      |---文件：employ.cpp(大小：376 字节 MD5:568dd485d0fef981b80e782ac576e8c6)
+   |---目录： ./answers\YN-S00353\replace
+      |---文件：replace.cpp(大小：320 字节 MD5:ef0a2a012499d367b49c2ae0d41af9d0)
+   |---目录： ./answers\YN-S00353\road
+      |---文件：road.cpp(大小：940 字节 MD5:c1df7c8d5d8a6b5f7df4e0172fad119a)
+|---目录： ./answers\YN-S00354
+   |---目录： ./answers\YN-S00354\club
+      |---文件：club.cpp(大小：1453 字节 MD5:91d11fd68321b1cec43b55cea06aff70)
+   |---目录： ./answers\YN-S00354\employ
+      |---文件：employ.cpp(大小：371 字节 MD5:ffb6b256901c4a995b6022dd34f48f94)
+   |---目录： ./answers\YN-S00354\replace
+      |---文件：replace.cpp(大小：416 字节 MD5:60942698f9838abddd87ad371a1381eb)
+   |---目录： ./answers\YN-S00354\road
+      |---文件：road.cpp(大小：407 字节 MD5:d0d0da7d9f5f4cb7d29bd13f3bb93e5a)
+|---目录： ./answers\YN-S00355
+   |---目录： ./answers\YN-S00355\club
+      |---文件：club.cpp(大小：1044 字节 MD5:cacc9b52cb833039a1c3697e617af928)
+   |---目录： ./answers\YN-S00355\road
+      |---文件：road.cpp(大小：1589 字节 MD5:70b0b67af9e575d7f1d53ca066989af7)
+|---目录： ./answers\YN-S00356
+   |---目录： ./answers\YN-S00356\club
+      |---文件：club.cpp(大小：1576 字节 MD5:5972dbb4a2d67d9e1b7976dfbac9d979)
+|---目录： ./answers\YN-S00357
+   |---目录： ./answers\YN-S00357\club
+      |---文件：club.cpp(大小：554 字节 MD5:08e62e25f9875660a63113dc55ff07ee)
+   |---目录： ./answers\YN-S00357\employ
+      |---文件：employ.cpp(大小：234 字节 MD5:00c962b8d9933eeca3facd8384cc8495)
+   |---目录： ./answers\YN-S00357\replace
+      |---文件：replace.cpp(大小：307 字节 MD5:2775cd494ce1d7cc1fb5d54a9c65194a)
+   |---目录： ./answers\YN-S00357\road
+      |---文件：road.cpp(大小：381 字节 MD5:0f075986137658dafa8545c6f54e3fbd)
+|---目录： ./answers\YN-S00358
+   |---目录： ./answers\YN-S00358\club
+      |---文件：club.cpp(大小：1890 字节 MD5:e54c76c9923cdc81e880a521509dc762)
+   |---目录： ./answers\YN-S00358\employ
+      |---文件：employ.cpp(大小：747 字节 MD5:6bfd0c0b1259eac56a79eac741bbff36)
+   |---目录： ./answers\YN-S00358\replace
+      |---文件：replace.cpp(大小：461 字节 MD5:1b46e8c34a362f60f9644d65d4326502)
+   |---目录： ./answers\YN-S00358\road
+      |---文件：road.cpp(大小：714 字节 MD5:05c660d9d38f9a6b89817e50d7de5af3)
+|---目录： ./answers\YN-S00359
+   |---目录： ./answers\YN-S00359\club
+      |---文件：club.cpp(大小：2221 字节 MD5:9e2fa8a39bbdecf6af16e062bf6f2add)
+   |---目录： ./answers\YN-S00359\employ
+      |---文件：employ.cpp(大小：287 字节 MD5:21e18a388483559f0a5a4ef3d05d823b)
+   |---目录： ./answers\YN-S00359\replace
+      |---文件：replace.cpp(大小：289 字节 MD5:01b5e1a1709d560d64eb4dadb76dd5e4)
+   |---目录： ./answers\YN-S00359\road
+      |---文件：road.cpp(大小：2054 字节 MD5:9e4444825981e9210fccbcd679d051e7)
+|---目录： ./answers\YN-S00360
+   |---目录： ./answers\YN-S00360\club
+      |---文件：club.cpp(大小：2040 字节 MD5:3e0f0b4c316353203ab4d9e45cc37a41)
+   |---目录： ./answers\YN-S00360\replace
+      |---文件：replace.cpp(大小：761 字节 MD5:acab442b2d6380d63ae1a17d1d2492e0)
+|---目录： ./answers\YN-S00361
+   |---目录： ./answers\YN-S00361\club
+      |---文件：club.cpp(大小：749 字节 MD5:12e1c20d8e11c7ebe2f04dc36f0f1ce7)
+   |---目录： ./answers\YN-S00361\employ
+      |---文件：employ.cpp(大小：325 字节 MD5:560463f9d5abf226a162d13bb060aa05)
+   |---目录： ./answers\YN-S00361\replace
+      |---文件：replace.cpp(大小：273 字节 MD5:43bdb3b67f64b55d33149aba66b31074)
+   |---目录： ./answers\YN-S00361\road
+      |---文件：road.cpp(大小：435 字节 MD5:4d8d3cfd29a9106c4cbac49a10612f0d)
+|---目录： ./answers\YN-S00362
+   |---目录： ./answers\YN-S00362\club
+      |---文件：club.cpp(大小：1352 字节 MD5:36fc9177a72d3f35298335a19641e5da)
+   |---目录： ./answers\YN-S00362\employ
+      |---文件：employ.cpp(大小：187 字节 MD5:4df8c3a5e94455f0c776f2b74b9a0168)
+   |---目录： ./answers\YN-S00362\replace
+      |---文件：replace.cpp(大小：260 字节 MD5:76ab9e5d248d168a8686c73aa7509f54)
+   |---目录： ./answers\YN-S00362\road
+      |---文件：road.cpp(大小：160 字节 MD5:70ffa20ae5491d15fcb68e0c45468a4c)
+|---目录： ./answers\YN-S00363
+   |---目录： ./answers\YN-S00363\club
+      |---文件：club.cpp(大小：1267 字节 MD5:770aa8aefcd35227624592c4240a3787)
+   |---目录： ./answers\YN-S00363\employ
+      |---文件：employ.cpp(大小：158 字节 MD5:1effd081f597cbd586ea664d9a3cc73e)
+   |---目录： ./answers\YN-S00363\replace
+      |---文件：replace.cpp(大小：217 字节 MD5:a7265b3f05e2dd84da380580cd160597)
+   |---目录： ./answers\YN-S00363\rode
+      |---文件：rode.cpp(大小：573 字节 MD5:34fc525dc9c1ae0d9ca8496074647d10)
+|---目录： ./answers\YN-S00364
+   |---目录： ./answers\YN-S00364\club
+      |---文件：club.cpp(大小：691 字节 MD5:02dcad41bdd2c26d89211378b8259b80)
+   |---目录： ./answers\YN-S00364\employ
+      |---文件：empoly.cpp(大小：695 字节 MD5:f6c39be2b67dca730cc62e302f8ca28e)
+   |---目录： ./answers\YN-S00364\replace
+      |---文件：replace.cpp(大小：697 字节 MD5:bc9aa41e6b7cf2853d0d562bfbb4305c)
+   |---目录： ./answers\YN-S00364\road
+      |---文件：road.cpp(大小：691 字节 MD5:b60186d23638c3271327d96be7388d1f)
+|---目录： ./answers\YN-S00366
+   |---目录： ./answers\YN-S00366\club
+      |---文件：club.cpp(大小：975 字节 MD5:409ebc9d2511a146a3d0575e2dc23bca)
+   |---目录： ./answers\YN-S00366\employ
+      |---文件：employ.cpp(大小：224 字节 MD5:76d2940611ab5685d73a55779526d22a)
+   |---目录： ./answers\YN-S00366\replace
+      |---文件：replace.cpp(大小：272 字节 MD5:76ac2f7815dc404e7d296c29f5631c81)
+   |---目录： ./answers\YN-S00366\road
+      |---文件：road.cpp(大小：536 字节 MD5:0b3e0504f8cc5b2e8c366104369834aa)
+|---目录： ./answers\YN-S00367
+   |---目录： ./answers\YN-S00367\club
+      |---文件：club.cpp(大小：906 字节 MD5:711baa73fd143ebda1bdd39f5d1afd6f)
+   |---目录： ./answers\YN-S00367\employ
+      |---文件：employ.cpp(大小：372 字节 MD5:a5ed05fe5bf419529f21ef8fec7ef562)
+|---目录： ./answers\YN-S00368
+   |---目录： ./answers\YN-S00368\club
+      |---文件：club.cpp(大小：341 字节 MD5:64229081f07745280625926f65f3a177)
+   |---目录： ./answers\YN-S00368\employ
+      |---文件：employ.cpp(大小：268 字节 MD5:8d622fc543b366c82baa265ee1d98aa3)
+   |---目录： ./answers\YN-S00368\replace
+      |---文件：replace.cpp(大小：237 字节 MD5:09f8c650dab65514ccd6261da53793cc)
+   |---目录： ./answers\YN-S00368\road
+      |---文件：road.cpp(大小：378 字节 MD5:ab8511bbbe54f0b1e9ea94f2ff4449dc)
+|---目录： ./answers\YN-S00369
+   |---目录： ./answers\YN-S00369\club
+      |---文件：club.cpp(大小：1922 字节 MD5:af1ee39a3076091b7c369f71b3f954c2)
+|---目录： ./answers\YN-S00370
+   |---目录： ./answers\YN-S00370\club
+      |---文件：club.cpp(大小：1391 字节 MD5:d585a8c669a18e26de28e8eb72900de2)
+   |---目录： ./answers\YN-S00370\employ
+      |---文件：employ.cpp(大小：733 字节 MD5:6a5b2bf00add53e27dec2663632a2336)
+   |---目录： ./answers\YN-S00370\replace
+      |---文件：replace.cpp(大小：1163 字节 MD5:5a2532dc3d68219b3210f86113f34370)
+   |---目录： ./answers\YN-S00370\road
+      |---文件：road.cpp(大小：424 字节 MD5:00a82d48704e7d4845669a9fe4fc764d)
+|---目录： ./answers\YN-S00371
+   |---目录： ./answers\YN-S00371\club
+      |---文件：club.cpp(大小：859 字节 MD5:16a3e9e83c668e62125377f9c178c2ac)
+   |---目录： ./answers\YN-S00371\employ
+      |---文件：employ.cpp(大小：855 字节 MD5:5458eb89a21cea74aa809f2fc0410d33)
+   |---目录： ./answers\YN-S00371\replace
+      |---文件：replace.cpp(大小：808 字节 MD5:2c88ab92fc36c3a43fd2db80bb49f30a)
+   |---目录： ./answers\YN-S00371\road
+      |---文件：road.cpp(大小：1266 字节 MD5:6a05abb9ed3ffcbd6b24787d0cb42a81)
+|---目录： ./answers\YN-S00372
+   |---目录： ./answers\YN-S00372\club
+      |---文件：club.cpp(大小：2544 字节 MD5:e332d35e33ee60e704b7d8695d348194)
+   |---目录： ./answers\YN-S00372\employ
+   |---目录： ./answers\YN-S00372\replace
+   |---目录： ./answers\YN-S00372\road
+      |---文件：road.cpp(大小：1532 字节 MD5:d06b3c04388df460d9fd26150b8d5f67)
+|---目录： ./answers\YN-S00373
+   |---目录： ./answers\YN-S00373\club
+      |---文件：club.cpp(大小：985 字节 MD5:8ca672e4c2ac0d8479dcc54b9af92e27)
+   |---目录： ./answers\YN-S00373\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:113239853b464586b99b407b9670e8ef)
+   |---目录： ./answers\YN-S00373\replace
+      |---文件：replace.cpp(大小：179 字节 MD5:141ab9370b64579f770f4e36c0075eb4)
+   |---目录： ./answers\YN-S00373\road
+      |---文件：road.cpp(大小：161 字节 MD5:88828632038a2b730193b34454def97a)
+|---目录： ./answers\YN-S00374
+   |---目录： ./answers\YN-S00374\club
+      |---文件：club.cpp(大小：327 字节 MD5:036b3249b17f78f61ed8dc3ceda78f3a)
+   |---目录： ./answers\YN-S00374\employ
+      |---文件：employ.cpp(大小：503 字节 MD5:ea793ac16f1755ffdb097fafae05296c)
+   |---目录： ./answers\YN-S00374\replace
+      |---文件：replace.cpp(大小：167 字节 MD5:b3488770cc402e22a12ca78e7ba9390a)
+   |---目录： ./answers\YN-S00374\road
+      |---文件：road.cpp(大小：161 字节 MD5:f3ff41afaee0c890f46eebf2e82fbc94)
+|---目录： ./answers\YN-S00375
+   |---目录： ./answers\YN-S00375\club
+      |---文件：club.cpp(大小：1318 字节 MD5:5ece394734ba19ae83f5ad4773eea80e)
+   |---目录： ./answers\YN-S00375\employ
+      |---文件：employ.cpp(大小：984 字节 MD5:c8dbe7f8498a5cd56943302233959f50)
+   |---目录： ./answers\YN-S00375\replace
+      |---文件：replace.cpp(大小：832 字节 MD5:98be070cda6fdb5a35a7247cb2cc9298)
+   |---目录： ./answers\YN-S00375\road
+      |---文件：road.cpp(大小：1294 字节 MD5:577b2fba44828af9c37a71e2eb03935e)
+|---目录： ./answers\YN-S00376
+   |---目录： ./answers\YN-S00376\club
+      |---文件：club.cpp(大小：1325 字节 MD5:27fd280355edc233a42a1164e98c5b6e)
+   |---目录： ./answers\YN-S00376\road
+      |---文件：road.cpp(大小：1590 字节 MD5:8ceeb243dd616ab9a24ccd3de7ce181a)
+|---目录： ./answers\YN-S00378
+   |---目录： ./answers\YN-S00378\club
+      |---文件：club.cpp(大小：1671 字节 MD5:060f4e7b7be256a1e9fadc6697a3da0a)
+   |---目录： ./answers\YN-S00378\employ
+      |---文件：employ.cpp(大小：487 字节 MD5:ab743f11584b182f10874ce50c8391a0)
+   |---目录： ./answers\YN-S00378\replace
+      |---文件：replace.cpp(大小：524 字节 MD5:17b989f24b3f9fdc413d209bdc27dbfb)
+   |---目录： ./answers\YN-S00378\rode
+      |---文件：rode.cpp(大小：544 字节 MD5:18fd84a91e0c14e577e0ee9537f038c9)
+|---目录： ./answers\YN-S00379
+   |---目录： ./answers\YN-S00379\club
+      |---文件：club.cpp(大小：2329 字节 MD5:cd12468cdd8c7978685898cd3c418a99)
+|---目录： ./answers\YN-S00380
+   |---目录： ./answers\YN-S00380\club
+      |---文件：club.cpp(大小：1256 字节 MD5:87a1614d42ae8bd54f86f4ecee00633d)
+   |---目录： ./answers\YN-S00380\employ
+      |---文件：employ.cpp(大小：996 字节 MD5:f6e7bad7694ab8271c41b8fa1b389bfe)
+   |---目录： ./answers\YN-S00380\replace
+      |---文件：replace.cpp(大小：293 字节 MD5:43323bc87f51ed4f962b79ef9b2e626e)
+   |---目录： ./answers\YN-S00380\road
+      |---文件：road.cpp(大小：366 字节 MD5:99730d66d7dd30a2493bdf6d099c9816)
+|---目录： ./answers\YN-S00381
+   |---目录： ./answers\YN-S00381\club
+      |---文件：club.cpp(大小：4318 字节 MD5:536656748871f5494bf8d2d1c8a4ebbb)
+   |---目录： ./answers\YN-S00381\road
+      |---文件：road.cpp(大小：1655 字节 MD5:df9e104be1e0c79f85ef29946e59ccc8)
+|---目录： ./answers\YN-S00382
+   |---目录： ./answers\YN-S00382\club
+      |---文件：club.cpp(大小：2692 字节 MD5:068769bfdbdc98916d03d30e8768f691)
+   |---目录： ./answers\YN-S00382\employ
+      |---文件：employ.cpp(大小：283 字节 MD5:d546b98a444a18aa5242de55dfc61056)
+   |---目录： ./answers\YN-S00382\replace
+      |---文件：replace.cpp(大小：746 字节 MD5:eb3e361c50b5ea890b2fcf0362e4f1df)
+   |---目录： ./answers\YN-S00382\road
+      |---文件：road.cpp(大小：890 字节 MD5:7da2ba985a1a0dded41771dcddef4f17)
+|---目录： ./answers\YN-S00383
+   |---目录： ./answers\YN-S00383\club
+      |---文件：club.cpp(大小：1459 字节 MD5:7d01eeb8b984186ac3d540c25da6c5d6)
+   |---目录： ./answers\YN-S00383\employ
+      |---文件：employ.cpp(大小：416 字节 MD5:481d93d7c2e90ed057877a21b293dd3e)
+   |---目录： ./answers\YN-S00383\road
+      |---文件：road.cpp(大小：1526 字节 MD5:a3b179cbe062dccba982c279f09f6d14)
+|---目录： ./answers\YN-S00384
+   |---目录： ./answers\YN-S00384\club
+      |---文件：club.cpp(大小：1443 字节 MD5:c06dfddea1b23def34b4edadf8e06dfe)
+   |---目录： ./answers\YN-S00384\employ
+      |---文件：employ.cpp(大小：231 字节 MD5:fc4b85ec4b800139bcc419dc2158e00d)
+   |---目录： ./answers\YN-S00384\replace
+      |---文件：replace.cpp(大小：233 字节 MD5:ace3f030332e41ffc7b3073d245cf8fe)
+   |---目录： ./answers\YN-S00384\road
+      |---文件：road.cpp(大小：227 字节 MD5:5ff2225895467010a55294ca5a9c01e3)
+|---目录： ./answers\YN-S00385
+   |---目录： ./answers\YN-S00385\club
+      |---文件：club.cpp(大小：3793 字节 MD5:11e22ea6fb8c05699ba9852a85306942)
+   |---目录： ./answers\YN-S00385\employ
+      |---文件：employ.cpp(大小：1073 字节 MD5:da2b8540b148303c3a375c38e63bae9f)
+   |---目录： ./answers\YN-S00385\replace
+      |---文件：replace.cpp(大小：1046 字节 MD5:ce4a6e48f435cd0eb5781a28b070e917)
+   |---目录： ./answers\YN-S00385\road
+      |---文件：road.cpp(大小：884 字节 MD5:02275fb72d32da0ef0b3a652491faa4a)
+|---目录： ./answers\YN-S00386
+   |---目录： ./answers\YN-S00386\club
+      |---文件：club.cpp(大小：1987 字节 MD5:a0cd1ca43ddfd917e6877276ca870c15)
+   |---目录： ./answers\YN-S00386\employ
+      |---文件：employ.cpp(大小：640 字节 MD5:823763ee58812215a78a59b5e42d7d3e)
+   |---目录： ./answers\YN-S00386\replace
+      |---文件：replace.cpp(大小：1056 字节 MD5:4685b27388ab9573835f1ea71849ae3f)
+   |---目录： ./answers\YN-S00386\road
+      |---文件：road.cpp(大小：615 字节 MD5:5a1df15c61e2f94bb658b0d9b2f2abf4)
+|---目录： ./answers\YN-S00387
+   |---目录： ./answers\YN-S00387\club
+      |---文件：club.cpp(大小：2937 字节 MD5:2c9e5cfdd05d303d382ae6bccb49fdbc)
+   |---目录： ./answers\YN-S00387\raplace
+      |---文件：replace.cpp(大小：347 字节 MD5:b5b207661b5928cae476625b08cb488e)
+|---目录： ./answers\YN-S00388
+   |---目录： ./answers\YN-S00388\club
+      |---文件：club.cpp(大小：1313 字节 MD5:9ec05cad81a6f1db63c60e88f92ed2db)
+   |---目录： ./answers\YN-S00388\employ
+   |---目录： ./answers\YN-S00388\replace
+      |---文件：replace.cpp(大小：1384 字节 MD5:d15385101dd33ae3d61aa0fffc6b64eb)
+   |---目录： ./answers\YN-S00388\road
+      |---文件：road.cpp(大小：666 字节 MD5:a54a2caaa2f8ecf2fa81479e46cff212)
+|---目录： ./answers\YN-S00389
+   |---目录： ./answers\YN-S00389\club
+      |---文件：club.cpp(大小：977 字节 MD5:db1a9ea4979cdd943d1f88bad33f6bd3)
+   |---目录： ./answers\YN-S00389\employ
+      |---文件：employ.cpp(大小：303 字节 MD5:6305d6c55cb8873aa59b9abcbe36cb7b)
+   |---目录： ./answers\YN-S00389\replace
+      |---文件：replace.cpp(大小：740 字节 MD5:fa68ed4c07140a8c75cb7952e063622e)
+   |---目录： ./answers\YN-S00389\road
+      |---文件：road.cpp(大小：640 字节 MD5:208613f51ba0efbe7e1d4fd69924b835)
+|---目录： ./answers\YN-S00390
+   |---目录： ./answers\YN-S00390\club
+      |---文件：club.cpp(大小：1827 字节 MD5:6a6187ad80a2a6ef4c7663edd006bfe0)
+   |---目录： ./answers\YN-S00390\employ
+      |---文件：employ.cpp(大小：372 字节 MD5:a6cde6c44b395c55951823d5806a7650)
+   |---目录： ./answers\YN-S00390\replace
+      |---文件：replace.cpp(大小：438 字节 MD5:dc2dbbb395c853f3cf522afd2bf30481)
+   |---目录： ./answers\YN-S00390\road
+      |---文件：road.cpp(大小：707 字节 MD5:e09021598e1c626555d0ea206486e52d)
+|---目录： ./answers\YN-S00391
+   |---目录： ./answers\YN-S00391\club
+      |---文件：club.cpp(大小：669 字节 MD5:5a1c58d84a07f699dde0c004a88f4339)
+   |---目录： ./answers\YN-S00391\replace
+      |---文件：replace.cpp(大小：2638 字节 MD5:d331592c6bbfa4db75d4e858d022f047)
+   |---目录： ./answers\YN-S00391\road
+      |---文件：road.cpp(大小：1780 字节 MD5:1727bd955c361ea598ecaaac91ae7a48)
+|---目录： ./answers\YN-S00392
+   |---目录： ./answers\YN-S00392\club
+      |---文件：club.cpp(大小：2273 字节 MD5:b3472e1fbdcd0e8a9f2aca19c68cdc6c)
+   |---目录： ./answers\YN-S00392\employ
+      |---文件：employ.cpp(大小：155 字节 MD5:901702f93c9cf21f1b1311f4f9850416)
+   |---目录： ./answers\YN-S00392\replace
+      |---文件：replace.cpp(大小：157 字节 MD5:eba956d9fd49d71bbb34bc0dce8ca9fc)
+   |---目录： ./answers\YN-S00392\road
+      |---文件：road.cpp(大小：151 字节 MD5:086e0719a978bc37aacd5512c57f2d93)
+|---目录： ./answers\YN-S00393
+   |---目录： ./answers\YN-S00393\club
+      |---文件：club.cpp(大小：1162 字节 MD5:1772d2c5512b99d427303b44148fd836)
+   |---目录： ./answers\YN-S00393\employ
+      |---文件：employ.cpp(大小：208 字节 MD5:41d0f4a2334b0a8bf7db276a6b588dd2)
+   |---目录： ./answers\YN-S00393\replace
+      |---文件：replace.cpp(大小：248 字节 MD5:c8c884cf4b9ee7f810edd17754dfed87)
+   |---目录： ./answers\YN-S00393\road
+      |---文件：road.cpp(大小：2449 字节 MD5:a0fb766b61f8a40a7920e3f57029e770)
+|---目录： ./answers\YN-S00394
+   |---目录： ./answers\YN-S00394\club
+      |---文件：club.cpp(大小：461 字节 MD5:926c866a4b4760a1690436afe22f3d24)
+   |---目录： ./answers\YN-S00394\employ
+      |---文件：employ.cpp(大小：448 字节 MD5:97c710cb313d30d68bf8ebf8325406a7)
+   |---目录： ./answers\YN-S00394\replace
+      |---文件：replace.cpp(大小：495 字节 MD5:eca8a376b94ab17c0d349cc2025e3fd6)
+   |---目录： ./answers\YN-S00394\road
+      |---文件：road.cpp(大小：497 字节 MD5:b017ed6b212836313cfe15783e8e2e81)
+|---目录： ./answers\YN-S00395
+   |---目录： ./answers\YN-S00395\club
+      |---文件：club.cpp(大小：538 字节 MD5:ffcd7c7e01b736b876cc077a8499335d)
+   |---目录： ./answers\YN-S00395\employ
+      |---文件：employ.cpp(大小：177 字节 MD5:7e34e9592cc593beeac31554ceada988)
+   |---目录： ./answers\YN-S00395\replace
+      |---文件：replace.cpp(大小：229 字节 MD5:c61bc292f10aa27cca496f2e900c013f)
+   |---目录： ./answers\YN-S00395\road
+      |---文件：road.cpp(大小：201 字节 MD5:c08b949f4f76d57cc86527f82fc11177)
+|---目录： ./answers\YN-S00396
+   |---目录： ./answers\YN-S00396\club
+      |---文件：club.cpp(大小：1485 字节 MD5:4512a46bfe205ddfe4445e34f300e86c)
+|---目录： ./answers\YN-S00397
+   |---目录： ./answers\YN-S00397\club
+      |---文件：club.cpp(大小：539 字节 MD5:9032ba0c1c18fb092001a8fed2f67d13)
+|---目录： ./answers\YN-S00398
+   |---目录： ./answers\YN-S00398\club
+      |---文件：club.cpp(大小：616 字节 MD5:7a6ab85c258471845012b35cf97460dd)
+   |---目录： ./answers\YN-S00398\employ
+      |---文件：employ.cpp(大小：427 字节 MD5:fddae7a42b9d4d09ff228f251b644ba1)
+   |---目录： ./answers\YN-S00398\replace
+      |---文件：replace.cpp(大小：694 字节 MD5:e782c7d957c0782a0d591ae625aadfa1)
+   |---目录： ./answers\YN-S00398\road
+      |---文件：road.cpp(大小：441 字节 MD5:d0f90bab665129f01cfdabe38f2f11fa)
+|---目录： ./answers\YN-S00399
+   |---目录： ./answers\YN-S00399\club
+      |---文件：club.cpp(大小：336 字节 MD5:7339411ab4673da4ab05dbbe5dda3649)
+   |---目录： ./answers\YN-S00399\employ
+      |---文件：employ.cpp(大小：472 字节 MD5:3b38596ecacefca5daeed1372c54f928)
+   |---目录： ./answers\YN-S00399\replace
+   |---目录： ./answers\YN-S00399\road
+|---目录： ./answers\YN-S00400
+   |---目录： ./answers\YN-S00400\club
+      |---文件：club.cpp(大小：671 字节 MD5:66e887787d2c27750314569081893458)
+   |---目录： ./answers\YN-S00400\employ
+      |---文件：employ.cpp(大小：360 字节 MD5:f337e4768c9faaacdcf68fba2bee6858)
+   |---目录： ./answers\YN-S00400\replace
+      |---文件：replace.cpp(大小：432 字节 MD5:84cd63c67315d5a760fe653183f60269)
+   |---目录： ./answers\YN-S00400\road
+      |---文件：road.cpp(大小：518 字节 MD5:aafc2ab7268ca34b2d5ecd24f5fda3e3)
+|---目录： ./answers\YN-S00401
+   |---目录： ./answers\YN-S00401\club
+      |---文件：club.cpp(大小：830 字节 MD5:0668cb0adfd962f5273d34b25732d8e1)
+   |---目录： ./answers\YN-S00401\employ
+      |---文件：employ.cpp(大小：235 字节 MD5:5790d5b7aa4cfec2d82d1aaa69d2558c)
+   |---目录： ./answers\YN-S00401\replace
+      |---文件：replace.cpp(大小：283 字节 MD5:e0d1a62f7c5eebd1178a127548981768)
+   |---目录： ./answers\YN-S00401\road
+      |---文件：road.cpp(大小：260 字节 MD5:4d400e185a703ebcfb35129788749ebe)
+|---目录： ./answers\YN-S00402
+   |---目录： ./answers\YN-S00402\club
+      |---文件：club.cpp(大小：1500 字节 MD5:db2e1f076e8496b3946d7c592a3c154a)
+   |---目录： ./answers\YN-S00402\employ
+      |---文件：employ.cpp(大小：957 字节 MD5:d22d25e183f3945e95333bf6b1906e33)
+   |---目录： ./answers\YN-S00402\replace
+      |---文件：replace.cpp(大小：706 字节 MD5:f0762545bf81050239275b05cfa1e17e)
+   |---目录： ./answers\YN-S00402\road
+      |---文件：road.cpp(大小：919 字节 MD5:7ed0a25a67e4509e82af6fbe9211a9ab)
+|---目录： ./answers\YN-S00403
+   |---目录： ./answers\YN-S00403\club
+      |---文件：club.cpp(大小：2801 字节 MD5:262d8497b5a93d0d47071ef94904c05c)
+   |---目录： ./answers\YN-S00403\road
+      |---文件：road.cpp(大小：2074 字节 MD5:3cb9df545613531dd1a0e06c3e8d4be6)
+|---目录： ./answers\YN-S00404
+   |---目录： ./answers\YN-S00404\club
+      |---文件：club.cpp(大小：1322 字节 MD5:a86ea0bf39b4eff371b6e5462e740556)
+   |---目录： ./answers\YN-S00404\employ
+      |---文件：employ.cpp(大小：760 字节 MD5:b85163b94733c0ad6c994ea7b125fa89)
+   |---目录： ./answers\YN-S00404\replace
+      |---文件：replace.cpp(大小：1545 字节 MD5:e3e64ce881fcaeb5587136b9ec193ecc)
+   |---目录： ./answers\YN-S00404\road
+      |---文件：road.cpp(大小：2203 字节 MD5:b080d88a85524a145319aa675cfa531c)
+|---目录： ./answers\YN-S00405
+   |---目录： ./answers\YN-S00405\club
+      |---文件：club.cpp(大小：254 字节 MD5:14e4e2271c3d4fca7c5981372e60e02b)
+   |---目录： ./answers\YN-S00405\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:727d2abe55d9b8b3ec78f8270d106b88)
+   |---目录： ./answers\YN-S00405\replace
+      |---文件：replace.cpp(大小：237 字节 MD5:7769d4dbd8ce4234bac32346c6d51941)
+   |---目录： ./answers\YN-S00405\road
+      |---文件：roud.cpp(大小：198 字节 MD5:8638eef7405d1eff72af3640a2102854)
+|---目录： ./answers\YN-S00406
+   |---目录： ./answers\YN-S00406\club
+      |---文件：club.cpp(大小：500 字节 MD5:eca8f58c3efe0ad1bc8e49e46dd7f102)
+   |---目录： ./answers\YN-S00406\employ
+      |---文件：employ.cpp(大小：387 字节 MD5:cce6479c93ab532c946aaed6eb83c6e8)
+   |---目录： ./answers\YN-S00406\replace
+      |---文件：replace.cpp(大小：319 字节 MD5:98a733c66b424c7e655f5be00bb6d3bf)
+   |---目录： ./answers\YN-S00406\road
+      |---文件：road.cpp(大小：392 字节 MD5:0ca70cd19e0339c60779c1a30db7ad87)
+|---目录： ./answers\YN-S00407
+   |---目录： ./answers\YN-S00407\club
+      |---文件：club.cpp(大小：1630 字节 MD5:7f85113a45d536c5cfca040034ca6178)
+|---目录： ./answers\YN-S00408
+   |---目录： ./answers\YN-S00408\club
+      |---文件：club.cpp(大小：2257 字节 MD5:39aaa32c25ce34277e134790012ed2c4)
+   |---目录： ./answers\YN-S00408\employ
+      |---文件：employ.cpp(大小：240 字节 MD5:89fc2513a5de4389dca231607fcd6a29)
+   |---目录： ./answers\YN-S00408\replace
+      |---文件：replace.cpp(大小：617 字节 MD5:9ba48b463220b0d4f396242c30c0aa82)
+   |---目录： ./answers\YN-S00408\road
+      |---文件：road.cpp(大小：1397 字节 MD5:6c8a2cf40d66a274fa75412a167c97c1)
+|---目录： ./answers\YN-S00409
+   |---目录： ./answers\YN-S00409\club
+      |---文件：club.cpp(大小：2641 字节 MD5:3a0eddb9f29353191f90a5667984b73e)
+   |---目录： ./answers\YN-S00409\employ
+      |---文件：employ.cpp(大小：330 字节 MD5:713f40a2a32bb188e4f36adbd777fde2)
+   |---目录： ./answers\YN-S00409\replace
+      |---文件：replace.cpp(大小：1225 字节 MD5:55ccc8d4378cb280ed0747923e61793d)
+   |---目录： ./answers\YN-S00409\road
+      |---文件：road.cpp(大小：2378 字节 MD5:734304145025a03767ef066eb728ef8c)
+|---目录： ./answers\YN-S00410
+   |---目录： ./answers\YN-S00410\club
+      |---文件：club.cpp(大小：1429 字节 MD5:371a2ea7aa6c55a576a4f2838ce583fa)
+   |---目录： ./answers\YN-S00410\replace
+      |---文件：replace.cpp(大小：488 字节 MD5:a2b98eb2cd772350c92e5db343f728e0)
+   |---目录： ./answers\YN-S00410\road
+      |---文件：road.cpp(大小：846 字节 MD5:b7c5653de44d313dc1c3f4a78c49ff3f)
+|---目录： ./answers\YN-S00411
+   |---目录： ./answers\YN-S00411\club
+      |---文件：club.cpp(大小：354 字节 MD5:07c1335a2d2f2827c03d4f74af1df66e)
+   |---目录： ./answers\YN-S00411\employ
+      |---文件：employ.cpp(大小：317 字节 MD5:9941196e90995f2161436a3292e8cb3a)
+   |---目录： ./answers\YN-S00411\replace
+      |---文件：replace.cpp(大小：255 字节 MD5:1253ba006bc1a08e4c60f0ee1a6588d0)
+   |---目录： ./answers\YN-S00411\road
+      |---文件：road.cpp(大小：447 字节 MD5:b034a6f9e7f3288c9f4238b6e2ebe20f)
+|---目录： ./answers\YN-S00412
+   |---目录： ./answers\YN-S00412\club
+      |---文件：club.cpp(大小：2559 字节 MD5:aa00882f0223e87844a2534d8550fc55)
+   |---目录： ./answers\YN-S00412\employ
+      |---文件：employ.cpp(大小：893 字节 MD5:389ceeb211103bc539b2b2790f02394a)
+|---目录： ./answers\YN-S00413
+   |---目录： ./answers\YN-S00413\club
+      |---文件：club.cpp(大小：1544 字节 MD5:0b9c8ff1fc247bd207100161432ac32e)
+   |---目录： ./answers\YN-S00413\employ
+      |---文件：employ.cpp(大小：494 字节 MD5:1db832273946c5e55f87404363772c63)
+   |---目录： ./answers\YN-S00413\replace
+      |---文件：replace.cpp(大小：549 字节 MD5:a36ec845887d86c4a0030ccf50ed886c)
+   |---目录： ./answers\YN-S00413\road
+      |---文件：road.cpp(大小：760 字节 MD5:754ae1e39854253abf31ab29d50daf2c)
+|---目录： ./answers\YN-S00414
+   |---目录： ./answers\YN-S00414\club
+      |---文件：club.cpp(大小：1935 字节 MD5:34bfa34584ee634329f109a774dfb6c1)
+   |---目录： ./answers\YN-S00414\employ
+      |---文件：employ.cpp(大小：201 字节 MD5:63a3439ab0ecb751e616e6f476ca8a5a)
+   |---目录： ./answers\YN-S00414\replace
+      |---文件：replace.cpp(大小：203 字节 MD5:fbec73033098fb6da26d0cd53660fa1f)
+   |---目录： ./answers\YN-S00414\road
+      |---文件：road.cpp(大小：211 字节 MD5:24a0e77ffb00ede67bcf9e8d95659902)
+|---目录： ./answers\YN-S00415
+   |---目录： ./answers\YN-S00415\club
+      |---文件：club.cpp(大小：2959 字节 MD5:26db61c80bf568bbf602da586db7be6f)
+   |---目录： ./answers\YN-S00415\employ
+      |---文件：employ.cpp(大小：632 字节 MD5:b97175c79c13593d6de776b7b06d471b)
+   |---目录： ./answers\YN-S00415\replace
+      |---文件：replace.cpp(大小：267 字节 MD5:2e1ff02bd4189f01fec020273a0af6d0)
+   |---目录： ./answers\YN-S00415\road
+      |---文件：road.cpp(大小：2009 字节 MD5:470b29a8e19b0aa3642ded20544ea3bb)
+|---目录： ./answers\YN-S00416
+   |---目录： ./answers\YN-S00416\club
+      |---文件：club.cpp(大小：335 字节 MD5:5e91daba7bfedaafaadfbd35b6081380)
+   |---目录： ./answers\YN-S00416\employ
+      |---文件：employ.cpp(大小：289 字节 MD5:045c720fc045243aac963988124f6ea3)
+|---目录： ./answers\YN-S00417
+   |---目录： ./answers\YN-S00417\club
+      |---文件：club.cpp(大小：1484 字节 MD5:e4b89b63832c32f5ca8516398654631e)
+      |---文件：club.cpp.cpp(大小：1484 字节 MD5:e4b89b63832c32f5ca8516398654631e)
+   |---目录： ./answers\YN-S00417\employ
+      |---文件：employ.cpp(大小：180 字节 MD5:ef50f4eda400becbbe1fc19a07d35cdb)
+      |---文件：employ.cpp.cpp(大小：180 字节 MD5:ef50f4eda400becbbe1fc19a07d35cdb)
+   |---目录： ./answers\YN-S00417\replace
+      |---文件：replace.cpp(大小：330 字节 MD5:2d5730807c65de836aca6eb3547f020f)
+      |---文件：replace.cpp.cpp(大小：330 字节 MD5:2d5730807c65de836aca6eb3547f020f)
+   |---目录： ./answers\YN-S00417\road
+      |---文件：road.cpp(大小：531 字节 MD5:f887c9fe98291fd250b8fca34ccf5a7e)
+      |---文件：road.cpp.cpp(大小：531 字节 MD5:f887c9fe98291fd250b8fca34ccf5a7e)
+|---目录： ./answers\YN-S00418
+   |---目录： ./answers\YN-S00418\club
+      |---文件：club.cpp(大小：480 字节 MD5:f8fabedf34c28cfc775340c15144d99e)
+   |---目录： ./answers\YN-S00418\employ
+      |---文件：employ.cpp(大小：344 字节 MD5:a8606ba03c4201c35914eba5fac7752c)
+   |---目录： ./answers\YN-S00418\replace
+   |---目录： ./answers\YN-S00418\road
+      |---文件：road.cpp(大小：407 字节 MD5:61ebc1c4007bd1467e3ccdaac622a055)
+|---目录： ./answers\YN-S00419
+   |---目录： ./answers\YN-S00419\club
+      |---文件：club.cpp(大小：1730 字节 MD5:ca3b8fa00af7a84dc554beffeb29f953)
+   |---目录： ./answers\YN-S00419\employ
+      |---文件：employ.cpp(大小：444 字节 MD5:08506110432da6dea6e12c03373294fb)
+   |---目录： ./answers\YN-S00419\replace
+      |---文件：replace.cpp(大小：340 字节 MD5:a6f46c58c22c9ada2614195f3c6f7076)
+   |---目录： ./answers\YN-S00419\road
+      |---文件：road.cpp(大小：1700 字节 MD5:dbed7e3931541fcfc3ca2be20e4ef325)
+|---目录： ./answers\YN-S00420
+   |---目录： ./answers\YN-S00420\club
+      |---文件：club.cpp(大小：1298 字节 MD5:4cd347bc8fa9e44aff575b6d5983bfd6)
+   |---目录： ./answers\YN-S00420\employ
+      |---文件：employ.cpp(大小：317 字节 MD5:31a5746b72c90c3dbe42965c68d80f8c)
+   |---目录： ./answers\YN-S00420\replace
+      |---文件：replace.cpp(大小：229 字节 MD5:b8bcd1b0ce26dbef3233037e2c548719)
+   |---目录： ./answers\YN-S00420\road
+      |---文件：road.cpp(大小：197 字节 MD5:1035b929821915960f93ef53dd017470)
+|---目录： ./answers\YN-S00421
+   |---目录： ./answers\YN-S00421\club
+      |---文件：clud.cpp(大小：4692 字节 MD5:f63fbf76d3aeb1682f445b58368966a8)
+|---目录： ./answers\YN-S00422
+   |---目录： ./answers\YN-S00422\club
+      |---文件：club.cpp(大小：2228 字节 MD5:7c95c75573b92067a4d34b8a3c2b3901)
+   |---目录： ./answers\YN-S00422\employ
+      |---文件：employ.cpp(大小：795 字节 MD5:58fc0b2a46eb9c54473830fa138b3451)
+   |---目录： ./answers\YN-S00422\replace
+      |---文件：replace.cpp(大小：256 字节 MD5:dbda34ab5739ca61d1a75c7e6376b03d)
+   |---目录： ./answers\YN-S00422\road
+      |---文件：road.cpp(大小：477 字节 MD5:af4aaf004cfe5c0566142b83250c08b4)
+|---目录： ./answers\YN-S00423
+   |---目录： ./answers\YN-S00423\club
+      |---文件：club.cpp(大小：846 字节 MD5:5d530bda7a183a910cc1f9657e9953e6)
+   |---目录： ./answers\YN-S00423\employ
+      |---文件：employ.cpp(大小：802 字节 MD5:3ff6aa27a5f26ef3e484141e62b69d30)
+   |---目录： ./answers\YN-S00423\road
+      |---文件：road.cpp(大小：840 字节 MD5:e747f27a54db75869c62e2bfe063c114)
+|---目录： ./answers\YN-S00424
+   |---目录： ./answers\YN-S00424\club
+      |---文件：club.cpp(大小：3677 字节 MD5:2d884885d8049cd8cd7cf0a66fa3a0b2)
+   |---目录： ./answers\YN-S00424\employ
+      |---文件：employ.cpp(大小：1253 字节 MD5:998072dffddc713bfa64af49330ce51f)
+   |---目录： ./answers\YN-S00424\replace
+      |---文件：replace.cpp(大小：2137 字节 MD5:0825003c3372e459fb0a99164631e85b)
+   |---目录： ./answers\YN-S00424\road
+      |---文件：road.cpp(大小：1904 字节 MD5:8395d3a1c3d33978e672e2c6c6c12135)
+|---目录： ./answers\YN-S00425
+   |---目录： ./answers\YN-S00425\club
+      |---文件：club.cpp(大小：1046 字节 MD5:8aaa5eb14d5b23f40ee0383d76086959)
+   |---目录： ./answers\YN-S00425\road
+      |---文件：road.cpp(大小：410 字节 MD5:3ea63f44de787552a3d72803be9f1689)
+|---目录： ./answers\YN-S00426
+   |---目录： ./answers\YN-S00426\club
+      |---文件：club.cpp(大小：1139 字节 MD5:f4e85dde872b22e1b3fae2469a6de0bf)
+|---目录： ./answers\YN-S00427
+   |---目录： ./answers\YN-S00427\club
+      |---文件：club.cpp(大小：1840 字节 MD5:65a49e8e9e93b81a6cd80df47b60dc27)
+   |---目录： ./answers\YN-S00427\employ
+   |---目录： ./answers\YN-S00427\replace
+   |---目录： ./answers\YN-S00427\road
+|---目录： ./answers\YN-S00428
+   |---目录： ./answers\YN-S00428\club
+      |---文件：club.cpp(大小：1768 字节 MD5:9856f73707f22a29d29abe51de4b3b66)
+   |---目录： ./answers\YN-S00428\employ
+      |---文件：employ.cpp(大小：609 字节 MD5:8a3bedc9988101613bb3a5c73794a7de)
+   |---目录： ./answers\YN-S00428\replace
+      |---文件：replace.cpp(大小：246 字节 MD5:fed054d3f965d48450621153c3550205)
+   |---目录： ./answers\YN-S00428\road
+      |---文件：road.cpp(大小：418 字节 MD5:c9de78cdb7be79a55e37254f81ac4faa)
+|---目录： ./answers\YN-S00429
+   |---目录： ./answers\YN-S00429\club
+      |---文件：club.cpp(大小：3584 字节 MD5:9b2416d31efd30643e7bdc2792769e78)
+   |---目录： ./answers\YN-S00429\road
+      |---文件：road.cpp(大小：394 字节 MD5:4c3a839582eedd828b55b79cee6aa663)
+|---目录： ./answers\YN-S00430
+   |---目录： ./answers\YN-S00430\club
+      |---文件：club.cpp(大小：1560 字节 MD5:ce00ee3ee36602f01a1a44468413db95)
+   |---目录： ./answers\YN-S00430\employ
+      |---文件：employ.cpp(大小：271 字节 MD5:e9c717f32ef212b60f02ef2b1bc90554)
+   |---目录： ./answers\YN-S00430\replace
+      |---文件：replace.cpp(大小：365 字节 MD5:bb09d60f2589a5d7d6e8c3fe353b7336)
+   |---目录： ./answers\YN-S00430\road
+      |---文件：road.cpp(大小：390 字节 MD5:f3d179b7cbc081b1cd4edbbd463596fa)
+|---目录： ./answers\YN-S00431
+   |---目录： ./answers\YN-S00431\road
+      |---文件：road.cpp(大小：1205 字节 MD5:aacc8ef4b8b28f517c733e4cb02d89cc)
+|---目录： ./answers\YN-S00432
+   |---目录： ./answers\YN-S00432\club
+      |---文件：club.cpp(大小：1802 字节 MD5:830519aa40b52c72427fc397069ffb0a)
+   |---目录： ./answers\YN-S00432\employ
+      |---文件：employ.cpp(大小：327 字节 MD5:263ea1717bc375b0966bdc34336eb208)
+   |---目录： ./answers\YN-S00432\replace
+      |---文件：replace.cpp(大小：1573 字节 MD5:435bcbe4e70a827a6958602b735cb677)
+   |---目录： ./answers\YN-S00432\road
+      |---文件：road.cpp(大小：479 字节 MD5:7936f0e29cab7da7876835c49548e94d)
+|---目录： ./answers\YN-S00433
+   |---目录： ./answers\YN-S00433\club
+      |---文件：club.cpp(大小：737 字节 MD5:ba25cdce2f678ff75ca7bc757bf3b277)
+   |---目录： ./answers\YN-S00433\employ
+      |---文件：employ.cpp(大小：489 字节 MD5:c4104de8a4f2d112e3e5c9ea611d4dca)
+   |---目录： ./answers\YN-S00433\replace
+      |---文件：replace.cpp(大小：767 字节 MD5:11627756f67be3e628de98c6c979db2b)
+   |---目录： ./answers\YN-S00433\road
+      |---文件：road.cpp(大小：151 字节 MD5:086e0719a978bc37aacd5512c57f2d93)
+|---目录： ./answers\YN-S00434
+   |---目录： ./answers\YN-S00434\club
+      |---文件：club.cpp(大小：451 字节 MD5:37559de0571c725fc72acbe5d3fcf5db)
+   |---目录： ./answers\YN-S00434\employ
+      |---文件：employ.cpp(大小：356 字节 MD5:ea9c8b2b68e25af2f649b9c924873d62)
+   |---目录： ./answers\YN-S00434\replace
+      |---文件：replace.cpp(大小：183 字节 MD5:f49642d48874ecac4be48b2edec4d9be)
+   |---目录： ./answers\YN-S00434\road
+      |---文件：road.cpp(大小：364 字节 MD5:1b8c78c788de4ed841262ac5d91fcdcc)
+|---目录： ./answers\YN-S00435
+   |---目录： ./answers\YN-S00435\club
+      |---文件：club.cpp(大小：1716 字节 MD5:080fc6e4ec6a2f5b18c236c4e3c07450)
+   |---目录： ./answers\YN-S00435\employ
+      |---文件：employ.cpp(大小：661 字节 MD5:96e0ad6cfa4b8bb5a069b7abaa40c128)
+   |---目录： ./answers\YN-S00435\replace
+      |---文件：replace.cpp(大小：460 字节 MD5:290b0e674cc736c16ed99b324cf6728d)
+   |---目录： ./answers\YN-S00435\road
+      |---文件：road.cpp(大小：1369 字节 MD5:82d595d82017d166d25d5d27be86edc6)
+|---目录： ./answers\YN-S00436
+   |---目录： ./answers\YN-S00436\club
+      |---文件：club.cpp(大小：3055 字节 MD5:dea42b29b4cb2ebbf941007bf1c06ca7)
+   |---目录： ./answers\YN-S00436\employ
+      |---文件：employ.cpp(大小：708 字节 MD5:4c31f5e726355a8545223ea5364544be)
+   |---目录： ./answers\YN-S00436\replace
+      |---文件：replace.cpp(大小：860 字节 MD5:1348d74d00507eaa861a9d1cb650d46f)
+   |---目录： ./answers\YN-S00436\road
+      |---文件：road.cpp(大小：2015 字节 MD5:dfd889db468704de7cbba253d58b8801)
+|---目录： ./answers\YN-S00437
+   |---目录： ./answers\YN-S00437\club
+      |---文件：club.cpp(大小：1514 字节 MD5:2608ab99fe648fa513c6431b439cc9a2)
+   |---目录： ./answers\YN-S00437\employ
+      |---文件：employ.cpp(大小：544 字节 MD5:70752abffc994cf70b681def10959ac3)
+   |---目录： ./answers\YN-S00437\replace
+      |---文件：replace.cpp(大小：389 字节 MD5:3565fb0ac1cfe623c248d65292d41d36)
+   |---目录： ./answers\YN-S00437\road
+      |---文件：road.cpp(大小：417 字节 MD5:a012df3c6fa2fc7df6f83c5beb85afcf)
+|---目录： ./answers\YN-S00438
+   |---目录： ./answers\YN-S00438\club
+      |---文件：club.cpp(大小：1011 字节 MD5:a7a2d0a837f19ee1e0d051addcd4d446)
+   |---目录： ./answers\YN-S00438\employ
+   |---目录： ./answers\YN-S00438\replace
+      |---文件：replace.cpp(大小：330 字节 MD5:f067e011488a2d0d0322d5d18281d619)
+   |---目录： ./answers\YN-S00438\road
+      |---文件：road.cpp(大小：1269 字节 MD5:9b7a95a900c68f8800fe584bcaac7346)
+|---目录： ./answers\YN-S00439
+   |---目录： ./answers\YN-S00439\club
+      |---文件：club.cpp(大小：837 字节 MD5:a3d26d877ed37b955d203bb36048987c)
+   |---目录： ./answers\YN-S00439\employ
+      |---文件：employ.cpp(大小：196 字节 MD5:dbbb5b55d732bea6bcf5097012c9d372)
+   |---目录： ./answers\YN-S00439\replace
+      |---文件：replace.cpp(大小：166 字节 MD5:ff3d5352f3955ae271af70715eb73044)
+   |---目录： ./answers\YN-S00439\road
+      |---文件：road.cpp(大小：160 字节 MD5:c06d0a704d00dc8fa4ddc2493dd3844f)
+|---目录： ./answers\YN-S00440
+   |---目录： ./answers\YN-S00440\club
+      |---文件：club.cpp(大小：1933 字节 MD5:0192a5327d2943f14a9f3664bb6cef02)
+   |---目录： ./answers\YN-S00440\replace
+      |---文件：replace.cpp(大小：1799 字节 MD5:a924f68817f262a7c02721b2cc8258fd)
+   |---目录： ./answers\YN-S00440\road
+      |---文件：road.cpp(大小：2021 字节 MD5:3695a64a309198629f797b49328c9743)
+|---目录： ./answers\YN-S00441
+   |---目录： ./answers\YN-S00441\club
+      |---文件：club.cpp(大小：1433 字节 MD5:0412317d5845bb77839e1884cd107de3)
+   |---目录： ./answers\YN-S00441\replace
+      |---文件：replace.cpp(大小：601 字节 MD5:7f8446e2263e5a45b04c046c743ba4a1)
+   |---目录： ./answers\YN-S00441\road
+      |---文件：road.cpp(大小：1682 字节 MD5:33f04a009763b8957e890139bb59ea35)
+|---目录： ./answers\YN-S00442
+   |---目录： ./answers\YN-S00442\club
+      |---文件：club.cpp(大小：1570 字节 MD5:f4d52e4d8373bbf662af41725462eea6)
+   |---目录： ./answers\YN-S00442\employ
+      |---文件：employ.cpp(大小：1163 字节 MD5:a98ec11ff527ad0304fe16221d67bc29)
+   |---目录： ./answers\YN-S00442\replace
+      |---文件：replace.cpp(大小：1015 字节 MD5:74efe1178ee2bd23b72cb7d9a99fe20d)
+   |---目录： ./answers\YN-S00442\road
+      |---文件：road.cpp(大小：3219 字节 MD5:69dea9df727c359665e211be5e6e7f41)
+|---目录： ./answers\YN-S00443
+   |---目录： ./answers\YN-S00443\club
+      |---文件：club.cpp(大小：2347 字节 MD5:4a0d393b0f064f14a3b6bd751de7b7e1)
+   |---目录： ./answers\YN-S00443\employ
+      |---文件：employ.cpp(大小：1025 字节 MD5:0b23df27f53b3f465aa2f66e7d5d2c2a)
+   |---目录： ./answers\YN-S00443\road
+      |---文件：road.cpp(大小：1270 字节 MD5:0757e46dd92fce5cb6a36df4564fa660)
+|---目录： ./answers\YN-S00444
+   |---目录： ./answers\YN-S00444\club
+      |---文件：club.cpp(大小：836 字节 MD5:02a976102c366ce434d7634020b3a86d)
+   |---目录： ./answers\YN-S00444\replace
+      |---文件：replace.cpp(大小：1414 字节 MD5:b4b6a0a12f06ff371786528518cd7fc5)
+|---目录： ./answers\YN-S00445
+   |---目录： ./answers\YN-S00445\club
+      |---文件：club.cpp(大小：1501 字节 MD5:1b5989af8e7a297bd9d7fb500c15f0a0)
+   |---目录： ./answers\YN-S00445\employ
+      |---文件：employ.cpp(大小：265 字节 MD5:f91b06475a92476bfee5844d5bb26b19)
+   |---目录： ./answers\YN-S00445\replace
+      |---文件：replace.cpp(大小：1305 字节 MD5:9ba8599a0f5d762e656708c6ee18e5ce)
+   |---目录： ./answers\YN-S00445\road
+      |---文件：road.cpp(大小：1765 字节 MD5:6a1d51e98801eb21648c55043502cd43)
+|---目录： ./answers\YN-S00446
+   |---目录： ./answers\YN-S00446\club
+      |---文件：club.cpp(大小：767 字节 MD5:b6c47acda3ea0c5c1eb2582501fdb13f)
+   |---目录： ./answers\YN-S00446\employ
+   |---目录： ./answers\YN-S00446\replace
+   |---目录： ./answers\YN-S00446\road
+|---目录： ./answers\YN-S00447
+   |---目录： ./answers\YN-S00447\club
+      |---文件：club.cpp(大小：608 字节 MD5:9f0ea6603ffc801f80c7f94e503e5b7f)
+   |---目录： ./answers\YN-S00447\employ
+      |---文件：employ.cpp(大小：177 字节 MD5:76b0c29151c47ef4e8add4d6e228292b)
+   |---目录： ./answers\YN-S00447\replace
+      |---文件：replace.cpp(大小：247 字节 MD5:133c4574554a763c8b660830c09d0794)
+   |---目录： ./answers\YN-S00447\road
+      |---文件：road.cpp(大小：173 字节 MD5:f4e4c73647614ce8f2e5925577ae06af)
+|---目录： ./answers\YN-S00448
+   |---目录： ./answers\YN-S00448\club
+      |---文件：club.cpp(大小：661 字节 MD5:941c0d977ecc0698aa9eb95988295fab)
+   |---目录： ./answers\YN-S00448\employ
+      |---文件：employ.cpp(大小：166 字节 MD5:f95a0bb56db68d0f7e5cc91942acae57)
+   |---目录： ./answers\YN-S00448\replace
+      |---文件：replace.cpp(大小：157 字节 MD5:eba956d9fd49d71bbb34bc0dce8ca9fc)
+   |---目录： ./answers\YN-S00448\road
+      |---文件：road.cpp(大小：162 字节 MD5:d62d383307935073457fb24e69f22550)
+|---目录： ./answers\YN-S00449
+   |---目录： ./answers\YN-S00449\club
+      |---文件：club.cpp(大小：1679 字节 MD5:c522153a543e60a143d1647d76f98aff)
+   |---目录： ./answers\YN-S00449\employ
+      |---文件：empoly.cpp(大小：312 字节 MD5:cf18fd916fa3063482c8ea8e4bf41f63)
+   |---目录： ./answers\YN-S00449\replace
+      |---文件：replace.cpp(大小：376 字节 MD5:9b64944a99d1b501bb219ff4391aa9f9)
+   |---目录： ./answers\YN-S00449\road
+      |---文件：road.cpp(大小：1856 字节 MD5:b78ed3bf8ba7e90b575e655f4108a70c)
+|---目录： ./answers\YN-S00450
+   |---目录： ./answers\YN-S00450\club
+      |---文件：club.cpp(大小：1679 字节 MD5:2dca60e4e22d15eea852b779793b4497)
+   |---目录： ./answers\YN-S00450\employ
+      |---文件：employ.cpp(大小：735 字节 MD5:9468b07b514f0ec20ef9c4b0c65da5d8)
+   |---目录： ./answers\YN-S00450\replace
+   |---目录： ./answers\YN-S00450\road
+      |---文件：road.cpp(大小：2545 字节 MD5:bc409630cc1551bb4210003f501ddbb2)
+|---目录： ./answers\YN-S00451
+   |---目录： ./answers\YN-S00451\club
+      |---文件：club.cpp(大小：182 字节 MD5:ee94129fcb5c64de547a933364f68885)
+   |---目录： ./answers\YN-S00451\employ
+      |---文件：employ.cpp(大小：166 字节 MD5:1e354d683dd6c4d187c0b111fc028194)
+   |---目录： ./answers\YN-S00451\replace
+      |---文件：replace.cpp(大小：184 字节 MD5:9742e739fd8da8835f595eab89e30d72)
+   |---目录： ./answers\YN-S00451\road
+      |---文件：road.cpp(大小：513 字节 MD5:43e5e964fa87548a3c192cac4c9699e8)
+|---目录： ./answers\YN-S00452
+   |---目录： ./answers\YN-S00452\club
+      |---文件：club.cpp(大小：603 字节 MD5:13a1f08a585d1d246b2373c10a0345b9)
+   |---目录： ./answers\YN-S00452\employ
+      |---文件：employ.cpp(大小：176 字节 MD5:53c28b2dd370fd3a46c228eb02433ab3)
+   |---目录： ./answers\YN-S00452\replace
+      |---文件：replace.cpp(大小：397 字节 MD5:c8c1058e41f16e2b3604872d94f56c16)
+   |---目录： ./answers\YN-S00452\road
+      |---文件：road.cpp(大小：269 字节 MD5:8e9d0a5bfa55ab7b8bd48ad577bdc2e2)
+|---目录： ./answers\YN-S00453
+   |---目录： ./answers\YN-S00453\club
+      |---文件：club.cpp(大小：353 字节 MD5:8ff747b820039bc6a4e37b4e4229fe21)
+   |---目录： ./answers\YN-S00453\employ
+      |---文件：employ.cpp(大小：464 字节 MD5:db8a07eeff4830a98986557095a516c6)
+   |---目录： ./answers\YN-S00453\replace
+      |---文件：replace.cpp(大小：378 字节 MD5:6c43de13d9d280b50f359df49650c218)
+   |---目录： ./answers\YN-S00453\road
+      |---文件：road.cpp(大小：477 字节 MD5:daac9b8c54c34f455206d098179f319b)
+|---目录： ./answers\YN-S00454
+   |---目录： ./answers\YN-S00454\club
+      |---文件：club.cpp(大小：1827 字节 MD5:f7f78b079a068fad992017d426f9df1c)
+   |---目录： ./answers\YN-S00454\employ
+      |---文件：employ.cpp(大小：559 字节 MD5:b841857ab3957ede43ca0135b42a0c48)
+|---目录： ./answers\YN-S00455
+   |---目录： ./answers\YN-S00455\club
+      |---文件：club.cpp(大小：1415 字节 MD5:55e9c3684078b36452ff6d1c8726938c)
+   |---目录： ./answers\YN-S00455\employ
+      |---文件：employ.cpp(大小：270 字节 MD5:3029204ee03fb1b2fa9152256c9aefbf)
+   |---目录： ./answers\YN-S00455\replace
+      |---文件：replace.cpp(大小：277 字节 MD5:b8cc9c5ddd9e25eefab748da1ee2f704)
+   |---目录： ./answers\YN-S00455\road
+      |---文件：road.cpp(大小：744 字节 MD5:5f4c2bedc9d98a2398067348bcfa9de8)
+|---目录： ./answers\YN-S00456
+   |---目录： ./answers\YN-S00456\club
+      |---文件：club.cpp(大小：760 字节 MD5:56770d5662ccabea30e6c7ae35200d10)
+   |---目录： ./answers\YN-S00456\employ
+      |---文件：employ.cpp(大小：1058 字节 MD5:769fb6299d2cef894c7f51e08cbf3d92)
+   |---目录： ./answers\YN-S00456\replace
+      |---文件：replace.cpp(大小：1391 字节 MD5:ccc4dddec117ea158d9961851ff768bb)
+|---目录： ./answers\YN-S00457
+   |---目录： ./answers\YN-S00457\club
+      |---文件：club.cpp(大小：2643 字节 MD5:a698dcb880fd56448148d4bdb8b511ca)
+|---目录： ./answers\YN-S00458
+   |---目录： ./answers\YN-S00458\club
+      |---文件：club.cpp(大小：3506 字节 MD5:79ee057172478e60883434b3d969865d)
+   |---目录： ./answers\YN-S00458\employ
+      |---文件：employ.cpp(大小：543 字节 MD5:03d35e80ded601e97690f97aa2cd9052)
+   |---目录： ./answers\YN-S00458\replace
+      |---文件：replace.cpp(大小：242 字节 MD5:bf8a5913ec2c61a87dad8130f79ea416)
+   |---目录： ./answers\YN-S00458\road
+      |---文件：road.cpp(大小：576 字节 MD5:d5cca0cc9ee3760cfdfbc9b941fce21c)
+|---目录： ./answers\YN-S00459
+   |---目录： ./answers\YN-S00459\club
+      |---文件：club.cpp(大小：555 字节 MD5:a4419bc3e997f3c5ebddb20707b6b893)
+   |---目录： ./answers\YN-S00459\employ
+   |---目录： ./answers\YN-S00459\replace
+   |---目录： ./answers\YN-S00459\road
+|---目录： ./answers\YN-S00460
+   |---目录： ./answers\YN-S00460\club
+      |---文件：club.cpp(大小：585 字节 MD5:fede3161f89ed99b0e2b09897cfc5f73)
+   |---目录： ./answers\YN-S00460\employ
+      |---文件：employ.cpp(大小：577 字节 MD5:6a0fe9248c7e3721c1f58e609da37073)
+   |---目录： ./answers\YN-S00460\replace
+      |---文件：replace.cpp(大小：792 字节 MD5:afebb256a3ea84f693cc678068ff372d)
+|---目录： ./answers\YN-S00461
+   |---目录： ./answers\YN-S00461\club
+      |---文件：club.cpp(大小：2433 字节 MD5:2f96fdb01b6184c268b19fcba9286462)
+|---目录： ./answers\YN-S00462
+   |---目录： ./answers\YN-S00462\club
+      |---文件：club.cpp(大小：1243 字节 MD5:0859d0ad5c7ba372c5d4f94b94c39bfa)
+   |---目录： ./answers\YN-S00462\employ
+      |---文件：employ.cpp(大小：831 字节 MD5:90539da64c40a9dfad5f2a774a8562a0)
+   |---目录： ./answers\YN-S00462\replace
+      |---文件：replace.cpp(大小：720 字节 MD5:6faffea5d2b1242a3c2c414bbcff9df1)
+   |---目录： ./answers\YN-S00462\road
+      |---文件：road.cpp(大小：509 字节 MD5:f79ad2099b39ce46a7e4d7c0924eafc1)
+|---目录： ./answers\YN-S00463
+   |---目录： ./answers\YN-S00463\club
+      |---文件：club.cpp(大小：637 字节 MD5:4a0c9c1a732124c992a678a38188c4d4)
+   |---目录： ./answers\YN-S00463\replace
+      |---文件：replace.cpp(大小：493 字节 MD5:e4c5a8b91de8821bd988cce4b06066b5)
+|---目录： ./answers\YN-S00464
+   |---目录： ./answers\YN-S00464\club
+      |---文件：club.cpp(大小：1754 字节 MD5:b7c7d727225fabedc05c5e71bb692b75)
+   |---目录： ./answers\YN-S00464\employ
+   |---目录： ./answers\YN-S00464\replace
+   |---目录： ./answers\YN-S00464\road
+      |---文件：road.cpp(大小：185 字节 MD5:93f8d13f114d446322fcc491599067fe)
+|---目录： ./answers\YN-S00465
+   |---目录： ./answers\YN-S00465\club
+      |---文件：club.cpp(大小：4245 字节 MD5:be8b9f1a5a57aa255e5dec0acce93bbd)
+   |---目录： ./answers\YN-S00465\employ
+      |---文件：employ.cpp(大小：501 字节 MD5:c534e586d7fdba02234a6c47d7de62f1)
+   |---目录： ./answers\YN-S00465\replace
+      |---文件：replace.cpp(大小：192 字节 MD5:5ce570b0d2a3832d1ebefb1fd564a7e9)
+   |---目录： ./answers\YN-S00465\road
+      |---文件：road.cpp(大小：587 字节 MD5:30e281daf2e868ed9f56faf3ffb23ee7)
+|---目录： ./answers\YN-S00466
+   |---目录： ./answers\YN-S00466\club
+      |---文件：club.cpp(大小：1127 字节 MD5:d120bdbecb56aabaa29614045169ac2d)
+   |---目录： ./answers\YN-S00466\employ
+      |---文件：employ.cpp(大小：798 字节 MD5:9f4ea63f349c87b964f495a640007c29)
+   |---目录： ./answers\YN-S00466\replace
+      |---文件：replace.cpp(大小：719 字节 MD5:9c72c6995b83d84138a355bece2ea0fe)
+   |---目录： ./answers\YN-S00466\road
+      |---文件：road.cpp(大小：2003 字节 MD5:f6f9a214c12b0718592156c4b9c92dd9)
+|---目录： ./answers\YN-S00467
+   |---目录： ./answers\YN-S00467\club
+      |---文件：club.cpp(大小：4518 字节 MD5:3cc8f3d20ccb7dd47c3b435407dba175)
+|---目录： ./answers\YN-S00468
+   |---目录： ./answers\YN-S00468\club
+      |---文件：club.cpp(大小：2055 字节 MD5:7c21b4b8bd5303a0379d06e3f1aff22f)
+   |---目录： ./answers\YN-S00468\employ
+      |---文件：employ.cpp(大小：844 字节 MD5:50a7cf1c64e55e442ce4251dffb6ef59)
+   |---目录： ./answers\YN-S00468\road
+      |---文件：road.cpp(大小：1763 字节 MD5:82aa4f8c0ea4fe2b544fd2e61a9e7414)
+|---目录： ./answers\YN-S00469
+   |---目录： ./answers\YN-S00469\club
+      |---文件：club.cpp(大小：1607 字节 MD5:1f4eb32b73a6bca9101401bac64d7233)
+   |---目录： ./answers\YN-S00469\employ
+      |---文件：employ.cpp(大小：200 字节 MD5:6d5fca465a742169ce91dc33424df0a2)
+   |---目录： ./answers\YN-S00469\replace
+      |---文件：replace.cpp(大小：215 字节 MD5:695576a23d5f729e1f07cdec8edb28a0)
+   |---目录： ./answers\YN-S00469\road
+      |---文件：road.cpp(大小：195 字节 MD5:e609b66e965b3d6ac33a6d4f4316a10e)
+|---目录： ./answers\YN-S00470
+   |---目录： ./answers\YN-S00470\club
+      |---文件：club.cpp(大小：576 字节 MD5:5c14aba3cca7d0860cd6d734db6ce33a)
+   |---目录： ./answers\YN-S00470\employ
+      |---文件：employ.cpp(大小：274 字节 MD5:7cf9b0efd18633e89a98bee1cdf397aa)
+   |---目录： ./answers\YN-S00470\repalce
+      |---文件：replace.cpp(大小：351 字节 MD5:d15881b62520beb0d9980ceea87ea054)
+   |---目录： ./answers\YN-S00470\road
+      |---文件：road.cpp(大小：349 字节 MD5:3c1f8a058ce7216768966cefe8ceacd5)
+|---目录： ./answers\YN-S00471
+   |---目录： ./answers\YN-S00471\club
+      |---文件：club.cpp(大小：1025 字节 MD5:5f46e49a1665d449c3a9355499233e20)
+   |---目录： ./answers\YN-S00471\employ
+      |---文件：employ.cpp(大小：216 字节 MD5:ea4f16bb588c1341494efa08c902ef5b)
+   |---目录： ./answers\YN-S00471\replace
+      |---文件：replace.cpp(大小：212 字节 MD5:9b303d4a17c204f73814312fcc456cee)
+   |---目录： ./answers\YN-S00471\road
+      |---文件：road.cpp(大小：653 字节 MD5:54523d6dd2073d932953823b2942f8a2)
+|---目录： ./answers\YN-S00472
+   |---目录： ./answers\YN-S00472\club
+      |---文件：club.cpp(大小：265 字节 MD5:fc47ef511a3ad2817d78805dcdd958da)
+   |---目录： ./answers\YN-S00472\employ
+      |---文件：employ.cpp(大小：164 字节 MD5:113239853b464586b99b407b9670e8ef)
+   |---目录： ./answers\YN-S00472\replace
+      |---文件：replace.cpp(大小：247 字节 MD5:797db642470d2b9f410a094f623add47)
+   |---目录： ./answers\YN-S00472\road
+      |---文件：road.cpp(大小：565 字节 MD5:0da1c6108309edb1a066971904dfa15b)
+|---目录： ./answers\YN-S00473
+   |---目录： ./answers\YN-S00473\club
+      |---文件：club.cpp(大小：426 字节 MD5:0334756ddc527887ebfba6de5a2ef354)
+   |---目录： ./answers\YN-S00473\road
+      |---文件：road.cpp(大小：178 字节 MD5:ca412e6bab2d339b031df2420dae5943)
+|---目录： ./answers\YN-S00475
+   |---目录： ./answers\YN-S00475\club
+      |---文件：club.cpp(大小：1661 字节 MD5:ed529c78bb8dda581a1380d7eb208cf1)
+|---目录： ./answers\YN-S00476
+   |---目录： ./answers\YN-S00476\club
+      |---文件：club.cpp(大小：445 字节 MD5:fec71bf6a976e9b7a6636c88ad2ccace)
+   |---目录： ./answers\YN-S00476\employ
+      |---文件：employ.cpp(大小：445 字节 MD5:fec71bf6a976e9b7a6636c88ad2ccace)
+   |---目录： ./answers\YN-S00476\replace
+      |---文件：repace.cpp(大小：445 字节 MD5:fec71bf6a976e9b7a6636c88ad2ccace)
+   |---目录： ./answers\YN-S00476\road
+      |---文件：read.cpp(大小：441 字节 MD5:a719214c275315870ecde6413ef3928b)
